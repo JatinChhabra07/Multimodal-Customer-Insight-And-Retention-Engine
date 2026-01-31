@@ -1,557 +1,557 @@
-order_id,customer_id,order_status,review_comment_message,review_score,price,freight_value,product_category_name
-e481f51cbdc54678b7cc49136f2d6af7,9ef432eb6251297304e76186b10a928d,delivered,"Não testei o produto ainda, mas ele veio correto e em boas condições. Apenas a caixa que veio bem amassada e danificada, o que ficará chato, pois se trata de um presente.",4.0,29.99,8.72,utilidades_domesticas
-e481f51cbdc54678b7cc49136f2d6af7,9ef432eb6251297304e76186b10a928d,delivered,"Não testei o produto ainda, mas ele veio correto e em boas condições. Apenas a caixa que veio bem amassada e danificada, o que ficará chato, pois se trata de um presente.",4.0,29.99,8.72,utilidades_domesticas
-e481f51cbdc54678b7cc49136f2d6af7,9ef432eb6251297304e76186b10a928d,delivered,"Não testei o produto ainda, mas ele veio correto e em boas condições. Apenas a caixa que veio bem amassada e danificada, o que ficará chato, pois se trata de um presente.",4.0,29.99,8.72,utilidades_domesticas
-53cdb2fc8bc7dce0b6741e2150273451,b0830fb4747a6c6d20dea0b8c802d7ef,delivered,Muito bom o produto.,4.0,118.7,22.76,perfumaria
-949d5b44dbf5de918fe9c16f97b45f8a,f88197465ea7920adcdbec7375364d82,delivered,O produto foi exatamente o que eu esperava e estava descrito no site e chegou bem antes da data prevista.,5.0,45.0,27.2,pet_shop
-136cce7faa42fdb2cefd53fdc79a6098,ed0271e0b7da060a393796590e7b737a,invoiced,fiquei triste por n ter me atendido.,2.0,49.9,16.05,
-e6ce16cb79ec1d90b1da9085a6118aeb,494dded5b201313c64ed7f100595b95c,delivered,Aguardando retorno da loja,1.0,99.0,30.53,ferramentas_jardim
-e6ce16cb79ec1d90b1da9085a6118aeb,494dded5b201313c64ed7f100595b95c,delivered,Aguardando retorno da loja,1.0,99.0,30.53,ferramentas_jardim
-432aaf21d85167c2c86ec9448c4e42cc,3df704f53d3f1d4818840b34ec672a9f,delivered,Gostei do produto,4.0,38.25,16.11,brinquedos
-dcb36b511fcac050b97cd5c05de84dc3,3b6828a50ffe546942b7a473d70ac0fc,delivered,Obrigado pela atenção. Lojas lannister perfeito em tudo.,5.0,132.4,14.05,perfumaria
-203096f03d82e0dffbc41ebc2e2bcfb7,d2b091571da224a1b36412c18bc3bbfe,delivered,"os correios estäo em greve... näo recebi nenhum aviso de atraso, mas de qqer forma a empresa responsável deveria dar alguma resposta sobre o atraso.",2.0,109.9,8.96,beleza_saude
-f3e7c359154d965827355f39d6b1fdac,62b423aab58096ca514ba6aa06be2f98,delivered,Sempre vou comprar aqui pois é a melhor parabéns ,5.0,89.9,14.21,papelaria
-fbf9ac61453ac646ce8ad9783d7d0af6,3a874b4d4c4b6543206ff5d89287f0c3,delivered,Demora muito entregar. Já passou o prazo e ainda não recebi minha encomenda.,2.0,109.9,15.53,cool_stuff
-acce194856392f074dbf9dada14d8d82,7e20bf5ca92da68200643bda76c504c6,delivered,"Até o momento não recebi o produto Protetor De Colchão Para Berço - Algodão Impermeável, já fiz a reclamação desde o dia 18/06 e ainda não obtive retorno. Irei cancelar o pedido e estornar a compra hj",1.0,90.9,48.64,bebes
-acce194856392f074dbf9dada14d8d82,7e20bf5ca92da68200643bda76c504c6,delivered,"Até o momento não recebi o produto Protetor De Colchão Para Berço - Algodão Impermeável, já fiz a reclamação desde o dia 18/06 e ainda não obtive retorno. Irei cancelar o pedido e estornar a compra hj",1.0,39.5,48.64,bebes
+order_id,customer_id,order_status,review_comment_message,review_score,price,freight_value,payment_value,product_category_name
+e481f51cbdc54678b7cc49136f2d6af7,9ef432eb6251297304e76186b10a928d,delivered,"Não testei o produto ainda, mas ele veio correto e em boas condições. Apenas a caixa que veio bem amassada e danificada, o que ficará chato, pois se trata de um presente.",4.0,29.99,8.72,18.12,utilidades_domesticas
+e481f51cbdc54678b7cc49136f2d6af7,9ef432eb6251297304e76186b10a928d,delivered,"Não testei o produto ainda, mas ele veio correto e em boas condições. Apenas a caixa que veio bem amassada e danificada, o que ficará chato, pois se trata de um presente.",4.0,29.99,8.72,2.0,utilidades_domesticas
+e481f51cbdc54678b7cc49136f2d6af7,9ef432eb6251297304e76186b10a928d,delivered,"Não testei o produto ainda, mas ele veio correto e em boas condições. Apenas a caixa que veio bem amassada e danificada, o que ficará chato, pois se trata de um presente.",4.0,29.99,8.72,18.59,utilidades_domesticas
+53cdb2fc8bc7dce0b6741e2150273451,b0830fb4747a6c6d20dea0b8c802d7ef,delivered,Muito bom o produto.,4.0,118.7,22.76,141.46,perfumaria
+949d5b44dbf5de918fe9c16f97b45f8a,f88197465ea7920adcdbec7375364d82,delivered,O produto foi exatamente o que eu esperava e estava descrito no site e chegou bem antes da data prevista.,5.0,45.0,27.2,72.2,pet_shop
+136cce7faa42fdb2cefd53fdc79a6098,ed0271e0b7da060a393796590e7b737a,invoiced,fiquei triste por n ter me atendido.,2.0,49.9,16.05,65.95,
+e6ce16cb79ec1d90b1da9085a6118aeb,494dded5b201313c64ed7f100595b95c,delivered,Aguardando retorno da loja,1.0,99.0,30.53,259.06,ferramentas_jardim
+e6ce16cb79ec1d90b1da9085a6118aeb,494dded5b201313c64ed7f100595b95c,delivered,Aguardando retorno da loja,1.0,99.0,30.53,259.06,ferramentas_jardim
+432aaf21d85167c2c86ec9448c4e42cc,3df704f53d3f1d4818840b34ec672a9f,delivered,Gostei do produto,4.0,38.25,16.11,54.36,brinquedos
+dcb36b511fcac050b97cd5c05de84dc3,3b6828a50ffe546942b7a473d70ac0fc,delivered,Obrigado pela atenção. Lojas lannister perfeito em tudo.,5.0,132.4,14.05,146.45,perfumaria
+203096f03d82e0dffbc41ebc2e2bcfb7,d2b091571da224a1b36412c18bc3bbfe,delivered,"os correios estäo em greve... näo recebi nenhum aviso de atraso, mas de qqer forma a empresa responsável deveria dar alguma resposta sobre o atraso.",2.0,109.9,8.96,118.86,beleza_saude
+f3e7c359154d965827355f39d6b1fdac,62b423aab58096ca514ba6aa06be2f98,delivered,Sempre vou comprar aqui pois é a melhor parabéns ,5.0,89.9,14.21,104.11,papelaria
+fbf9ac61453ac646ce8ad9783d7d0af6,3a874b4d4c4b6543206ff5d89287f0c3,delivered,Demora muito entregar. Já passou o prazo e ainda não recebi minha encomenda.,2.0,109.9,15.53,125.43,cool_stuff
+acce194856392f074dbf9dada14d8d82,7e20bf5ca92da68200643bda76c504c6,delivered,"Até o momento não recebi o produto Protetor De Colchão Para Berço - Algodão Impermeável, já fiz a reclamação desde o dia 18/06 e ainda não obtive retorno. Irei cancelar o pedido e estornar a compra hj",1.0,90.9,48.64,227.68,bebes
+acce194856392f074dbf9dada14d8d82,7e20bf5ca92da68200643bda76c504c6,delivered,"Até o momento não recebi o produto Protetor De Colchão Para Berço - Algodão Impermeável, já fiz a reclamação desde o dia 18/06 e ainda não obtive retorno. Irei cancelar o pedido e estornar a compra hj",1.0,39.5,48.64,227.68,bebes
 dd78f560c270f1909639c11b925620ea,8b212b9525f9e74e85e37ed6df37693e,delivered,"Lindos. 
-Acabamento incrivel, muiro macios e super em conta.",5.0,47.9,12.79,perfumaria
-f70a0aff17df5a6cdd9a7196128bd354,456dc10730fbdba34615447ea195d643,delivered,O produto veio faltando a base para auto e como eu fiz o pedido por telefone justamente para confirmar se a base demonstrada pela foto acompanhava o produto e tbm constava na descrição do item.,2.0,279.0,34.19,bebes
-1790eea0b567cf50911c057cf20f90f9,52142aa69d8d0e1247ab0cada0f76023,delivered,"Foi entregue um produto divergente do que eu havia comprado, além de não vir com todos os acessórios constantes na descrição do anuncio. Solicito providências urgentes.",1.0,186.9,38.0,climatizacao
-d887b52c6516beb39e8cd44a5f8b60f7,d9ef95f98d8da3b492bb8c0447910498,delivered,Ficou tudo ok só pensei q fosse maior mas.ta bom,5.0,84.9,15.35,brinquedos
-8563039e855156e48fccee4d611a3196,5f16605299d698660e0606f7eae2d2f9,delivered,"há muito tempo efetuo compras atraves desta loja, nunca tive problemas. sempre entrega antes da data.",5.0,78.0,28.95,ferramentas_jardim
-60550084e6b4c0cb89a87df1f3e5ebd9,f5458ddc3545711efa883dd7ae7c4497,delivered,bom pode comprar,4.0,39.9,26.89,eletronicos
-434d158e96bdd6972ad6e6d73ddcfd22,2a1dfb647f32f4390e7b857c67458536,delivered,"Produto veio bem lacrado, todo original.",5.0,445.0,63.17,beleza_saude
-1e7aff52cdbb2451ace09d0f848c3699,ddaff536587109b89777e0353215e150,delivered,Quero o cartão de crédito das Lojas lannister! Minha satisfação é Plena! ,5.0,119.99,34.2,ferramentas_jardim
-6ea2f835b4556291ffdc53fa0b3b95e8,c7340080e394356141681bd4c9b8fe31,delivered,"Inicialmente, na data da compra o produto era para ser entregue até 21/12. Hoje é dia 27/12 e não chegou ainda. ",1.0,339.0,17.12,utilidades_domesticas
-6ebaec694d7025e2ad4a05dba887c032,4f28355e5c17a4a42d3ce2439a1d4501,delivered,A cuba veio quebrada. Como efetuo barroca?,1.0,139.0,14.72,ferramentas_jardim
-5820a1100976432c7968a52da59e9364,2b56e94c2f66f2d97cfa63356f69cee8,delivered,Prazo de entrega excelente e produto cuidadosamente embalado! Recomendo!,5.0,33.9,18.34,esporte_lazer
-9faeb9b2746b9d7526aef5acb08e2aa0,79183cd650e2bb0d475b0067d45946ac,delivered,"Recebi apenas 1 unidade solicitada, deveriam ser 2, inclusive foi cobrado e consta na nota fiscal. Estou tentando contato com a loja a 4 dias. Informam que vão me mandar por email o contato do fornece",1.0,60.0,15.52,esporte_lazer
-9faeb9b2746b9d7526aef5acb08e2aa0,79183cd650e2bb0d475b0067d45946ac,delivered,"Recebi apenas 1 unidade solicitada, deveriam ser 2, inclusive foi cobrado e consta na nota fiscal. Estou tentando contato com a loja a 4 dias. Informam que vão me mandar por email o contato do fornece",1.0,60.0,15.52,esporte_lazer
-641fb0752bf5b5940c376b3a8bb9dc52,f5afca14dfa9dc64251cf2b45c54c363,delivered,"Inicialmente, pedi o cancelamento do pedido devido a falta de atualização com o produto, hoje sei que é erro do APLICATIVO e não do vendedor.",4.0,369.0,17.33,relogios_presentes
-e425680f760cbc130be3e53a9773c584,f178c1827f67a8467b0385b7378d951a,delivered,Potente e grande. ,5.0,38.4,11.85,moveis_decoracao
-40c5e18f7d112b59b3e5113a59a905b3,67407057a7d5ee17d1cd09523f484d13,delivered,Entrega antes da data marcada. Excelente,5.0,119.9,8.78,perfumaria
-66e4624ae69e7dc89bd50222b59f581f,684fa6da5134b9e4dab731e00011712d,delivered,"Pedir 2 capinhas,estou pagando as duas e só veio uma.Entao não estou nada satisfeita e espero que seja reparado esse erro.",1.0,22.99,22.85,telefonia
-66e4624ae69e7dc89bd50222b59f581f,684fa6da5134b9e4dab731e00011712d,delivered,"Pedir 2 capinhas,estou pagando as duas e só veio uma.Entao não estou nada satisfeita e espero que seja reparado esse erro.",1.0,22.99,22.85,telefonia
-a685d016c8a26f71a0bb67821070e398,911e4c37f5cafe1604fe6767034bf1ae,delivered,Não recebi,1.0,84.9,14.36,moveis_decoracao
+Acabamento incrivel, muiro macios e super em conta.",5.0,47.9,12.79,60.69,perfumaria
+f70a0aff17df5a6cdd9a7196128bd354,456dc10730fbdba34615447ea195d643,delivered,O produto veio faltando a base para auto e como eu fiz o pedido por telefone justamente para confirmar se a base demonstrada pela foto acompanhava o produto e tbm constava na descrição do item.,2.0,279.0,34.19,313.19,bebes
+1790eea0b567cf50911c057cf20f90f9,52142aa69d8d0e1247ab0cada0f76023,delivered,"Foi entregue um produto divergente do que eu havia comprado, além de não vir com todos os acessórios constantes na descrição do anuncio. Solicito providências urgentes.",1.0,186.9,38.0,224.9,climatizacao
+d887b52c6516beb39e8cd44a5f8b60f7,d9ef95f98d8da3b492bb8c0447910498,delivered,Ficou tudo ok só pensei q fosse maior mas.ta bom,5.0,84.9,15.35,100.25,brinquedos
+8563039e855156e48fccee4d611a3196,5f16605299d698660e0606f7eae2d2f9,delivered,"há muito tempo efetuo compras atraves desta loja, nunca tive problemas. sempre entrega antes da data.",5.0,78.0,28.95,106.95,ferramentas_jardim
+60550084e6b4c0cb89a87df1f3e5ebd9,f5458ddc3545711efa883dd7ae7c4497,delivered,bom pode comprar,4.0,39.9,26.89,66.79,eletronicos
+434d158e96bdd6972ad6e6d73ddcfd22,2a1dfb647f32f4390e7b857c67458536,delivered,"Produto veio bem lacrado, todo original.",5.0,445.0,63.17,508.17,beleza_saude
+1e7aff52cdbb2451ace09d0f848c3699,ddaff536587109b89777e0353215e150,delivered,Quero o cartão de crédito das Lojas lannister! Minha satisfação é Plena! ,5.0,119.99,34.2,154.19,ferramentas_jardim
+6ea2f835b4556291ffdc53fa0b3b95e8,c7340080e394356141681bd4c9b8fe31,delivered,"Inicialmente, na data da compra o produto era para ser entregue até 21/12. Hoje é dia 27/12 e não chegou ainda. ",1.0,339.0,17.12,356.12,utilidades_domesticas
+6ebaec694d7025e2ad4a05dba887c032,4f28355e5c17a4a42d3ce2439a1d4501,delivered,A cuba veio quebrada. Como efetuo barroca?,1.0,139.0,14.72,153.72,ferramentas_jardim
+5820a1100976432c7968a52da59e9364,2b56e94c2f66f2d97cfa63356f69cee8,delivered,Prazo de entrega excelente e produto cuidadosamente embalado! Recomendo!,5.0,33.9,18.34,52.24,esporte_lazer
+9faeb9b2746b9d7526aef5acb08e2aa0,79183cd650e2bb0d475b0067d45946ac,delivered,"Recebi apenas 1 unidade solicitada, deveriam ser 2, inclusive foi cobrado e consta na nota fiscal. Estou tentando contato com a loja a 4 dias. Informam que vão me mandar por email o contato do fornece",1.0,60.0,15.52,151.04,esporte_lazer
+9faeb9b2746b9d7526aef5acb08e2aa0,79183cd650e2bb0d475b0067d45946ac,delivered,"Recebi apenas 1 unidade solicitada, deveriam ser 2, inclusive foi cobrado e consta na nota fiscal. Estou tentando contato com a loja a 4 dias. Informam que vão me mandar por email o contato do fornece",1.0,60.0,15.52,151.04,esporte_lazer
+641fb0752bf5b5940c376b3a8bb9dc52,f5afca14dfa9dc64251cf2b45c54c363,delivered,"Inicialmente, pedi o cancelamento do pedido devido a falta de atualização com o produto, hoje sei que é erro do APLICATIVO e não do vendedor.",4.0,369.0,17.33,386.33,relogios_presentes
+e425680f760cbc130be3e53a9773c584,f178c1827f67a8467b0385b7378d951a,delivered,Potente e grande. ,5.0,38.4,11.85,50.25,moveis_decoracao
+40c5e18f7d112b59b3e5113a59a905b3,67407057a7d5ee17d1cd09523f484d13,delivered,Entrega antes da data marcada. Excelente,5.0,119.9,8.78,128.68,perfumaria
+66e4624ae69e7dc89bd50222b59f581f,684fa6da5134b9e4dab731e00011712d,delivered,"Pedir 2 capinhas,estou pagando as duas e só veio uma.Entao não estou nada satisfeita e espero que seja reparado esse erro.",1.0,22.99,22.85,91.68,telefonia
+66e4624ae69e7dc89bd50222b59f581f,684fa6da5134b9e4dab731e00011712d,delivered,"Pedir 2 capinhas,estou pagando as duas e só veio uma.Entao não estou nada satisfeita e espero que seja reparado esse erro.",1.0,22.99,22.85,91.68,telefonia
+a685d016c8a26f71a0bb67821070e398,911e4c37f5cafe1604fe6767034bf1ae,delivered,Não recebi,1.0,84.9,14.36,99.26,moveis_decoracao
 688052146432ef8253587b930b01a06d,81e08b08e5ed4472008030d70327c71f,delivered,"Somente a Mala Pequena Bordo Avião 360º Viagem Seanite Preta 12771 foi entregue.
-O Auto Transformador Automático Bivolt 5000va Até 12.000 Btus ainda não foi entregue.",4.0,119.0,24.97,informatica_acessorios
+O Auto Transformador Automático Bivolt 5000va Até 12.000 Btus ainda não foi entregue.",4.0,119.0,24.97,346.09,informatica_acessorios
 688052146432ef8253587b930b01a06d,81e08b08e5ed4472008030d70327c71f,delivered,"Somente a Mala Pequena Bordo Avião 360º Viagem Seanite Preta 12771 foi entregue.
-O Auto Transformador Automático Bivolt 5000va Até 12.000 Btus ainda não foi entregue.",4.0,199.0,3.12,malas_acessorios
+O Auto Transformador Automático Bivolt 5000va Até 12.000 Btus ainda não foi entregue.",4.0,199.0,3.12,346.09,malas_acessorios
 f271576bed568e896f99eb710cd3a6f8,5dda11942d4f77bee3a46d71e442aec4,delivered,"Pensei que a cinta seria mais larga.
-É muito estreita para cargas pesadas",3.0,329.9,82.48,construcao_ferramentas_construcao
+É muito estreita para cargas pesadas",3.0,329.9,82.48,824.76,construcao_ferramentas_construcao
 f271576bed568e896f99eb710cd3a6f8,5dda11942d4f77bee3a46d71e442aec4,delivered,"Pensei que a cinta seria mais larga.
-É muito estreita para cargas pesadas",3.0,329.9,82.48,construcao_ferramentas_construcao
-686541986ecfb7d9296eb67719973bf0,74805bc388861fa350ed2fade8444e0b,delivered,Agora é testar para avaliar se é de qualidade. Mas até agora tudo certo.,4.0,24.89,15.1,telefonia
-fdf128b3630c21adc9ca4fb8a51b68ec,a9d37ddc8ba4d9f6dbac7d8ec378cc95,delivered,Passei e-mail solicitando suporte para fazer o produto funciona,3.0,27.9,18.3,alimentos
-6abaad69b8b349c3a529b4b91ce18e46,f5618502bee8eafdee72fb6955e2ebdf,delivered,O produto é uma ótima decoração para deixar o ambiente lindo. ,4.0,42.9,14.1,cool_stuff
-974c1993ab8024d3ed16229183c2308d,a90391a47de936d56c66a5366cba1462,delivered, produto otimo,5.0,69.9,14.66,beleza_saude
-634e8f4c0f6744a626f77f39770ac6aa,05e996469a2bf9559c7122b87e156724,delivered,Muito bom o produto e preço cobrado!,1.0,219.0,15.28,relogios_presentes
-634e8f4c0f6744a626f77f39770ac6aa,05e996469a2bf9559c7122b87e156724,delivered,Muito bom o produto e preço cobrado!,1.0,219.0,15.28,relogios_presentes
-b8801cccd8068de30112e4f49903d74a,f26a435864aebedff7f7c84f82ee229f,delivered,Tudo em ordem.,3.0,19.99,7.78,beleza_saude
-0e782c3705510e717d28907746cbda82,3a897024068ed42a183de61d5727d866,delivered,O produto veio em perfeitas condições e chegou antes do prazo. Parabéns pelo atendimento. ,4.0,29.99,7.39,telefonia
-86f21bf63784876b9fd6d35f46581d72,332df68ccac2f2f7d9e11299188f8bce,delivered,"Os outros produtos, a loja ofereceu mas não cumpriu com a entrega.",1.0,98.44,22.4,informatica_acessorios
+É muito estreita para cargas pesadas",3.0,329.9,82.48,824.76,construcao_ferramentas_construcao
+686541986ecfb7d9296eb67719973bf0,74805bc388861fa350ed2fade8444e0b,delivered,Agora é testar para avaliar se é de qualidade. Mas até agora tudo certo.,4.0,24.89,15.1,39.99,telefonia
+fdf128b3630c21adc9ca4fb8a51b68ec,a9d37ddc8ba4d9f6dbac7d8ec378cc95,delivered,Passei e-mail solicitando suporte para fazer o produto funciona,3.0,27.9,18.3,46.2,alimentos
+6abaad69b8b349c3a529b4b91ce18e46,f5618502bee8eafdee72fb6955e2ebdf,delivered,O produto é uma ótima decoração para deixar o ambiente lindo. ,4.0,42.9,14.1,57.0,cool_stuff
+974c1993ab8024d3ed16229183c2308d,a90391a47de936d56c66a5366cba1462,delivered, produto otimo,5.0,69.9,14.66,84.56,beleza_saude
+634e8f4c0f6744a626f77f39770ac6aa,05e996469a2bf9559c7122b87e156724,delivered,Muito bom o produto e preço cobrado!,1.0,219.0,15.28,227.2,relogios_presentes
+634e8f4c0f6744a626f77f39770ac6aa,05e996469a2bf9559c7122b87e156724,delivered,Muito bom o produto e preço cobrado!,1.0,219.0,15.28,7.08,relogios_presentes
+b8801cccd8068de30112e4f49903d74a,f26a435864aebedff7f7c84f82ee229f,delivered,Tudo em ordem.,3.0,19.99,7.78,27.77,beleza_saude
+0e782c3705510e717d28907746cbda82,3a897024068ed42a183de61d5727d866,delivered,O produto veio em perfeitas condições e chegou antes do prazo. Parabéns pelo atendimento. ,4.0,29.99,7.39,37.38,telefonia
+86f21bf63784876b9fd6d35f46581d72,332df68ccac2f2f7d9e11299188f8bce,delivered,"Os outros produtos, a loja ofereceu mas não cumpriu com a entrega.",1.0,98.44,22.4,120.84,informatica_acessorios
 f169bd689fb8b32ccd62df9050aebc0b,82f0b75bb50fcb30711e5277e36b3983,delivered,"Tudo conforme o combinado!! Entrega antes do prazo, ficamos felizes e satisfeitos! Parabéns!
-",5.0,759.0,13.08,telefonia
-41bb5cee06dbf170878a9ef93ac7e7f5,1833a0540067becaf59368fe4cd4303a,delivered,Recebi 22 dias antes do prazo,5.0,10.9,12.79,moveis_decoracao
-e3447938231fb6ba2fee0231b51eca59,2c3642e1392097fb4af76a76fec16a46,delivered,"Produto muito bonito, chegou no prazo correto parece um Trofeu, qualidade ótimo para presente",5.0,160.0,12.14,utilidades_domesticas
-a5474c0071dd5d1074e12d417078bbd0,ef15b3240b2083e0487762ee2978d2b8,delivered,Chegou antes do prazo e o produto é exatamente pedido o que eu queria,5.0,13.99,7.39,beleza_saude
-0760a852e4e9d89eb77bf631eaaf1c84,d2a79636084590b7465af8ab374a8cf5,invoiced,"Gostei do produto, porem fiquei preocupada não chegasse a tempo pois não foi atualizado o status da compra chegou no ultimo dia do prazo.",3.0,35.0,15.35,artigos_de_natal
-af5b0604e113e1526593d505a26ef39d,b896b244963dc7543d400ad82d6710e0,delivered,"Boa noite, não recebi o escorredor de louça, Continuo no aguardo",1.0,19.9,8.72,utilidades_domesticas
-9d531c565e28c3e0d756192f84d8731f,d4faa220408c20e53595d2950f361f3b,delivered,Não recebi o produto até a presente data na minha residência. ,1.0,25.99,14.1,moveis_decoracao
-80d817467dc3d0a4bb5ab8986c962b1f,a4a2abd07b1cdd4902cf245cdfa1451d,delivered,Recebi antes do prazo ,5.0,49.9,16.54,papelaria
-80d817467dc3d0a4bb5ab8986c962b1f,a4a2abd07b1cdd4902cf245cdfa1451d,delivered,Recebi antes do prazo ,5.0,49.9,16.54,papelaria
+",5.0,759.0,13.08,772.08,telefonia
+41bb5cee06dbf170878a9ef93ac7e7f5,1833a0540067becaf59368fe4cd4303a,delivered,Recebi 22 dias antes do prazo,5.0,10.9,12.79,23.69,moveis_decoracao
+e3447938231fb6ba2fee0231b51eca59,2c3642e1392097fb4af76a76fec16a46,delivered,"Produto muito bonito, chegou no prazo correto parece um Trofeu, qualidade ótimo para presente",5.0,160.0,12.14,172.14,utilidades_domesticas
+a5474c0071dd5d1074e12d417078bbd0,ef15b3240b2083e0487762ee2978d2b8,delivered,Chegou antes do prazo e o produto é exatamente pedido o que eu queria,5.0,13.99,7.39,21.38,beleza_saude
+0760a852e4e9d89eb77bf631eaaf1c84,d2a79636084590b7465af8ab374a8cf5,invoiced,"Gostei do produto, porem fiquei preocupada não chegasse a tempo pois não foi atualizado o status da compra chegou no ultimo dia do prazo.",3.0,35.0,15.35,50.35,artigos_de_natal
+af5b0604e113e1526593d505a26ef39d,b896b244963dc7543d400ad82d6710e0,delivered,"Boa noite, não recebi o escorredor de louça, Continuo no aguardo",1.0,19.9,8.72,28.62,utilidades_domesticas
+9d531c565e28c3e0d756192f84d8731f,d4faa220408c20e53595d2950f361f3b,delivered,Não recebi o produto até a presente data na minha residência. ,1.0,25.99,14.1,40.09,moveis_decoracao
+80d817467dc3d0a4bb5ab8986c962b1f,a4a2abd07b1cdd4902cf245cdfa1451d,delivered,Recebi antes do prazo ,5.0,49.9,16.54,132.88,papelaria
+80d817467dc3d0a4bb5ab8986c962b1f,a4a2abd07b1cdd4902cf245cdfa1451d,delivered,Recebi antes do prazo ,5.0,49.9,16.54,132.88,papelaria
 c75acba615d2db29345327974641467d,2b47ff70d422cc3ada976dea40f48782,delivered,"Muito bom
-",5.0,84.99,26.9,beleza_saude
-210e60465099814a1d2c7635e4065153,fc849c5fbc7e2b0c7cfebc138886c693,delivered,Espero que seja sempre assim rápido e produto perfeito.,4.0,199.0,32.79,cool_stuff
-8fc207e94fa91a7649c5a5dab690272a,c69f8b33e62ecb30ff78ae46d7fb9241,delivered,O prazo de entrega é muito longo,3.0,109.9,25.61,cama_mesa_banho
-01a75ac3dd000b7628a684be97c29234,57ee2ef64f17a5f9a4bf30489b06326c,delivered,COMO VOU AVALIAR UM PRODUTO QUE NÃO RECEBI,1.0,42.9,15.1,utilidades_domesticas
-0c6b011f8a4f87010c23995f5807d152,a78b75a2ad06180de06b82857ca442b3,delivered,"Serviços todos ótimos, porém achei só o fecho um pouco frágil!!recomendo! ",5.0,43.0,23.02,relogios_presentes
-ee0c5c649e17808bc4a363d3a80ebf85,cc3590e4afbb4b3e056b50a80a6a7d0c,delivered,Recomendado,4.0,12.5,14.1,esporte_lazer
-ee0c5c649e17808bc4a363d3a80ebf85,cc3590e4afbb4b3e056b50a80a6a7d0c,delivered,Recomendado,4.0,12.5,14.1,esporte_lazer
-f2fa3795760c35b8c05fa8e2f09d5143,fac60d7c4df3896a5af5db6c91e03797,delivered,Só foi entregue 1 dos 3 produtos q comprei ,3.0,179.9,8.41,cama_mesa_banho
-f2fa3795760c35b8c05fa8e2f09d5143,fac60d7c4df3896a5af5db6c91e03797,delivered,Só foi entregue 1 dos 3 produtos q comprei ,3.0,119.99,28.05,moveis_escritorio
-f2fa3795760c35b8c05fa8e2f09d5143,fac60d7c4df3896a5af5db6c91e03797,delivered,Só foi entregue 1 dos 3 produtos q comprei ,3.0,149.99,32.05,moveis_escritorio
-3923e3ade70348985bd2ca389905cf19,6454e6cba392b35aa21527063026fc92,delivered,"O suporte veio com um parafuso espanado... Como eu precisava urgente, não devolvi pra trocar e meu primo soldou... Mas fora isso,o suporte é ótimo!!!",4.0,59.9,18.25,instrumentos_musicais
-e37797aedc7cd4ef82278fbc169eecaf,4c9c7c2b6de6ee2568681b5599bb7495,delivered,Muito bom entregou até antes do dia 😆😆😆😆😆😆😆😆,5.0,69.99,14.58,cama_mesa_banho
-35660aec0cc42b6257e24281ee0e6255,b53cc3c992caaa45ec73cfdde4d839b5,delivered,mais ou menos o produto veio faltando uma peca,1.0,129.6,25.4,moveis_escritorio
-b01875821b8dcb6abc61776f0f971bce,818596f5b68adfe2c11498ebb6d39e02,delivered,"Acho que deveria enviar o produtos juntos, já que na nota fiscal estavamos juntas e são as mesmas luminarias e não enviar quase uma semana depois de diferenca.",4.0,31.8,39.28,moveis_decoracao
-b01875821b8dcb6abc61776f0f971bce,818596f5b68adfe2c11498ebb6d39e02,delivered,"Acho que deveria enviar o produtos juntos, já que na nota fiscal estavamos juntas e são as mesmas luminarias e não enviar quase uma semana depois de diferenca.",4.0,31.8,39.28,moveis_decoracao
-5164933efe0cd14f31424b9badf81f19,d0e71d7a6dbca8ac513ac63d08a81fa0,delivered,Produto não corresponde às expectativas ,1.0,129.9,12.0,cama_mesa_banho
-01855f880aae9a984c7c33b26fcf2e02,2e068340b3037f667ce3224bd59260af,delivered,"Chegou antes do prazo , super recomendo ",5.0,39.49,8.27,beleza_saude
-01855f880aae9a984c7c33b26fcf2e02,2e068340b3037f667ce3224bd59260af,delivered,"Chegou antes do prazo , super recomendo ",5.0,39.49,8.27,beleza_saude
-741fd1b80f015f170a7f458cf86769b8,df5c9e02596851fcbfc98804e4108bbd,delivered,Nao gostei do produto pois veio com detalhes no acabamento e com sinais que ja foram uzados,1.0,89.99,16.39,beleza_saude
-4b87488fb6269f8321508923b95da4d6,e42998ccffc48dc87bf70b37e2d61f33,delivered,eu adorei... e é uma gracinha... estava doida p chegar..é um produto de otima qualidade,5.0,25.0,13.47,utilidades_domesticas
-9344ccd01ff5fa7ec2aef0ee7e1c49c3,4fd75fb5ef1f01c7585bf746092a1544,delivered,Superou minha expectativa!,5.0,39.0,12.79,papelaria
-f4471dae8c482f51aa1826cd9f5d4433,167b9485947ed0a354a3f8dad04eb199,delivered,Recebi um produto velho ,1.0,104.9,4.39,esporte_lazer
-f4471dae8c482f51aa1826cd9f5d4433,167b9485947ed0a354a3f8dad04eb199,delivered,Recebi um produto velho ,1.0,110.32,12.53,beleza_saude
-33a3edb84b9df4cb49546859b990ac6d,35ec6c1ca9e5844c5ca94214cce16dca,delivered,Minha opinião é que se comprei o produto ele tinha que ser entregue e não receber um notificação que seria dado como entregue o produto...então a empresa me devolva meu dinheiro!!,1.0,49.9,17.6,ferramentas_jardim
-90349f264a3d6a2525a34598d09dda6b,d19f254a07da73a055409256e9bfe40a,delivered,"Muito bom, apenas uma não está funcionando.",5.0,45.0,7.39,construcao_ferramentas_iluminacao
-90349f264a3d6a2525a34598d09dda6b,d19f254a07da73a055409256e9bfe40a,delivered,"Muito bom, apenas uma não está funcionando.",5.0,45.0,7.39,construcao_ferramentas_iluminacao
-90349f264a3d6a2525a34598d09dda6b,d19f254a07da73a055409256e9bfe40a,delivered,"Muito bom, apenas uma não está funcionando.",5.0,45.0,7.39,construcao_ferramentas_iluminacao
-90349f264a3d6a2525a34598d09dda6b,d19f254a07da73a055409256e9bfe40a,delivered,"Muito bom, apenas uma não está funcionando.",5.0,45.0,7.39,construcao_ferramentas_iluminacao
-90349f264a3d6a2525a34598d09dda6b,d19f254a07da73a055409256e9bfe40a,delivered,"Muito bom, apenas uma não está funcionando.",5.0,45.0,7.39,construcao_ferramentas_iluminacao
-90349f264a3d6a2525a34598d09dda6b,d19f254a07da73a055409256e9bfe40a,delivered,"Muito bom, apenas uma não está funcionando.",5.0,45.0,7.39,construcao_ferramentas_iluminacao
+",5.0,84.99,26.9,111.89,beleza_saude
+210e60465099814a1d2c7635e4065153,fc849c5fbc7e2b0c7cfebc138886c693,delivered,Espero que seja sempre assim rápido e produto perfeito.,4.0,199.0,32.79,231.79,cool_stuff
+8fc207e94fa91a7649c5a5dab690272a,c69f8b33e62ecb30ff78ae46d7fb9241,delivered,O prazo de entrega é muito longo,3.0,109.9,25.61,135.51,cama_mesa_banho
+01a75ac3dd000b7628a684be97c29234,57ee2ef64f17a5f9a4bf30489b06326c,delivered,COMO VOU AVALIAR UM PRODUTO QUE NÃO RECEBI,1.0,42.9,15.1,58.0,utilidades_domesticas
+0c6b011f8a4f87010c23995f5807d152,a78b75a2ad06180de06b82857ca442b3,delivered,"Serviços todos ótimos, porém achei só o fecho um pouco frágil!!recomendo! ",5.0,43.0,23.02,66.02,relogios_presentes
+ee0c5c649e17808bc4a363d3a80ebf85,cc3590e4afbb4b3e056b50a80a6a7d0c,delivered,Recomendado,4.0,12.5,14.1,53.2,esporte_lazer
+ee0c5c649e17808bc4a363d3a80ebf85,cc3590e4afbb4b3e056b50a80a6a7d0c,delivered,Recomendado,4.0,12.5,14.1,53.2,esporte_lazer
+f2fa3795760c35b8c05fa8e2f09d5143,fac60d7c4df3896a5af5db6c91e03797,delivered,Só foi entregue 1 dos 3 produtos q comprei ,3.0,179.9,8.41,518.39,cama_mesa_banho
+f2fa3795760c35b8c05fa8e2f09d5143,fac60d7c4df3896a5af5db6c91e03797,delivered,Só foi entregue 1 dos 3 produtos q comprei ,3.0,119.99,28.05,518.39,moveis_escritorio
+f2fa3795760c35b8c05fa8e2f09d5143,fac60d7c4df3896a5af5db6c91e03797,delivered,Só foi entregue 1 dos 3 produtos q comprei ,3.0,149.99,32.05,518.39,moveis_escritorio
+3923e3ade70348985bd2ca389905cf19,6454e6cba392b35aa21527063026fc92,delivered,"O suporte veio com um parafuso espanado... Como eu precisava urgente, não devolvi pra trocar e meu primo soldou... Mas fora isso,o suporte é ótimo!!!",4.0,59.9,18.25,78.15,instrumentos_musicais
+e37797aedc7cd4ef82278fbc169eecaf,4c9c7c2b6de6ee2568681b5599bb7495,delivered,Muito bom entregou até antes do dia 😆😆😆😆😆😆😆😆,5.0,69.99,14.58,84.57,cama_mesa_banho
+35660aec0cc42b6257e24281ee0e6255,b53cc3c992caaa45ec73cfdde4d839b5,delivered,mais ou menos o produto veio faltando uma peca,1.0,129.6,25.4,155.0,moveis_escritorio
+b01875821b8dcb6abc61776f0f971bce,818596f5b68adfe2c11498ebb6d39e02,delivered,"Acho que deveria enviar o produtos juntos, já que na nota fiscal estavamos juntas e são as mesmas luminarias e não enviar quase uma semana depois de diferenca.",4.0,31.8,39.28,142.16,moveis_decoracao
+b01875821b8dcb6abc61776f0f971bce,818596f5b68adfe2c11498ebb6d39e02,delivered,"Acho que deveria enviar o produtos juntos, já que na nota fiscal estavamos juntas e são as mesmas luminarias e não enviar quase uma semana depois de diferenca.",4.0,31.8,39.28,142.16,moveis_decoracao
+5164933efe0cd14f31424b9badf81f19,d0e71d7a6dbca8ac513ac63d08a81fa0,delivered,Produto não corresponde às expectativas ,1.0,129.9,12.0,141.9,cama_mesa_banho
+01855f880aae9a984c7c33b26fcf2e02,2e068340b3037f667ce3224bd59260af,delivered,"Chegou antes do prazo , super recomendo ",5.0,39.49,8.27,95.52,beleza_saude
+01855f880aae9a984c7c33b26fcf2e02,2e068340b3037f667ce3224bd59260af,delivered,"Chegou antes do prazo , super recomendo ",5.0,39.49,8.27,95.52,beleza_saude
+741fd1b80f015f170a7f458cf86769b8,df5c9e02596851fcbfc98804e4108bbd,delivered,Nao gostei do produto pois veio com detalhes no acabamento e com sinais que ja foram uzados,1.0,89.99,16.39,106.38,beleza_saude
+4b87488fb6269f8321508923b95da4d6,e42998ccffc48dc87bf70b37e2d61f33,delivered,eu adorei... e é uma gracinha... estava doida p chegar..é um produto de otima qualidade,5.0,25.0,13.47,38.47,utilidades_domesticas
+9344ccd01ff5fa7ec2aef0ee7e1c49c3,4fd75fb5ef1f01c7585bf746092a1544,delivered,Superou minha expectativa!,5.0,39.0,12.79,51.79,papelaria
+f4471dae8c482f51aa1826cd9f5d4433,167b9485947ed0a354a3f8dad04eb199,delivered,Recebi um produto velho ,1.0,104.9,4.39,232.14,esporte_lazer
+f4471dae8c482f51aa1826cd9f5d4433,167b9485947ed0a354a3f8dad04eb199,delivered,Recebi um produto velho ,1.0,110.32,12.53,232.14,beleza_saude
+33a3edb84b9df4cb49546859b990ac6d,35ec6c1ca9e5844c5ca94214cce16dca,delivered,Minha opinião é que se comprei o produto ele tinha que ser entregue e não receber um notificação que seria dado como entregue o produto...então a empresa me devolva meu dinheiro!!,1.0,49.9,17.6,67.5,ferramentas_jardim
+90349f264a3d6a2525a34598d09dda6b,d19f254a07da73a055409256e9bfe40a,delivered,"Muito bom, apenas uma não está funcionando.",5.0,45.0,7.39,314.34,construcao_ferramentas_iluminacao
+90349f264a3d6a2525a34598d09dda6b,d19f254a07da73a055409256e9bfe40a,delivered,"Muito bom, apenas uma não está funcionando.",5.0,45.0,7.39,314.34,construcao_ferramentas_iluminacao
+90349f264a3d6a2525a34598d09dda6b,d19f254a07da73a055409256e9bfe40a,delivered,"Muito bom, apenas uma não está funcionando.",5.0,45.0,7.39,314.34,construcao_ferramentas_iluminacao
+90349f264a3d6a2525a34598d09dda6b,d19f254a07da73a055409256e9bfe40a,delivered,"Muito bom, apenas uma não está funcionando.",5.0,45.0,7.39,314.34,construcao_ferramentas_iluminacao
+90349f264a3d6a2525a34598d09dda6b,d19f254a07da73a055409256e9bfe40a,delivered,"Muito bom, apenas uma não está funcionando.",5.0,45.0,7.39,314.34,construcao_ferramentas_iluminacao
+90349f264a3d6a2525a34598d09dda6b,d19f254a07da73a055409256e9bfe40a,delivered,"Muito bom, apenas uma não está funcionando.",5.0,45.0,7.39,314.34,construcao_ferramentas_iluminacao
 1d067305b599c1e0dceb3864056ea527,0489975a325480c9e385e9f135bb13c3,delivered,"muito bom otimo
-",5.0,148.9,21.53,cama_mesa_banho
-cefa8ee1540139ac77fa0c1b4ff1f04b,3b9388d1014c8090f77595c5e9f2ce94,delivered,"Rápido, claro e objetivo. Produto excelente. Recomendo!",5.0,66.39,19.66,alimentos
-b2bd1f09c1b8a4a36940f6f6e49d5dec,8ed14e450a6268ec13f325e7c2eafeed,delivered,Chegou antes do prazo e embalado corretamente,5.0,199.0,16.14,relogios_presentes
-b2bd1f09c1b8a4a36940f6f6e49d5dec,8ed14e450a6268ec13f325e7c2eafeed,delivered,Chegou antes do prazo e embalado corretamente,5.0,199.0,16.14,relogios_presentes
-b2bd1f09c1b8a4a36940f6f6e49d5dec,8ed14e450a6268ec13f325e7c2eafeed,delivered,Chegou antes do prazo e embalado corretamente,5.0,199.0,16.14,relogios_presentes
-e69e2290db6b2d3b7593a40112e1a82a,3a017955f82b5bf61bb51aec865a01ca,delivered,Excelente serviço e os produtos foram exatamente o que eu esperava.,5.0,28.0,25.34,livros_tecnicos
-e69e2290db6b2d3b7593a40112e1a82a,3a017955f82b5bf61bb51aec865a01ca,delivered,Excelente serviço e os produtos foram exatamente o que eu esperava.,5.0,47.99,25.34,construcao_ferramentas_jardim
-1370fae9b19ee5e01a2d609eb18b7c8a,22eb8142d6313bab19fa6c657170ae6b,delivered,Ótimo produto ,4.0,117.3,28.2,automotivo
-663830a477534735bbdec9de01113fa2,c1ddb7521d14db9071dccad0a94305c2,delivered,ok,5.0,24.9,13.51,eletronicos
-93ec3e2c9a4beee38c28973d307093e1,330ca6b207006779da875ef48faef608,delivered,Faltou a FLANGE da cadeira que e considerada a peça mais importante.,1.0,179.9,24.55,moveis_escritorio
-5561adcb0fd46da4cad3048fa4e7fc00,819b0aa9b717f6d78c0f72211bafebe3,delivered,Entrega muito rapida ,5.0,99.9,9.45,eletrodomesticos
-6245ae0abd9de1ae647b5da78c0ea69b,d68585c54450af4bfc04cc6cccbcd607,delivered,Não chegou ainda,3.0,62.8,11.94,market_place
-565923f847aad52e7638eb189cce3b51,a2cb2bc236e62cf807925d6cecc245c6,delivered,"Entrega antes do prazo, e produto ótimo.",5.0,80.0,17.81,beleza_saude
-36ebb4199031e72a1fa964549b88c377,eecf2b94cdbe9ef6245fabb5e091c987,delivered,Ótimo!!!,5.0,109.9,23.35,bebes
-780fe22baa36991bdbb1559f5b549596,e1862648f338ecaf4242e8e2b59126ca,delivered,"Solicitei a devolução do pedido!Devido a ter feito outra compra, mas tudo veio certinho no outro pedido!",5.0,37.99,14.52,telefonia
-ba4ddff2b9082f079de9a84d7a5605fd,fbfba770bf13f470f63d1854a765a2d3,delivered,Eu recomendo um execelente de entregue muito rápido. ,5.0,52.39,13.08,beleza_saude
-775130c792f4c6460c63162e994a1114,d4cd9729eeca5306a2c039fe6e55601e,delivered,ok,5.0,257.6,15.67,artigos_de_festas
-b0928556a10706af462ca2ab2c91903b,0b9e85491c194a97516c87f30a93abfa,delivered,otima,5.0,83.0,23.73,informatica_acessorios
-5487a8ac1699754d975f853ce8bb9321,a51b373c427132a77b112ca10f502c4f,delivered,Um pézinho maior que o outros ,3.0,159.99,27.2,casa_conforto
-00571ded73b3c061925584feab0db425,3c628393675b42c6b5ef89461f68ecef,delivered,"Gostei muito, sempre que precisar irei comprar.",5.0,179.9,15.01,perfumaria
-00571ded73b3c061925584feab0db425,3c628393675b42c6b5ef89461f68ecef,delivered,"Gostei muito, sempre que precisar irei comprar.",5.0,179.9,15.01,perfumaria
-43d88b0e949865904334dd5b3ca63f50,aa601b3c45980c0918042d5ca7a25054,delivered,Muito bom ,4.0,49.99,8.29,perfumaria
-5e99f3c445038a0709b2aea8e34ed593,243ee97e01766bf68c3e30f0fe572490,delivered,Empresa Confiável,4.0,59.9,17.13,utilidades_domesticas
+",5.0,148.9,21.53,170.43,cama_mesa_banho
+cefa8ee1540139ac77fa0c1b4ff1f04b,3b9388d1014c8090f77595c5e9f2ce94,delivered,"Rápido, claro e objetivo. Produto excelente. Recomendo!",5.0,66.39,19.66,86.05,alimentos
+b2bd1f09c1b8a4a36940f6f6e49d5dec,8ed14e450a6268ec13f325e7c2eafeed,delivered,Chegou antes do prazo e embalado corretamente,5.0,199.0,16.14,29.13,relogios_presentes
+b2bd1f09c1b8a4a36940f6f6e49d5dec,8ed14e450a6268ec13f325e7c2eafeed,delivered,Chegou antes do prazo e embalado corretamente,5.0,199.0,16.14,23.09,relogios_presentes
+b2bd1f09c1b8a4a36940f6f6e49d5dec,8ed14e450a6268ec13f325e7c2eafeed,delivered,Chegou antes do prazo e embalado corretamente,5.0,199.0,16.14,162.92,relogios_presentes
+e69e2290db6b2d3b7593a40112e1a82a,3a017955f82b5bf61bb51aec865a01ca,delivered,Excelente serviço e os produtos foram exatamente o que eu esperava.,5.0,28.0,25.34,126.67,livros_tecnicos
+e69e2290db6b2d3b7593a40112e1a82a,3a017955f82b5bf61bb51aec865a01ca,delivered,Excelente serviço e os produtos foram exatamente o que eu esperava.,5.0,47.99,25.34,126.67,construcao_ferramentas_jardim
+1370fae9b19ee5e01a2d609eb18b7c8a,22eb8142d6313bab19fa6c657170ae6b,delivered,Ótimo produto ,4.0,117.3,28.2,145.5,automotivo
+663830a477534735bbdec9de01113fa2,c1ddb7521d14db9071dccad0a94305c2,delivered,ok,5.0,24.9,13.51,38.41,eletronicos
+93ec3e2c9a4beee38c28973d307093e1,330ca6b207006779da875ef48faef608,delivered,Faltou a FLANGE da cadeira que e considerada a peça mais importante.,1.0,179.9,24.55,204.45,moveis_escritorio
+5561adcb0fd46da4cad3048fa4e7fc00,819b0aa9b717f6d78c0f72211bafebe3,delivered,Entrega muito rapida ,5.0,99.9,9.45,109.35,eletrodomesticos
+6245ae0abd9de1ae647b5da78c0ea69b,d68585c54450af4bfc04cc6cccbcd607,delivered,Não chegou ainda,3.0,62.8,11.94,74.74,market_place
+565923f847aad52e7638eb189cce3b51,a2cb2bc236e62cf807925d6cecc245c6,delivered,"Entrega antes do prazo, e produto ótimo.",5.0,80.0,17.81,97.81,beleza_saude
+36ebb4199031e72a1fa964549b88c377,eecf2b94cdbe9ef6245fabb5e091c987,delivered,Ótimo!!!,5.0,109.9,23.35,133.25,bebes
+780fe22baa36991bdbb1559f5b549596,e1862648f338ecaf4242e8e2b59126ca,delivered,"Solicitei a devolução do pedido!Devido a ter feito outra compra, mas tudo veio certinho no outro pedido!",5.0,37.99,14.52,52.51,telefonia
+ba4ddff2b9082f079de9a84d7a5605fd,fbfba770bf13f470f63d1854a765a2d3,delivered,Eu recomendo um execelente de entregue muito rápido. ,5.0,52.39,13.08,65.47,beleza_saude
+775130c792f4c6460c63162e994a1114,d4cd9729eeca5306a2c039fe6e55601e,delivered,ok,5.0,257.6,15.67,273.27,artigos_de_festas
+b0928556a10706af462ca2ab2c91903b,0b9e85491c194a97516c87f30a93abfa,delivered,otima,5.0,83.0,23.73,106.73,informatica_acessorios
+5487a8ac1699754d975f853ce8bb9321,a51b373c427132a77b112ca10f502c4f,delivered,Um pézinho maior que o outros ,3.0,159.99,27.2,187.19,casa_conforto
+00571ded73b3c061925584feab0db425,3c628393675b42c6b5ef89461f68ecef,delivered,"Gostei muito, sempre que precisar irei comprar.",5.0,179.9,15.01,389.82,perfumaria
+00571ded73b3c061925584feab0db425,3c628393675b42c6b5ef89461f68ecef,delivered,"Gostei muito, sempre que precisar irei comprar.",5.0,179.9,15.01,389.82,perfumaria
+43d88b0e949865904334dd5b3ca63f50,aa601b3c45980c0918042d5ca7a25054,delivered,Muito bom ,4.0,49.99,8.29,58.28,perfumaria
+5e99f3c445038a0709b2aea8e34ed593,243ee97e01766bf68c3e30f0fe572490,delivered,Empresa Confiável,4.0,59.9,17.13,77.03,utilidades_domesticas
 f61b61c2cbb4192ccaf9c2c76a4cc971,525125633cfc0f64d4a991240953f2b5,delivered,"A embalagem do produto estava aberta e a caixa plástica da fonte estava rachada. Visivelmente o produto já havia sido utilizado. Mas de qualquer forma, funcionou perfeitamente.
-",3.0,39.99,9.74,informatica_acessorios
+",3.0,39.99,9.74,49.73,informatica_acessorios
 40001f4b6e1a35f0b99fc4f44078ab27,1690401c1e48c9526a79e72ba8c069a2,delivered,"Estou tentando ver se os parceiros da stark continuem com seus compromissos aos seus clientes. E pontualidade 
-",3.0,189.9,26.36,telefonia
-694630e7a7713c116a9b7f0ba3377382,5a771152dd93d31af819d708942afec6,delivered,Produto como descrito.,5.0,99.9,21.78,moveis_decoracao
-c93e4c73cba512f76817291e0de8bec4,9f5a2f912f123d541a318029712fe90b,delivered,como sempre amaricanas é impecavel no atendimento na venda e na entrega,5.0,279.99,21.2,esporte_lazer
-258f2e5dd769d9314b349f5650005dcc,148ecba880f508ca2d5b6744b6a7b6c5,delivered,Produto atendeu a expectativa,5.0,129.97,35.43,utilidades_domesticas
-615ae1b88a25a4ac47fbf55c9c847b6e,25daddfce277eafad87c4d28d71d8229,delivered,Comprei um lençol queen mas as fronhas não vestem um travesseiro 70 x 50. São muito pequenas e estreitas!!! baratheon que sempre ofereceu produtos de qualidade deixou a desejar !!!,1.0,64.99,19.65,cama_mesa_banho
-a0d5b8474423ddf55228373b81a46272,3f7d26944f7f68bd2ac23b5e8b500ab0,delivered,Entrega antes do prazo e produto de ótima qualidade amei!!!,5.0,69.9,19.98,moveis_decoracao
-cbec453ddd874ca620b8afc6393e3218,0fc25a3451d81cfe409466e229afdbb0,delivered,"Super recomendo, é exatamente como pensei, chegou com 9 dias antes. Parabéns baratheon.",4.0,89.9,13.65,cama_mesa_banho
-1e8c81805b92ff169971231458670460,33b0d5c2438d9cd6426c6568dfbb908d,delivered,Não interessa se opera Market Place. A compra foi feita no site da lannister e pago para lannister. Se tiver que ajuizar vai ser contra lannister e lá faça o regresso contra o fornecedor.,1.0,110.32,18.65,beleza_saude
-1e8c81805b92ff169971231458670460,33b0d5c2438d9cd6426c6568dfbb908d,delivered,Não interessa se opera Market Place. A compra foi feita no site da lannister e pago para lannister. Se tiver que ajuizar vai ser contra lannister e lá faça o regresso contra o fornecedor.,1.0,110.32,18.65,beleza_saude
-1da00355018ed3e0fdd548cf3ddada99,2c5c2fb51bbbcdcc297f3b37449627bb,delivered,Confiabilidade com informações corretas e prestezas nas entregas.,5.0,64.9,15.2,fashion_bolsas_e_acessorios
-f175d67589e059cbbda956f10f0702e6,a4555d257db29ef5f838cec4101c5208,delivered,"Produto de boa qualidade, chegou antes do prazo, vendedor extremamente atencioso.",5.0,9.9,8.72,moveis_quarto
-5ec8f4e8fe5ee3fd5460b244d0804f9e,3fd2baf81d32adb95c43e1d490a8979e,delivered,entrega antes do prazo ,5.0,65.0,18.33,construcao_ferramentas_seguranca
-434d3eec8dd031c322077fb2452e53a0,7a7893d13f178fdf58daeff7347e2d94,delivered,Satisfeito 100%; recebi bem antes do prazo estimado; só falta testá-lo (não acompanha o cartucho de tinta),5.0,68.0,8.29,papelaria
-3ef7c7b43ae449415675a6c34720b78e,cae507afa38570ca8b08ae0cbcadd5d5,delivered,Gostei do que comprei e ficou muito legal na moto,4.0,383.5,19.82,automotivo
-4d95703047b8a80cf5796b7478900ec7,da18c242eff18510c1df2f0337a9be95,delivered,Bom atendimento,5.0,39.9,11.85,cama_mesa_banho
-4d95703047b8a80cf5796b7478900ec7,da18c242eff18510c1df2f0337a9be95,delivered,Bom atendimento,5.0,39.9,11.85,cama_mesa_banho
-d86359a45e3f6c6d8b35f7b13e41abf5,a1acf95041edd043087a040e89449636,delivered,"indico produto de alta qualidade, recebi antes do prazo combinado.",5.0,105.0,19.7,relogios_presentes
-2d5cdc856665603f1580e3586bde89a5,caecab08cac2be52d89f87462765b4f4,delivered,Mais bonita do que eu esperava. O tecido é lindo e ficou linda na janela. ,5.0,199.9,17.03,cama_mesa_banho
-b06112f703115e6d92f3baf4e2458a5a,1224a9f43655b57c469ab096e6ba5dc2,delivered,"Entrega rápida e bem antes do previsto, estou bem satisfeita!",5.0,109.9,10.97,beleza_saude
-b06112f703115e6d92f3baf4e2458a5a,1224a9f43655b57c469ab096e6ba5dc2,delivered,"Entrega rápida e bem antes do previsto, estou bem satisfeita!",5.0,109.9,10.97,beleza_saude
-45ac1d4b219993bf334080eac1585166,a7d1dc2de29fc011bf5f947f8a8636c7,delivered,o produto veio no prazo .. veio super rápido ADOREI. RECOMENDO,5.0,119.0,17.37,esporte_lazer
-c228d309379c3ae545cc6ca2d5aae1b2,eca5e1383292be5fc6c5b1aa3e1215b5,delivered,"Veio muito rápido, obrigado!!",5.0,35.0,13.83,bebidas
-f419e615bbdeb34741d4bdd661ff8599,271f76c70ce217ee656713b99097eaef,delivered,"Recomendo, compra segura entrega correta.",5.0,56.9,18.2,moveis_cozinha_area_de_servico_jantar_e_jardim
-86e574a0701d15590bf31783bc7de5dc,cacade100f1ef4bb325438538d726a76,delivered,gostei muito do produto atendeu todas as minhas expectativas.,4.0,94.0,18.46,moveis_decoracao
-fb9b2930f4a30f96c7cc98eaaa85e5f0,02ed2cff54eb047cdbe79dd0535945d4,delivered,Comprei um KiT de 3 Almofadas Azul Mandala e recebi um outro com almofadas diferentes (inclusive as cores) Nâo sei lidar com INCOMPETÊNCIA!!!!,1.0,70.91,13.52,moveis_decoracao
-02aec12849744e266394182861265286,076dcea2eb6c8dbe9354f7c0d8670a00,delivered,Estou muito satisfeita ,5.0,174.9,35.74,bebes
-6bb1e842418aac0c9c820afd3bb63a2d,032f25110f17bb0d65268257b10738bc,delivered,Prático!,4.0,15.9,16.79,automotivo
-c4d2f075fc3bf3a06d1e68e113c35cbd,aa6edca5d83d4c8e9a2262b9847febd6,delivered,"tenho outro sling de outra marca com tecido muito mais macio, maleável e agradável",2.0,54.9,24.73,bebes
-52e5445828db681d83dccb33a15ecac4,d42ee2c04270ba237933c8bdd5e1c761,delivered,O prazo para entrega é muito longo.,3.0,170.0,24.06,relogios_presentes
-9f882c1f904b7dd156572ada58d7a7ae,843ff05b30ce4f75b6170b39c78a8ee5,delivered,Gostei doproduto comprado obrigado.,5.0,84.9,17.84,fashion_calcados
-c0aa0e99afe6f6dac845326a854690fd,316540a76ab1fe860a9cddf7f2f6717a,delivered,"então,mesmo o produto sendo entregue no prazo,ele ainda teve uma demora de quase 15 dias",3.0,119.0,12.33,esporte_lazer
-c26b94aa87e95d1c1eb1b592f43eb223,7aed8da5ae4e0e34226c47f3bf041956,delivered,atendimento ótimo em todos os sentido,5.0,89.9,12.13,cama_mesa_banho
-c26b94aa87e95d1c1eb1b592f43eb223,7aed8da5ae4e0e34226c47f3bf041956,delivered,atendimento ótimo em todos os sentido,5.0,89.9,12.13,casa_conforto
+",3.0,189.9,26.36,216.26,telefonia
+694630e7a7713c116a9b7f0ba3377382,5a771152dd93d31af819d708942afec6,delivered,Produto como descrito.,5.0,99.9,21.78,121.68,moveis_decoracao
+c93e4c73cba512f76817291e0de8bec4,9f5a2f912f123d541a318029712fe90b,delivered,como sempre amaricanas é impecavel no atendimento na venda e na entrega,5.0,279.99,21.2,301.19,esporte_lazer
+258f2e5dd769d9314b349f5650005dcc,148ecba880f508ca2d5b6744b6a7b6c5,delivered,Produto atendeu a expectativa,5.0,129.97,35.43,165.4,utilidades_domesticas
+615ae1b88a25a4ac47fbf55c9c847b6e,25daddfce277eafad87c4d28d71d8229,delivered,Comprei um lençol queen mas as fronhas não vestem um travesseiro 70 x 50. São muito pequenas e estreitas!!! baratheon que sempre ofereceu produtos de qualidade deixou a desejar !!!,1.0,64.99,19.65,84.64,cama_mesa_banho
+a0d5b8474423ddf55228373b81a46272,3f7d26944f7f68bd2ac23b5e8b500ab0,delivered,Entrega antes do prazo e produto de ótima qualidade amei!!!,5.0,69.9,19.98,89.88,moveis_decoracao
+cbec453ddd874ca620b8afc6393e3218,0fc25a3451d81cfe409466e229afdbb0,delivered,"Super recomendo, é exatamente como pensei, chegou com 9 dias antes. Parabéns baratheon.",4.0,89.9,13.65,103.55,cama_mesa_banho
+1e8c81805b92ff169971231458670460,33b0d5c2438d9cd6426c6568dfbb908d,delivered,Não interessa se opera Market Place. A compra foi feita no site da lannister e pago para lannister. Se tiver que ajuizar vai ser contra lannister e lá faça o regresso contra o fornecedor.,1.0,110.32,18.65,257.94,beleza_saude
+1e8c81805b92ff169971231458670460,33b0d5c2438d9cd6426c6568dfbb908d,delivered,Não interessa se opera Market Place. A compra foi feita no site da lannister e pago para lannister. Se tiver que ajuizar vai ser contra lannister e lá faça o regresso contra o fornecedor.,1.0,110.32,18.65,257.94,beleza_saude
+1da00355018ed3e0fdd548cf3ddada99,2c5c2fb51bbbcdcc297f3b37449627bb,delivered,Confiabilidade com informações corretas e prestezas nas entregas.,5.0,64.9,15.2,80.1,fashion_bolsas_e_acessorios
+f175d67589e059cbbda956f10f0702e6,a4555d257db29ef5f838cec4101c5208,delivered,"Produto de boa qualidade, chegou antes do prazo, vendedor extremamente atencioso.",5.0,9.9,8.72,18.62,moveis_quarto
+5ec8f4e8fe5ee3fd5460b244d0804f9e,3fd2baf81d32adb95c43e1d490a8979e,delivered,entrega antes do prazo ,5.0,65.0,18.33,83.33,construcao_ferramentas_seguranca
+434d3eec8dd031c322077fb2452e53a0,7a7893d13f178fdf58daeff7347e2d94,delivered,Satisfeito 100%; recebi bem antes do prazo estimado; só falta testá-lo (não acompanha o cartucho de tinta),5.0,68.0,8.29,76.29,papelaria
+3ef7c7b43ae449415675a6c34720b78e,cae507afa38570ca8b08ae0cbcadd5d5,delivered,Gostei do que comprei e ficou muito legal na moto,4.0,383.5,19.82,403.32,automotivo
+4d95703047b8a80cf5796b7478900ec7,da18c242eff18510c1df2f0337a9be95,delivered,Bom atendimento,5.0,39.9,11.85,103.5,cama_mesa_banho
+4d95703047b8a80cf5796b7478900ec7,da18c242eff18510c1df2f0337a9be95,delivered,Bom atendimento,5.0,39.9,11.85,103.5,cama_mesa_banho
+d86359a45e3f6c6d8b35f7b13e41abf5,a1acf95041edd043087a040e89449636,delivered,"indico produto de alta qualidade, recebi antes do prazo combinado.",5.0,105.0,19.7,124.7,relogios_presentes
+2d5cdc856665603f1580e3586bde89a5,caecab08cac2be52d89f87462765b4f4,delivered,Mais bonita do que eu esperava. O tecido é lindo e ficou linda na janela. ,5.0,199.9,17.03,216.93,cama_mesa_banho
+b06112f703115e6d92f3baf4e2458a5a,1224a9f43655b57c469ab096e6ba5dc2,delivered,"Entrega rápida e bem antes do previsto, estou bem satisfeita!",5.0,109.9,10.97,241.74,beleza_saude
+b06112f703115e6d92f3baf4e2458a5a,1224a9f43655b57c469ab096e6ba5dc2,delivered,"Entrega rápida e bem antes do previsto, estou bem satisfeita!",5.0,109.9,10.97,241.74,beleza_saude
+45ac1d4b219993bf334080eac1585166,a7d1dc2de29fc011bf5f947f8a8636c7,delivered,o produto veio no prazo .. veio super rápido ADOREI. RECOMENDO,5.0,119.0,17.37,136.37,esporte_lazer
+c228d309379c3ae545cc6ca2d5aae1b2,eca5e1383292be5fc6c5b1aa3e1215b5,delivered,"Veio muito rápido, obrigado!!",5.0,35.0,13.83,48.83,bebidas
+f419e615bbdeb34741d4bdd661ff8599,271f76c70ce217ee656713b99097eaef,delivered,"Recomendo, compra segura entrega correta.",5.0,56.9,18.2,75.1,moveis_cozinha_area_de_servico_jantar_e_jardim
+86e574a0701d15590bf31783bc7de5dc,cacade100f1ef4bb325438538d726a76,delivered,gostei muito do produto atendeu todas as minhas expectativas.,4.0,94.0,18.46,112.46,moveis_decoracao
+fb9b2930f4a30f96c7cc98eaaa85e5f0,02ed2cff54eb047cdbe79dd0535945d4,delivered,Comprei um KiT de 3 Almofadas Azul Mandala e recebi um outro com almofadas diferentes (inclusive as cores) Nâo sei lidar com INCOMPETÊNCIA!!!!,1.0,70.91,13.52,84.43,moveis_decoracao
+02aec12849744e266394182861265286,076dcea2eb6c8dbe9354f7c0d8670a00,delivered,Estou muito satisfeita ,5.0,174.9,35.74,210.64,bebes
+6bb1e842418aac0c9c820afd3bb63a2d,032f25110f17bb0d65268257b10738bc,delivered,Prático!,4.0,15.9,16.79,32.69,automotivo
+c4d2f075fc3bf3a06d1e68e113c35cbd,aa6edca5d83d4c8e9a2262b9847febd6,delivered,"tenho outro sling de outra marca com tecido muito mais macio, maleável e agradável",2.0,54.9,24.73,79.63,bebes
+52e5445828db681d83dccb33a15ecac4,d42ee2c04270ba237933c8bdd5e1c761,delivered,O prazo para entrega é muito longo.,3.0,170.0,24.06,194.06,relogios_presentes
+9f882c1f904b7dd156572ada58d7a7ae,843ff05b30ce4f75b6170b39c78a8ee5,delivered,Gostei doproduto comprado obrigado.,5.0,84.9,17.84,102.74,fashion_calcados
+c0aa0e99afe6f6dac845326a854690fd,316540a76ab1fe860a9cddf7f2f6717a,delivered,"então,mesmo o produto sendo entregue no prazo,ele ainda teve uma demora de quase 15 dias",3.0,119.0,12.33,131.33,esporte_lazer
+c26b94aa87e95d1c1eb1b592f43eb223,7aed8da5ae4e0e34226c47f3bf041956,delivered,atendimento ótimo em todos os sentido,5.0,89.9,12.13,204.06,cama_mesa_banho
+c26b94aa87e95d1c1eb1b592f43eb223,7aed8da5ae4e0e34226c47f3bf041956,delivered,atendimento ótimo em todos os sentido,5.0,89.9,12.13,204.06,casa_conforto
 3b4ad687e7e5190db827e1ae5a8989dd,1a87b8517b7d31373b50396eb15cb445,shipped,"Comprei um produto e não entregaram. 
-Pedi o cancelado do produto.",1.0,844.0,21.01,relogios_presentes
-4570fa83dbb31a563e06db0a554b951e,cdfe21141f5df77ba0fb20bef6621a9f,delivered,comprei vei certinho esse pedido mas umas banquetas que comprei antes desse pedido agora não chegou falaram que entregou mas eu n recebi comprei antes desse pedido e nao chegou,5.0,299.0,23.17,moveis_decoracao
-04040ee654b248cdc512a68ecc83e4cc,53379b14e4048e025dc5a2185f461bb7,delivered,Entrega super rápida. Produto é bom. ,4.0,259.9,15.29,cama_mesa_banho
-0b584b729bdfec204ec2aa5d21d6ca56,da2fbad9b2235c67c9bc7c7a274ee389,delivered,sim,4.0,55.9,22.32,esporte_lazer
-343076b69aa1f03ee4beb49cf6baee58,a4156bb8aff5d6722dc68f605d8fa241,delivered,Lindo o kit. Entrega rápida. RECOMENDO ,4.0,174.9,31.97,bebes
-b68d69564a79dea4776afa33d1d2fcab,de1e5517fb50896bbdcff5814fb31802,shipped,Não chegou.,1.0,245.9,16.47,pet_shop
-f04bfdbef5359607d39e66fccc9cc0de,ddbd5d378c4a0981ba1ef29fb8e40b8f,delivered,targaryen não entregou os produtos completos. No dois itens comprados veio faltando unidades.,1.0,217.85,129.84,casa_construcao
-f04bfdbef5359607d39e66fccc9cc0de,ddbd5d378c4a0981ba1ef29fb8e40b8f,delivered,targaryen não entregou os produtos completos. No dois itens comprados veio faltando unidades.,1.0,142.9,8.66,construcao_ferramentas_seguranca
-f04bfdbef5359607d39e66fccc9cc0de,ddbd5d378c4a0981ba1ef29fb8e40b8f,delivered,targaryen não entregou os produtos completos. No dois itens comprados veio faltando unidades.,1.0,142.9,8.66,construcao_ferramentas_seguranca
-f04bfdbef5359607d39e66fccc9cc0de,ddbd5d378c4a0981ba1ef29fb8e40b8f,delivered,targaryen não entregou os produtos completos. No dois itens comprados veio faltando unidades.,1.0,217.85,129.84,casa_construcao
-bbd64b019b5ea3ed83a114cc665328ff,3e87356efef361b40b30fd699f9e5638,delivered,Entrega super rápida!!!,5.0,59.9,9.42,moveis_decoracao
-2b72a32a2c3e93fa260ca7655073886f,5265029daa29cc08d86b9f96cd99d03f,delivered,"Ótimo produto, veio perfeitamente embalado, atende todas necessidades que precisávamos. Loja muito atenciosa.",5.0,1148.0,107.43,eletrodomesticos_2
-f373335aac9a659de916f7170b8bc07a,f06a94a401e52fb019c72f2e8bbf6a2f,shipped,não recebi o produto consta que o mesmo voltou para o remetente. como faço para que possa reviar-lo?,2.0,35.9,23.28,bebes
-a7076e7aba13de8b66d95a55811290ed,1ae196062dab95e434e781a5319f0ab9,delivered,"nada tenho a declara, um abraço",4.0,39.0,12.79,cama_mesa_banho
+Pedi o cancelado do produto.",1.0,844.0,21.01,865.01,relogios_presentes
+4570fa83dbb31a563e06db0a554b951e,cdfe21141f5df77ba0fb20bef6621a9f,delivered,comprei vei certinho esse pedido mas umas banquetas que comprei antes desse pedido agora não chegou falaram que entregou mas eu n recebi comprei antes desse pedido e nao chegou,5.0,299.0,23.17,322.17,moveis_decoracao
+04040ee654b248cdc512a68ecc83e4cc,53379b14e4048e025dc5a2185f461bb7,delivered,Entrega super rápida. Produto é bom. ,4.0,259.9,15.29,275.19,cama_mesa_banho
+0b584b729bdfec204ec2aa5d21d6ca56,da2fbad9b2235c67c9bc7c7a274ee389,delivered,sim,4.0,55.9,22.32,78.22,esporte_lazer
+343076b69aa1f03ee4beb49cf6baee58,a4156bb8aff5d6722dc68f605d8fa241,delivered,Lindo o kit. Entrega rápida. RECOMENDO ,4.0,174.9,31.97,206.87,bebes
+b68d69564a79dea4776afa33d1d2fcab,de1e5517fb50896bbdcff5814fb31802,shipped,Não chegou.,1.0,245.9,16.47,262.37,pet_shop
+f04bfdbef5359607d39e66fccc9cc0de,ddbd5d378c4a0981ba1ef29fb8e40b8f,delivered,targaryen não entregou os produtos completos. No dois itens comprados veio faltando unidades.,1.0,217.85,129.84,998.49,casa_construcao
+f04bfdbef5359607d39e66fccc9cc0de,ddbd5d378c4a0981ba1ef29fb8e40b8f,delivered,targaryen não entregou os produtos completos. No dois itens comprados veio faltando unidades.,1.0,142.9,8.66,998.49,construcao_ferramentas_seguranca
+f04bfdbef5359607d39e66fccc9cc0de,ddbd5d378c4a0981ba1ef29fb8e40b8f,delivered,targaryen não entregou os produtos completos. No dois itens comprados veio faltando unidades.,1.0,142.9,8.66,998.49,construcao_ferramentas_seguranca
+f04bfdbef5359607d39e66fccc9cc0de,ddbd5d378c4a0981ba1ef29fb8e40b8f,delivered,targaryen não entregou os produtos completos. No dois itens comprados veio faltando unidades.,1.0,217.85,129.84,998.49,casa_construcao
+bbd64b019b5ea3ed83a114cc665328ff,3e87356efef361b40b30fd699f9e5638,delivered,Entrega super rápida!!!,5.0,59.9,9.42,69.32,moveis_decoracao
+2b72a32a2c3e93fa260ca7655073886f,5265029daa29cc08d86b9f96cd99d03f,delivered,"Ótimo produto, veio perfeitamente embalado, atende todas necessidades que precisávamos. Loja muito atenciosa.",5.0,1148.0,107.43,1255.43,eletrodomesticos_2
+f373335aac9a659de916f7170b8bc07a,f06a94a401e52fb019c72f2e8bbf6a2f,shipped,não recebi o produto consta que o mesmo voltou para o remetente. como faço para que possa reviar-lo?,2.0,35.9,23.28,59.18,bebes
+a7076e7aba13de8b66d95a55811290ed,1ae196062dab95e434e781a5319f0ab9,delivered,"nada tenho a declara, um abraço",4.0,39.0,12.79,51.79,cama_mesa_banho
 6f5a2dbe5ccce73a9d053a542baabd1c,4d6793a25de1f63ca63869c6cd4b7b1f,delivered,"Preciso alizar a troca do produto que está com defeito e não consigo registrar a solicitação no SITE. No item ""TROCAS E DEVOLUÇÕES"" sempre informa que está com problema de comunicação.
-Aguardo retorn",1.0,139.5,14.32,informatica_acessorios
+Aguardo retorn",1.0,139.5,14.32,307.64,informatica_acessorios
 6f5a2dbe5ccce73a9d053a542baabd1c,4d6793a25de1f63ca63869c6cd4b7b1f,delivered,"Preciso alizar a troca do produto que está com defeito e não consigo registrar a solicitação no SITE. No item ""TROCAS E DEVOLUÇÕES"" sempre informa que está com problema de comunicação.
-Aguardo retorn",1.0,139.5,14.32,informatica_acessorios
-d65c179a817be22977e263fbc1a4fef4,e20e5dab42cf2fc3a11d1c89e087122b,delivered,Parabéns produto muito bom 👍,5.0,75.0,21.02,utilidades_domesticas
-727412faf7aef5ef3c7e0f03350d80c7,df01594ad086f53bdbbf927198981446,delivered,O produto atendeu com as minhas espectativas,5.0,65.9,17.2,cama_mesa_banho
-f11e9516ca2b6091b64f2e2ea0ebebb3,7d527c98f408420a9d5c953e5b89215e,delivered,Não recebi o pedido no tempo estimado e não fui informada do porque do atraso.,1.0,204.0,18.68,relogios_presentes
-0438fc3e115633e11a93c878a1591016,369ec69ef76c47e51980b88a5740dc1b,delivered,chegou antes do prazo determinado pela loja. ,5.0,249.0,15.22,telefonia
-65f78a0e1f8b80c4f6d8d5c6073b8601,1910935b7377a45bca463c844d7a071e,delivered,Otimo produto. Igual a foto.,5.0,185.9,35.38,brinquedos
-b52d29abb97a3978df1d8922bfe36fbe,ed034127e0801850ca9162dd9de7a106,delivered,Produto chegou no prazo e correto ,5.0,110.32,17.16,beleza_saude
-b52d29abb97a3978df1d8922bfe36fbe,ed034127e0801850ca9162dd9de7a106,delivered,Produto chegou no prazo e correto ,5.0,138.9,17.16,beleza_saude
+Aguardo retorn",1.0,139.5,14.32,307.64,informatica_acessorios
+d65c179a817be22977e263fbc1a4fef4,e20e5dab42cf2fc3a11d1c89e087122b,delivered,Parabéns produto muito bom 👍,5.0,75.0,21.02,96.02,utilidades_domesticas
+727412faf7aef5ef3c7e0f03350d80c7,df01594ad086f53bdbbf927198981446,delivered,O produto atendeu com as minhas espectativas,5.0,65.9,17.2,83.1,cama_mesa_banho
+f11e9516ca2b6091b64f2e2ea0ebebb3,7d527c98f408420a9d5c953e5b89215e,delivered,Não recebi o pedido no tempo estimado e não fui informada do porque do atraso.,1.0,204.0,18.68,222.68,relogios_presentes
+0438fc3e115633e11a93c878a1591016,369ec69ef76c47e51980b88a5740dc1b,delivered,chegou antes do prazo determinado pela loja. ,5.0,249.0,15.22,264.22,telefonia
+65f78a0e1f8b80c4f6d8d5c6073b8601,1910935b7377a45bca463c844d7a071e,delivered,Otimo produto. Igual a foto.,5.0,185.9,35.38,221.28,brinquedos
+b52d29abb97a3978df1d8922bfe36fbe,ed034127e0801850ca9162dd9de7a106,delivered,Produto chegou no prazo e correto ,5.0,110.32,17.16,283.54,beleza_saude
+b52d29abb97a3978df1d8922bfe36fbe,ed034127e0801850ca9162dd9de7a106,delivered,Produto chegou no prazo e correto ,5.0,138.9,17.16,283.54,beleza_saude
 0341b60065c49221a27293793f11b117,cf4604a56d4e374de013f1ec35280d00,delivered,"Foi excelente por estar dentro do periodo
-Definido",5.0,102.9,22.43,relogios_presentes
-25ebb07a1069a75d3cb9baf0a94f22d0,d76dc2ed3d9f58905f39deea067fd40f,delivered,entrega 14 dias antes do prazo estabelecido,5.0,182.0,19.42,relogios_presentes
-43488f856ed3fa3e7d3f8228755d383b,5a58afc695ee03b9baca01d4afa52cec,delivered,Produto de excelente qualidade,5.0,29.99,25.63,telefonia
-43488f856ed3fa3e7d3f8228755d383b,5a58afc695ee03b9baca01d4afa52cec,delivered,Produto de excelente qualidade,5.0,29.99,25.63,telefonia
-6f6665c1d76e55561978ccb45bdcafc6,12ae89712aa5a178c22147486d3cd310,delivered,"Produto extremamente pequeno e leve, mas que teve um frete muito caro e cada unidade foi enviada em uma pacote separado (para justificar o frete, talvez)",3.0,21.9,14.52,moveis_decoracao
-6f6665c1d76e55561978ccb45bdcafc6,12ae89712aa5a178c22147486d3cd310,delivered,"Produto extremamente pequeno e leve, mas que teve um frete muito caro e cada unidade foi enviada em uma pacote separado (para justificar o frete, talvez)",3.0,21.9,14.52,moveis_decoracao
-6f6665c1d76e55561978ccb45bdcafc6,12ae89712aa5a178c22147486d3cd310,delivered,"Produto extremamente pequeno e leve, mas que teve um frete muito caro e cada unidade foi enviada em uma pacote separado (para justificar o frete, talvez)",3.0,21.9,14.52,moveis_decoracao
-db5fdbee9ab29d55f24c329246e6fe51,3487bedbddf4797d7308d0aa43dcf30b,delivered,"Me entregaram faltando um pote, insatisfação",1.0,89.0,15.37,beleza_saude
-15fb9c745e91eff5482a9af2a5fad0e6,3c14bd3e2287a1b895bc9af622d3f79a,delivered,Excelente vai ser muito útil. Muito obrigado!,5.0,99.99,37.39,esporte_lazer
+Definido",5.0,102.9,22.43,125.33,relogios_presentes
+25ebb07a1069a75d3cb9baf0a94f22d0,d76dc2ed3d9f58905f39deea067fd40f,delivered,entrega 14 dias antes do prazo estabelecido,5.0,182.0,19.42,201.42,relogios_presentes
+43488f856ed3fa3e7d3f8228755d383b,5a58afc695ee03b9baca01d4afa52cec,delivered,Produto de excelente qualidade,5.0,29.99,25.63,27.77,telefonia
+43488f856ed3fa3e7d3f8228755d383b,5a58afc695ee03b9baca01d4afa52cec,delivered,Produto de excelente qualidade,5.0,29.99,25.63,27.85,telefonia
+6f6665c1d76e55561978ccb45bdcafc6,12ae89712aa5a178c22147486d3cd310,delivered,"Produto extremamente pequeno e leve, mas que teve um frete muito caro e cada unidade foi enviada em uma pacote separado (para justificar o frete, talvez)",3.0,21.9,14.52,109.26,moveis_decoracao
+6f6665c1d76e55561978ccb45bdcafc6,12ae89712aa5a178c22147486d3cd310,delivered,"Produto extremamente pequeno e leve, mas que teve um frete muito caro e cada unidade foi enviada em uma pacote separado (para justificar o frete, talvez)",3.0,21.9,14.52,109.26,moveis_decoracao
+6f6665c1d76e55561978ccb45bdcafc6,12ae89712aa5a178c22147486d3cd310,delivered,"Produto extremamente pequeno e leve, mas que teve um frete muito caro e cada unidade foi enviada em uma pacote separado (para justificar o frete, talvez)",3.0,21.9,14.52,109.26,moveis_decoracao
+db5fdbee9ab29d55f24c329246e6fe51,3487bedbddf4797d7308d0aa43dcf30b,delivered,"Me entregaram faltando um pote, insatisfação",1.0,89.0,15.37,104.37,beleza_saude
+15fb9c745e91eff5482a9af2a5fad0e6,3c14bd3e2287a1b895bc9af622d3f79a,delivered,Excelente vai ser muito útil. Muito obrigado!,5.0,99.99,37.39,137.38,esporte_lazer
 5869074071e0f56e9085dc3742c97b2a,7203eb38fea2b4a15dd6c39575314aa4,shipped,"
-",1.0,300.0,20.18,esporte_lazer
-cbbb524a0e1646aa6cf7a3c0bbe517ad,dacb079d55ffb1d3955c5d923df3ebb7,delivered,"produto entregue diferente do que foi comprado,não recomendo o vendedor.",1.0,75.0,20.58,informatica_acessorios
+",1.0,300.0,20.18,320.18,esporte_lazer
+cbbb524a0e1646aa6cf7a3c0bbe517ad,dacb079d55ffb1d3955c5d923df3ebb7,delivered,"produto entregue diferente do que foi comprado,não recomendo o vendedor.",1.0,75.0,20.58,95.58,informatica_acessorios
 7e05645577366863a93350aac5cc7de5,21809d6b8acb4ca628358610aea9435c,delivered,"Recebi o produto, porém o mesmo veio com o encosto do braço quebrado.
-Sugiro à loja que acondicione melhor os seus produtos, uma vez que veio embalado em um papel fino comum.",3.0,68.9,79.86,esporte_lazer
-f09942b1e1419e69f7509158f2a9c1d6,b40a130a36dc28cdbdabe856f1eee283,delivered,Recomendo,5.0,64.9,7.78,bebes
-72ee4a26e767e55282ac10e63c7b1227,ab4e4f11610404b4184fb812e47bb0ed,delivered,"Comprei a cada de pneu. Chegou conforme combinado, no prazo. Tudo certo. Recomendo.",5.0,60.0,52.77,automotivo
-4f7e398a1ddb1c349465b42b6865c60b,364fbe9334877bc7ca3da92913b2cdbf,delivered,N gostei do produto n era oq imaginei nem oq eu eeperava,1.0,149.99,21.85,telefonia
-08652363092b158440e2422e7c3ccaf4,03b3813a78be4cf5205e70977ad78d29,delivered,Muito bom,5.0,64.89,17.7,bebes
-409e4a6eadbdc33f16ccf0bda01eec1f,0e8ada3654b94e0d569b44233db3c9dc,delivered,Foi ótimo ,5.0,179.9,16.02,beleza_saude
-bb27f9e70d5cdc66d0c616aee3dbb387,225743267e630cdf226d130d80c4aa5e,delivered,"Meus parabéns,continuem assim",5.0,235.92,13.78,informatica_acessorios
-bb27f9e70d5cdc66d0c616aee3dbb387,225743267e630cdf226d130d80c4aa5e,delivered,"Meus parabéns,continuem assim",5.0,235.92,13.78,informatica_acessorios
-b60b53ad0bb7dacacf2989fe27ad567a,2f9902d85fcd930227f711cf47012bdf,delivered,"O produto não foi entregue na minha residencia, precisei retira-lo nos correios.",3.0,292.0,9.3,papelaria
-db0d194c127a36909de3bda3edad30bc,33bfc91146c9eea42397a0430585ee59,delivered,"Não recebi a quantidade correta, estou aguardando posição da targaryen, mas até agora não me deram retorno",1.0,59.99,12.76,cama_mesa_banho
-db0d194c127a36909de3bda3edad30bc,33bfc91146c9eea42397a0430585ee59,delivered,"Não recebi a quantidade correta, estou aguardando posição da targaryen, mas até agora não me deram retorno",1.0,59.99,12.76,cama_mesa_banho
-ac7a92560a9e99f0a0ab4988102f491b,6abf781c5304890987047e9aa239caa8,delivered,O prazo era até dia 23/03 e até o momento não recebi. Quero saber o que está acontecendo.,1.0,89.99,17.88,cama_mesa_banho
-ac7a92560a9e99f0a0ab4988102f491b,6abf781c5304890987047e9aa239caa8,delivered,"Comprei pensando que ia vir conforme a foto, vel branco e a parte baixo bege, porém veio tudo bege.",1.0,89.99,17.88,cama_mesa_banho
+Sugiro à loja que acondicione melhor os seus produtos, uma vez que veio embalado em um papel fino comum.",3.0,68.9,79.86,148.76,esporte_lazer
+f09942b1e1419e69f7509158f2a9c1d6,b40a130a36dc28cdbdabe856f1eee283,delivered,Recomendo,5.0,64.9,7.78,72.68,bebes
+72ee4a26e767e55282ac10e63c7b1227,ab4e4f11610404b4184fb812e47bb0ed,delivered,"Comprei a cada de pneu. Chegou conforme combinado, no prazo. Tudo certo. Recomendo.",5.0,60.0,52.77,112.77,automotivo
+4f7e398a1ddb1c349465b42b6865c60b,364fbe9334877bc7ca3da92913b2cdbf,delivered,N gostei do produto n era oq imaginei nem oq eu eeperava,1.0,149.99,21.85,171.84,telefonia
+08652363092b158440e2422e7c3ccaf4,03b3813a78be4cf5205e70977ad78d29,delivered,Muito bom,5.0,64.89,17.7,82.59,bebes
+409e4a6eadbdc33f16ccf0bda01eec1f,0e8ada3654b94e0d569b44233db3c9dc,delivered,Foi ótimo ,5.0,179.9,16.02,195.92,beleza_saude
+bb27f9e70d5cdc66d0c616aee3dbb387,225743267e630cdf226d130d80c4aa5e,delivered,"Meus parabéns,continuem assim",5.0,235.92,13.78,499.4,informatica_acessorios
+bb27f9e70d5cdc66d0c616aee3dbb387,225743267e630cdf226d130d80c4aa5e,delivered,"Meus parabéns,continuem assim",5.0,235.92,13.78,499.4,informatica_acessorios
+b60b53ad0bb7dacacf2989fe27ad567a,2f9902d85fcd930227f711cf47012bdf,delivered,"O produto não foi entregue na minha residencia, precisei retira-lo nos correios.",3.0,292.0,9.3,301.3,papelaria
+db0d194c127a36909de3bda3edad30bc,33bfc91146c9eea42397a0430585ee59,delivered,"Não recebi a quantidade correta, estou aguardando posição da targaryen, mas até agora não me deram retorno",1.0,59.99,12.76,145.5,cama_mesa_banho
+db0d194c127a36909de3bda3edad30bc,33bfc91146c9eea42397a0430585ee59,delivered,"Não recebi a quantidade correta, estou aguardando posição da targaryen, mas até agora não me deram retorno",1.0,59.99,12.76,145.5,cama_mesa_banho
+ac7a92560a9e99f0a0ab4988102f491b,6abf781c5304890987047e9aa239caa8,delivered,O prazo era até dia 23/03 e até o momento não recebi. Quero saber o que está acontecendo.,1.0,89.99,17.88,107.87,cama_mesa_banho
+ac7a92560a9e99f0a0ab4988102f491b,6abf781c5304890987047e9aa239caa8,delivered,"Comprei pensando que ia vir conforme a foto, vel branco e a parte baixo bege, porém veio tudo bege.",1.0,89.99,17.88,107.87,cama_mesa_banho
 da8be3bb62e9bf01e2e1a3bfd74ebd1a,3f083b9f62e687be8d84684c7d54c8db,delivered,"ainda não recebi o produto acredito que não seja culpa do vendedor e sim dos correios , e estou com urgência 
 
-o produto se encontra parado nos correiros na data de 01/05/17 ",1.0,2690.0,61.24,ferramentas_jardim
+o produto se encontra parado nos correiros na data de 01/05/17 ",1.0,2690.0,61.24,2751.24,ferramentas_jardim
 6de3383be650cfe96aed26171ad65c47,cae5d18352d2eb7396bd594c706f3624,delivered,"BOM DIA, NAO RECEBI O DHEA, SOMENTE O RECYCLE, QUAL PROCEDIMENTO PRECISO FAZER? PRECISO RESOLVER ISSO
-OBRIGADO",1.0,120.0,7.94,esporte_lazer
+OBRIGADO",1.0,120.0,7.94,355.77,esporte_lazer
 6de3383be650cfe96aed26171ad65c47,cae5d18352d2eb7396bd594c706f3624,delivered,"BOM DIA, NAO RECEBI O DHEA, SOMENTE O RECYCLE, QUAL PROCEDIMENTO PRECISO FAZER? PRECISO RESOLVER ISSO
-OBRIGADO",1.0,204.0,23.83,esporte_lazer
-21f4a37ec131158f1615d0f186f190af,84b100e334843870e95ff29421ab66bd,delivered,Fiz o cancelamento da compra há 13 dias (Data em posto esse comentário). E até agora não cancelaram minha compra no cartão.,1.0,199.98,12.9,cool_stuff
-e659b8223be6f632acb24fb80cf50ca9,9ac71dee8847ffe35fb2c087da733cc4,delivered,ESPETACULAR.,5.0,61.5,25.71,automotivo
-45ed6e85398a87c253db47c2d9f48216,8eab8f9b3c744b76b65f7a2c0c8f2d6c,delivered,"Produto demorou a chegar e veio diferente do que foi pedido... pedi X veio Y, nada haver...",1.0,56.99,14.15,perfumaria
-45ed6e85398a87c253db47c2d9f48216,8eab8f9b3c744b76b65f7a2c0c8f2d6c,delivered,"Produto demorou a chegar e veio diferente do que foi pedido... pedi X veio Y, nada haver...",1.0,56.99,14.15,perfumaria
-45ed6e85398a87c253db47c2d9f48216,8eab8f9b3c744b76b65f7a2c0c8f2d6c,delivered,"Produto demorou a chegar e veio diferente do que foi pedido... pedi X veio Y, nada haver...",1.0,56.99,14.15,perfumaria
-0bc4a984d79279c843421830f595273c,e93fa47188d998ecd355fdb87a5e62e3,delivered,"entrega rápida , produto de qualidade, e preço bom",5.0,72.0,13.52,cama_mesa_banho
-d977821da81b766c90bcd3351f0dbf19,5295c0f1f2053aa636bc034c2a85ab44,delivered,Ótimo produto,4.0,27.9,18.23,automotivo
-5a00ef28abf9645038a7d37c1639d2c2,60134a69479bd4d54c03fd5076bbe984,delivered,"O produro chegou dentro do prazo, é bem leve e a caixinha é de papelão! Não veio com o certificado de garantia, somente manual. O tamanho é bom e a cor é dourado claro, nada muito chamativo!",4.0,180.0,20.23,relogios_presentes
-bba5aa837be7e597e91c6ddedf604cd8,94e56a6d6f8b3e26ad64c605e67b48d2,delivered,ótimo foi ara dar de Presente a minha Cunhada amou super Feliz,5.0,119.0,15.71,relogios_presentes
-faa911f9ff46e53aedc9408c5d6a24ad,77dccd21b005b20fc1f1418c979ca354,delivered,"Comprei DOIS porta talheres e recebi apenas UM até o momento, juntamente com uma NF onde constam dois produtos.",1.0,37.39,19.04,bebes
-faa911f9ff46e53aedc9408c5d6a24ad,77dccd21b005b20fc1f1418c979ca354,delivered,"Comprei DOIS porta talheres e recebi apenas UM até o momento, juntamente com uma NF onde constam dois produtos.",1.0,37.39,19.04,bebes
-95e42e6aaf6264cd3e77c06b32dc3003,29ef1f160ce630146dafa02052e2c5bf,shipped,Nao entregaram o produto e nao entraram em contato para resolver o problema ate o momento.,1.0,85.0,7.85,esporte_lazer
-1cb6cfd9e6306cfe607017391834999a,05aa1cdcd7c5f9e297b3b5d89ae5e1df,delivered,Obrigado vocês estão de parabéns produtos excelente ,5.0,74.9,30.47,fashion_calcados
-1cb6cfd9e6306cfe607017391834999a,05aa1cdcd7c5f9e297b3b5d89ae5e1df,delivered,Obrigado vocês estão de parabéns produtos excelente ,5.0,74.9,28.43,fashion_calcados
-7b58fca3faf09217a36d5febee5739a5,0966fbba1c0e8c5e26e31166c2fd3ce8,delivered,O produto ainda não chegou,3.0,59.9,16.86,beleza_saude
-f30607daae66843552e00843c6de88ef,8e1769459d9b9a9989799f6c79a4a663,delivered,"Mais respeito ao consumidor, era para presente!!",1.0,550.0,145.99,beleza_saude
-4207ad8e0e4e4070f271c930d25f72d7,2d2b1b42705b2f080c47fb2c46db46f6,delivered,"Gostei do produto, porém entregaram apenas 1 unidade, faltou uma unidade do produto, algo aconteceu durante na entrega",1.0,59.9,17.67,ferramentas_jardim
-4207ad8e0e4e4070f271c930d25f72d7,2d2b1b42705b2f080c47fb2c46db46f6,delivered,"Gostei do produto, porém entregaram apenas 1 unidade, faltou uma unidade do produto, algo aconteceu durante na entrega",1.0,59.9,17.67,ferramentas_jardim
-38b7efdf33dd5561f4f5d4f6e07b0414,021e84751ba0ead75b6d314a6ead88d9,invoiced,"Meu produto não chegou. Isso gerou estresse e eu não estou conseguindo fazer a devolução. Caso isso aconteça, vou por na justiça.",1.0,29.99,14.1,fashion_roupa_masculina
-4f7ce3efe568a5e57290a9fa3e45b1f5,2569d6c5ed547bf0feaf37e32677fdaa,delivered,"Muito enrolado. Já liguei para o stark, ficaram de me retornar em dois dias e até agora nada ",1.0,1695.0,32.67,esporte_lazer
-3440f090efa1949bc4e9ebd0b89b2b6c,2acac3dfe4fa0e75b07461873a67e7e6,delivered,obrigado ,5.0,39.9,29.55,consoles_games
+OBRIGADO",1.0,204.0,23.83,355.77,esporte_lazer
+21f4a37ec131158f1615d0f186f190af,84b100e334843870e95ff29421ab66bd,delivered,Fiz o cancelamento da compra há 13 dias (Data em posto esse comentário). E até agora não cancelaram minha compra no cartão.,1.0,199.98,12.9,212.88,cool_stuff
+e659b8223be6f632acb24fb80cf50ca9,9ac71dee8847ffe35fb2c087da733cc4,delivered,ESPETACULAR.,5.0,61.5,25.71,87.21,automotivo
+45ed6e85398a87c253db47c2d9f48216,8eab8f9b3c744b76b65f7a2c0c8f2d6c,delivered,"Produto demorou a chegar e veio diferente do que foi pedido... pedi X veio Y, nada haver...",1.0,56.99,14.15,50.01,perfumaria
+45ed6e85398a87c253db47c2d9f48216,8eab8f9b3c744b76b65f7a2c0c8f2d6c,delivered,"Produto demorou a chegar e veio diferente do que foi pedido... pedi X veio Y, nada haver...",1.0,56.99,14.15,21.13,perfumaria
+45ed6e85398a87c253db47c2d9f48216,8eab8f9b3c744b76b65f7a2c0c8f2d6c,delivered,"Produto demorou a chegar e veio diferente do que foi pedido... pedi X veio Y, nada haver...",1.0,56.99,14.15,0.0,perfumaria
+0bc4a984d79279c843421830f595273c,e93fa47188d998ecd355fdb87a5e62e3,delivered,"entrega rápida , produto de qualidade, e preço bom",5.0,72.0,13.52,85.52,cama_mesa_banho
+d977821da81b766c90bcd3351f0dbf19,5295c0f1f2053aa636bc034c2a85ab44,delivered,Ótimo produto,4.0,27.9,18.23,46.13,automotivo
+5a00ef28abf9645038a7d37c1639d2c2,60134a69479bd4d54c03fd5076bbe984,delivered,"O produro chegou dentro do prazo, é bem leve e a caixinha é de papelão! Não veio com o certificado de garantia, somente manual. O tamanho é bom e a cor é dourado claro, nada muito chamativo!",4.0,180.0,20.23,200.23,relogios_presentes
+bba5aa837be7e597e91c6ddedf604cd8,94e56a6d6f8b3e26ad64c605e67b48d2,delivered,ótimo foi ara dar de Presente a minha Cunhada amou super Feliz,5.0,119.0,15.71,134.71,relogios_presentes
+faa911f9ff46e53aedc9408c5d6a24ad,77dccd21b005b20fc1f1418c979ca354,delivered,"Comprei DOIS porta talheres e recebi apenas UM até o momento, juntamente com uma NF onde constam dois produtos.",1.0,37.39,19.04,112.86,bebes
+faa911f9ff46e53aedc9408c5d6a24ad,77dccd21b005b20fc1f1418c979ca354,delivered,"Comprei DOIS porta talheres e recebi apenas UM até o momento, juntamente com uma NF onde constam dois produtos.",1.0,37.39,19.04,112.86,bebes
+95e42e6aaf6264cd3e77c06b32dc3003,29ef1f160ce630146dafa02052e2c5bf,shipped,Nao entregaram o produto e nao entraram em contato para resolver o problema ate o momento.,1.0,85.0,7.85,92.85,esporte_lazer
+1cb6cfd9e6306cfe607017391834999a,05aa1cdcd7c5f9e297b3b5d89ae5e1df,delivered,Obrigado vocês estão de parabéns produtos excelente ,5.0,74.9,30.47,208.7,fashion_calcados
+1cb6cfd9e6306cfe607017391834999a,05aa1cdcd7c5f9e297b3b5d89ae5e1df,delivered,Obrigado vocês estão de parabéns produtos excelente ,5.0,74.9,28.43,208.7,fashion_calcados
+7b58fca3faf09217a36d5febee5739a5,0966fbba1c0e8c5e26e31166c2fd3ce8,delivered,O produto ainda não chegou,3.0,59.9,16.86,76.76,beleza_saude
+f30607daae66843552e00843c6de88ef,8e1769459d9b9a9989799f6c79a4a663,delivered,"Mais respeito ao consumidor, era para presente!!",1.0,550.0,145.99,695.99,beleza_saude
+4207ad8e0e4e4070f271c930d25f72d7,2d2b1b42705b2f080c47fb2c46db46f6,delivered,"Gostei do produto, porém entregaram apenas 1 unidade, faltou uma unidade do produto, algo aconteceu durante na entrega",1.0,59.9,17.67,155.14,ferramentas_jardim
+4207ad8e0e4e4070f271c930d25f72d7,2d2b1b42705b2f080c47fb2c46db46f6,delivered,"Gostei do produto, porém entregaram apenas 1 unidade, faltou uma unidade do produto, algo aconteceu durante na entrega",1.0,59.9,17.67,155.14,ferramentas_jardim
+38b7efdf33dd5561f4f5d4f6e07b0414,021e84751ba0ead75b6d314a6ead88d9,invoiced,"Meu produto não chegou. Isso gerou estresse e eu não estou conseguindo fazer a devolução. Caso isso aconteça, vou por na justiça.",1.0,29.99,14.1,44.09,fashion_roupa_masculina
+4f7ce3efe568a5e57290a9fa3e45b1f5,2569d6c5ed547bf0feaf37e32677fdaa,delivered,"Muito enrolado. Já liguei para o stark, ficaram de me retornar em dois dias e até agora nada ",1.0,1695.0,32.67,1727.67,esporte_lazer
+3440f090efa1949bc4e9ebd0b89b2b6c,2acac3dfe4fa0e75b07461873a67e7e6,delivered,obrigado ,5.0,39.9,29.55,69.45,consoles_games
 0d09617395364c88c4ad7c457b439314,016c5c3fb572754f302fdac24aa9cfa4,delivered,"Mercadoria entregue antes do prazo
-",5.0,122.99,20.91,beleza_saude
-f112b9fc8967a675670bedf5a2bc6b2b,4913f37a6cb9e2ba061770efb2ea4e58,delivered,Muito bom! produto de boa qualidade e entregue no prazo.,5.0,59.0,36.24,cine_foto
-580c882a5805c78546ea65ec6d3690e4,a4f6fc82eefc6a54376eea73b27df682,delivered,ainda não recebi o produto. ninguém entrou em contato. NÃo recomendo a ninguém . sou cliente baratheon mt tempo primeira vez que acontece essa situação. ,1.0,153.0,18.32,cama_mesa_banho
-8adafb3466daa5395694d3a906ff9d40,b7919647bde69acc948baa47823d6c75,delivered,"Recebi 5 anilhas, faltou apenas 1 de 3kg",3.0,21.0,6.25,esporte_lazer
-8adafb3466daa5395694d3a906ff9d40,b7919647bde69acc948baa47823d6c75,delivered,"Recebi 5 anilhas, faltou apenas 1 de 3kg",3.0,35.0,10.42,esporte_lazer
-8adafb3466daa5395694d3a906ff9d40,b7919647bde69acc948baa47823d6c75,delivered,"Recebi 5 anilhas, faltou apenas 1 de 3kg",3.0,21.0,6.25,esporte_lazer
-8adafb3466daa5395694d3a906ff9d40,b7919647bde69acc948baa47823d6c75,delivered,"Recebi 5 anilhas, faltou apenas 1 de 3kg",3.0,35.0,10.42,esporte_lazer
-8adafb3466daa5395694d3a906ff9d40,b7919647bde69acc948baa47823d6c75,delivered,"Recebi 5 anilhas, faltou apenas 1 de 3kg",3.0,28.0,8.34,esporte_lazer
-8adafb3466daa5395694d3a906ff9d40,b7919647bde69acc948baa47823d6c75,delivered,"Recebi 5 anilhas, faltou apenas 1 de 3kg",3.0,28.0,8.34,esporte_lazer
-dc05a07c0cc70e26e10e274313034ad3,d9abf57c9a7f1cd9865625d2cba96053,delivered,"Excelente produto, entrega imediata e preço mt bom!!",5.0,299.9,129.74,moveis_escritorio
+",5.0,122.99,20.91,143.9,beleza_saude
+f112b9fc8967a675670bedf5a2bc6b2b,4913f37a6cb9e2ba061770efb2ea4e58,delivered,Muito bom! produto de boa qualidade e entregue no prazo.,5.0,59.0,36.24,95.24,cine_foto
+580c882a5805c78546ea65ec6d3690e4,a4f6fc82eefc6a54376eea73b27df682,delivered,ainda não recebi o produto. ninguém entrou em contato. NÃo recomendo a ninguém . sou cliente baratheon mt tempo primeira vez que acontece essa situação. ,1.0,153.0,18.32,171.32,cama_mesa_banho
+8adafb3466daa5395694d3a906ff9d40,b7919647bde69acc948baa47823d6c75,delivered,"Recebi 5 anilhas, faltou apenas 1 de 3kg",3.0,21.0,6.25,218.0,esporte_lazer
+8adafb3466daa5395694d3a906ff9d40,b7919647bde69acc948baa47823d6c75,delivered,"Recebi 5 anilhas, faltou apenas 1 de 3kg",3.0,35.0,10.42,218.0,esporte_lazer
+8adafb3466daa5395694d3a906ff9d40,b7919647bde69acc948baa47823d6c75,delivered,"Recebi 5 anilhas, faltou apenas 1 de 3kg",3.0,21.0,6.25,218.0,esporte_lazer
+8adafb3466daa5395694d3a906ff9d40,b7919647bde69acc948baa47823d6c75,delivered,"Recebi 5 anilhas, faltou apenas 1 de 3kg",3.0,35.0,10.42,218.0,esporte_lazer
+8adafb3466daa5395694d3a906ff9d40,b7919647bde69acc948baa47823d6c75,delivered,"Recebi 5 anilhas, faltou apenas 1 de 3kg",3.0,28.0,8.34,218.0,esporte_lazer
+8adafb3466daa5395694d3a906ff9d40,b7919647bde69acc948baa47823d6c75,delivered,"Recebi 5 anilhas, faltou apenas 1 de 3kg",3.0,28.0,8.34,218.0,esporte_lazer
+dc05a07c0cc70e26e10e274313034ad3,d9abf57c9a7f1cd9865625d2cba96053,delivered,"Excelente produto, entrega imediata e preço mt bom!!",5.0,299.9,129.74,429.64,moveis_escritorio
 dcb4a1d21593a108db61f12a4b3d61db,2ed973ea37080a94b7beaef7458b2e15,delivered,"Produto chegou no prazo,porem, nao veio na medida correta.
-Tentei entrar em contato para troca ou devolucao e nao obtive nenhuma resposta.",2.0,89.0,23.42,ferramentas_jardim
+Tentei entrar em contato para troca ou devolucao e nao obtive nenhuma resposta.",2.0,89.0,23.42,224.84,ferramentas_jardim
 dcb4a1d21593a108db61f12a4b3d61db,2ed973ea37080a94b7beaef7458b2e15,delivered,"Produto chegou no prazo,porem, nao veio na medida correta.
-Tentei entrar em contato para troca ou devolucao e nao obtive nenhuma resposta.",2.0,89.0,23.42,ferramentas_jardim
-3b14820d642ea72e95df3289b6539c1c,4248fddd68e3375c24e743290ce2d9fa,delivered,"Chegou tudo perfeito, muito antes do prazo, porém o pendente tem uma peça de plástico pequena, aquela que liga na caixa de luz, a rosca é curta.",4.0,75.9,19.5,casa_construcao
-32e4fa9bb468884309b58b9348de70c3,e54367d4b00c5cb76d2dfe71b9bdb89c,delivered,"Comprei duas unidades, foi entregue somente uma. ",3.0,59.0,13.07,beleza_saude
-32e4fa9bb468884309b58b9348de70c3,e54367d4b00c5cb76d2dfe71b9bdb89c,delivered,"Comprei duas unidades, foi entregue somente uma. ",3.0,59.0,13.07,beleza_saude
-32e4fa9bb468884309b58b9348de70c3,e54367d4b00c5cb76d2dfe71b9bdb89c,delivered,"Comprei duas unidades, foi entregue somente uma. ",3.0,59.0,13.07,beleza_saude
-32e4fa9bb468884309b58b9348de70c3,e54367d4b00c5cb76d2dfe71b9bdb89c,delivered,"Comprei duas unidades, foi entregue somente uma. ",3.0,59.0,13.07,beleza_saude
-813f8916cd12b887b0fa271f3263a4d3,bf22881f1f23a79916784ac5b4319c56,delivered,"Apesar de terem emitido Nfe com dados incorretos, corrigiram e o produto foi entregue, mas fora do prazo. Mesmo assim recomendo!!!",3.0,27.9,14.52,informatica_acessorios
-f833a0260cb98fa615a517d4e4a8cdf3,6b74fa3521fe75edbeff9948022f13d1,delivered,Excelente aquisicao,5.0,89.9,21.08,informatica_acessorios
-9d48a2dfef2e0cb6155f816b9bf8489c,c4e12dfa6412f54cb99c38787dca987f,delivered,Um ótimo produto,5.0,12.65,7.39,eletronicos
-d83706c29baf36eedf5e8adfb0da304e,26545a1a15e77138e98380c49a76053a,delivered,"Chegou mais rápido que o prazo previsto, fiquei muito feliz com isso. Ja estou usando o produto e gostei muito. Ja comprei outras vezes no baratheon e vou continuar comprando. Site de muita confiança! ",5.0,27.9,16.05,telefonia
-9472d3c8a0ad463cbfc89897334431da,7e016f9ea275279784f42e0642214284,delivered,AINDA NAO RECEBI O PRODUTO.,1.0,69.99,19.03,brinquedos
-9472d3c8a0ad463cbfc89897334431da,7e016f9ea275279784f42e0642214284,delivered,AINDA NAO RECEBI O PRODUTO.,1.0,69.99,19.03,brinquedos
-d4ab8a264235be36f72a07621046d082,7a5846ef7b6f7d58630bb4b0aafe2858,delivered,"O produto chegou antes do prazo e em perfeito estado, estou muito satisfeito com a compra.",4.0,195.9,19.25,relogios_presentes
-b417d44c131fe6470b3226c7b59f6a8f,82f6d48ad3a75669934efe3988ce9b25,delivered,Entrega antes do prazo,5.0,59.9,15.18,bebes
-407408433ee2a9ed77984aa5a06e2b2e,9f4c898706bf2b467ace0539e0319fcc,delivered,"produto compacto, atendeu as expectativas, e como sempre entrega antes do prazo.",4.0,59.99,16.18,esporte_lazer
-5b96fa278c2b3c1e29c190ef1b651d08,207ac9416941d5b76d64875a33fe3659,delivered,"No anuncio não diz que o produto é ""compatível"" comprei como se fosse Original, apenas percebi quando chegou, se eu soubesse que não era original não teria comprado.",1.0,22.0,14.52,informatica_acessorios
-b3206cf64b7cd1480a6c6f9912b20666,da757be0eb9978feb09365ed3bdfc679,delivered,Estou super satisfeita....super recomendo,2.0,179.9,17.97,eletroportateis
-33209e0f87b2ed543a0876812c9c5c40,bab0c43a2325bbc9ea398b00f8db0717,delivered,Sempre comprei no baratheon e nunca tive problemas poren as duas últimas compras deixou a desejar. .,3.0,159.9,37.05,moveis_decoracao
-ea337f88a8c5cab4e99da87460f1b99e,9aed6fa0db5da18a5433bbff4ef320b8,delivered,Muito bom ...,4.0,198.0,15.56,perfumaria
-ad7ddb009f1bcd6c40cb1106471c292c,26495cdb066f046945177209f10b67fb,delivered,"Ainda não usei, mas chegou antes do prazo e em perfeito estado.",4.0,480.65,21.47,beleza_saude
+Tentei entrar em contato para troca ou devolucao e nao obtive nenhuma resposta.",2.0,89.0,23.42,224.84,ferramentas_jardim
+3b14820d642ea72e95df3289b6539c1c,4248fddd68e3375c24e743290ce2d9fa,delivered,"Chegou tudo perfeito, muito antes do prazo, porém o pendente tem uma peça de plástico pequena, aquela que liga na caixa de luz, a rosca é curta.",4.0,75.9,19.5,95.4,casa_construcao
+32e4fa9bb468884309b58b9348de70c3,e54367d4b00c5cb76d2dfe71b9bdb89c,delivered,"Comprei duas unidades, foi entregue somente uma. ",3.0,59.0,13.07,124.14,beleza_saude
+32e4fa9bb468884309b58b9348de70c3,e54367d4b00c5cb76d2dfe71b9bdb89c,delivered,"Comprei duas unidades, foi entregue somente uma. ",3.0,59.0,13.07,20.0,beleza_saude
+32e4fa9bb468884309b58b9348de70c3,e54367d4b00c5cb76d2dfe71b9bdb89c,delivered,"Comprei duas unidades, foi entregue somente uma. ",3.0,59.0,13.07,124.14,beleza_saude
+32e4fa9bb468884309b58b9348de70c3,e54367d4b00c5cb76d2dfe71b9bdb89c,delivered,"Comprei duas unidades, foi entregue somente uma. ",3.0,59.0,13.07,20.0,beleza_saude
+813f8916cd12b887b0fa271f3263a4d3,bf22881f1f23a79916784ac5b4319c56,delivered,"Apesar de terem emitido Nfe com dados incorretos, corrigiram e o produto foi entregue, mas fora do prazo. Mesmo assim recomendo!!!",3.0,27.9,14.52,42.42,informatica_acessorios
+f833a0260cb98fa615a517d4e4a8cdf3,6b74fa3521fe75edbeff9948022f13d1,delivered,Excelente aquisicao,5.0,89.9,21.08,110.98,informatica_acessorios
+9d48a2dfef2e0cb6155f816b9bf8489c,c4e12dfa6412f54cb99c38787dca987f,delivered,Um ótimo produto,5.0,12.65,7.39,20.04,eletronicos
+d83706c29baf36eedf5e8adfb0da304e,26545a1a15e77138e98380c49a76053a,delivered,"Chegou mais rápido que o prazo previsto, fiquei muito feliz com isso. Ja estou usando o produto e gostei muito. Ja comprei outras vezes no baratheon e vou continuar comprando. Site de muita confiança! ",5.0,27.9,16.05,43.95,telefonia
+9472d3c8a0ad463cbfc89897334431da,7e016f9ea275279784f42e0642214284,delivered,AINDA NAO RECEBI O PRODUTO.,1.0,69.99,19.03,20.03,brinquedos
+9472d3c8a0ad463cbfc89897334431da,7e016f9ea275279784f42e0642214284,delivered,AINDA NAO RECEBI O PRODUTO.,1.0,69.99,19.03,68.99,brinquedos
+d4ab8a264235be36f72a07621046d082,7a5846ef7b6f7d58630bb4b0aafe2858,delivered,"O produto chegou antes do prazo e em perfeito estado, estou muito satisfeito com a compra.",4.0,195.9,19.25,215.15,relogios_presentes
+b417d44c131fe6470b3226c7b59f6a8f,82f6d48ad3a75669934efe3988ce9b25,delivered,Entrega antes do prazo,5.0,59.9,15.18,75.08,bebes
+407408433ee2a9ed77984aa5a06e2b2e,9f4c898706bf2b467ace0539e0319fcc,delivered,"produto compacto, atendeu as expectativas, e como sempre entrega antes do prazo.",4.0,59.99,16.18,76.17,esporte_lazer
+5b96fa278c2b3c1e29c190ef1b651d08,207ac9416941d5b76d64875a33fe3659,delivered,"No anuncio não diz que o produto é ""compatível"" comprei como se fosse Original, apenas percebi quando chegou, se eu soubesse que não era original não teria comprado.",1.0,22.0,14.52,36.52,informatica_acessorios
+b3206cf64b7cd1480a6c6f9912b20666,da757be0eb9978feb09365ed3bdfc679,delivered,Estou super satisfeita....super recomendo,2.0,179.9,17.97,197.87,eletroportateis
+33209e0f87b2ed543a0876812c9c5c40,bab0c43a2325bbc9ea398b00f8db0717,delivered,Sempre comprei no baratheon e nunca tive problemas poren as duas últimas compras deixou a desejar. .,3.0,159.9,37.05,196.95,moveis_decoracao
+ea337f88a8c5cab4e99da87460f1b99e,9aed6fa0db5da18a5433bbff4ef320b8,delivered,Muito bom ...,4.0,198.0,15.56,213.56,perfumaria
+ad7ddb009f1bcd6c40cb1106471c292c,26495cdb066f046945177209f10b67fb,delivered,"Ainda não usei, mas chegou antes do prazo e em perfeito estado.",4.0,480.65,21.47,502.12,beleza_saude
 ac85808794ef111b4689bbdb5ea7f2c9,62082173db63a1a735d81f64754914e4,delivered,"ESTOU SUPER SATISFEITA COM ESSE SITE ,AS MERCADORIAS CHEGAM EM PERFEITAS CONDICOES E PRAZO DESEJÁ
-VEL !!!!",5.0,19.9,16.79,eletronicos
-39a0eaa2a980c810beaf68d76e52fa96,d1c6e90ab127d42b75ef2e548b4461ac,delivered,"Chegou até mesmo antes do prazo de entrega, muito bom o produto, recomendo.",4.0,179.99,18.17,cool_stuff
-cf3d593f97ce4a58adbd6b488579fa36,4156c48bdc8d1ecbfbcfabfefee2d0c7,delivered,Atençao completa adorei quando abri e ja estava embrulhado para presente.,5.0,12.9,7.39,bebes
-8ca57f2b32c00588cab243b2115441f5,284e326e8a71e55bdb0b210ddfabaa27,delivered,"Gostaria de saber sobre a devolução do produto,pois informaram que seria 48 horas pra confirmar a devolução e até o momento nada.",1.0,1349.0,131.73,eletroportateis
-65d7e9625cc211f641191203e231ac24,08999a20d9741d9513c368676f5531c1,delivered,so não fiquei mais satisfeita porque tive que retirar nos correios,5.0,89.9,15.38,cama_mesa_banho
-65d7e9625cc211f641191203e231ac24,08999a20d9741d9513c368676f5531c1,delivered,so não fiquei mais satisfeita porque tive que retirar nos correios,5.0,89.9,15.38,casa_conforto
+VEL !!!!",5.0,19.9,16.79,36.69,eletronicos
+39a0eaa2a980c810beaf68d76e52fa96,d1c6e90ab127d42b75ef2e548b4461ac,delivered,"Chegou até mesmo antes do prazo de entrega, muito bom o produto, recomendo.",4.0,179.99,18.17,198.16,cool_stuff
+cf3d593f97ce4a58adbd6b488579fa36,4156c48bdc8d1ecbfbcfabfefee2d0c7,delivered,Atençao completa adorei quando abri e ja estava embrulhado para presente.,5.0,12.9,7.39,20.29,bebes
+8ca57f2b32c00588cab243b2115441f5,284e326e8a71e55bdb0b210ddfabaa27,delivered,"Gostaria de saber sobre a devolução do produto,pois informaram que seria 48 horas pra confirmar a devolução e até o momento nada.",1.0,1349.0,131.73,1480.73,eletroportateis
+65d7e9625cc211f641191203e231ac24,08999a20d9741d9513c368676f5531c1,delivered,so não fiquei mais satisfeita porque tive que retirar nos correios,5.0,89.9,15.38,210.56,cama_mesa_banho
+65d7e9625cc211f641191203e231ac24,08999a20d9741d9513c368676f5531c1,delivered,so não fiquei mais satisfeita porque tive que retirar nos correios,5.0,89.9,15.38,210.56,casa_conforto
 c432ba5b3bb83966c1b66696c395a2fb,973e21d9b220229aedc9ac566294568f,delivered,"entrega antes do prazo. ótima
-",5.0,25.0,7.94,brinquedos
+",5.0,25.0,7.94,32.94,brinquedos
 48a928c553c276852b35ce90fedfeee2,9ea999ddb251e229b1c8b4925884743e,delivered,"O produto apresenta riscos, aparência de usado, apesar de estar funcionando.
-O produto foi entregue em embalagem, porém envolto em papel bolha, não acondicionado em caixa.",3.0,25.9,16.79,eletronicos
-00125cb692d04887809806618a2a145f,8afb90a97ee661103014329b1bcea1a2,delivered,"produto como descrito, satisfeitíssima com a compra.",5.0,109.9,25.51,moveis_decoracao
-eba75422c6a2414d3cd8289123e64200,d7c4d8b45b0a33ff6df7a3950800d4e8,delivered,Com certeza comprarei outros produtos.,4.0,99.0,41.67,papelaria
-18d686f1bb1270182c646fe337459d79,bbf7be5b7db9baf4509ae4573c8570b4,delivered,"Não é a primeira vez de atraso na entrega, quando consegue falar a atendente ainda pede um prazo de dois dias, fora o atraso, infelizmente as mudanças de entrega dos parceiros não está sendo pratica",1.0,44.9,12.69,utilidades_domesticas
-c5e754f77f6f127371e929ccb707fce3,19ce60e416e5f9342e80d5ddcc814b03,delivered,Muito bom!!,4.0,119.6,11.45,moveis_escritorio
-cd864dfff08db3d739750d749ec053b3,e5b70244ffbbac9f5ebde9ecdfc049f9,delivered,"Foi entregue no prazo, adorei o produto, tá de parabéns",5.0,32.0,15.1,fashion_bolsas_e_acessorios
-31426d292a5d34315a18ac11d6eef7eb,bf4fe999a2d7bc0465cbd817fac3bbee,delivered,Produto excelente,5.0,79.0,13.57,cama_mesa_banho
-1f6405caa14a2debb88594b0471ed340,5ca6f3218e411dcbb9c27ad61bdc3d1d,delivered,"Produto bonito, no entanto de má qualidade, não correspondendo ao esperado como joia de qualidade, com algumas manchas escuras na corrente do pingente.",1.0,133.0,15.68,fashion_bolsas_e_acessorios
-2ed75ffbf396fcdc6341f17d1a16ef5d,7c5f8c2e42af586aa1b1cc8d6bc40732,delivered,Produto entregue muito rápido. Fiquei muito satisfeita!Obrigada. ,5.0,79.0,9.37,relogios_presentes
-c0e59bb74c6b71dbd39b3073120e957d,387752a856ae611e11987f531cf59966,delivered,Gostei,5.0,79.9,13.22,alimentos
-64a9f2b487f66506d463ca18152280e8,90714b0e62fe1fbd304fb45fd644ebdd,delivered,O mocho não tem nem 6 meses de uso e a parte da estrutura já está rachando! Produto de péssima qualidade!,1.0,116.99,18.53,moveis_escritorio
-e5e6a20a4c3fbe6ee280c01f8fe279cc,e1cb13d47d802da7d23d6253ed8d7959,delivered,"Produto de ótima qualidade, com cores vivas e bem recortado. Deu um pouco de trabalho pra colocar (devido à falta de experiência) mas o resultado foi surpreendente!",5.0,49.0,22.27,bebes
-7753606fb1d0067848f8a1a7ae5abefa,5c4a6f6b98ec2d780b10f1cc88ef208f,delivered,"Veio com a voltagem 220,sendo que pedi 110",4.0,59.99,8.88,beleza_saude
-7753606fb1d0067848f8a1a7ae5abefa,5c4a6f6b98ec2d780b10f1cc88ef208f,delivered,"Veio com a voltagem 220,sendo que pedi 110",4.0,59.99,8.88,beleza_saude
-87386e2485df1ab61a6d060a092e4d6f,0728f6d108255cb411a50fb646c3c7dc,delivered,Produto recebido com sucesso!,5.0,35.9,17.92,malas_acessorios
-91bcade2288597459e1dbce52d6d0ef9,449057269c318304d8a753f64c181b07,delivered,o produto não chegou,1.0,124.9,38.42,moveis_decoracao
-df8e5e994bcc820fcf403f9a875201e6,05f1c2a8e913a4084727ac728bbdbec2,delivered,entrega rapida,5.0,75.0,21.17,moveis_decoracao
+O produto foi entregue em embalagem, porém envolto em papel bolha, não acondicionado em caixa.",3.0,25.9,16.79,42.69,eletronicos
+00125cb692d04887809806618a2a145f,8afb90a97ee661103014329b1bcea1a2,delivered,"produto como descrito, satisfeitíssima com a compra.",5.0,109.9,25.51,135.41,moveis_decoracao
+eba75422c6a2414d3cd8289123e64200,d7c4d8b45b0a33ff6df7a3950800d4e8,delivered,Com certeza comprarei outros produtos.,4.0,99.0,41.67,140.67,papelaria
+18d686f1bb1270182c646fe337459d79,bbf7be5b7db9baf4509ae4573c8570b4,delivered,"Não é a primeira vez de atraso na entrega, quando consegue falar a atendente ainda pede um prazo de dois dias, fora o atraso, infelizmente as mudanças de entrega dos parceiros não está sendo pratica",1.0,44.9,12.69,57.59,utilidades_domesticas
+c5e754f77f6f127371e929ccb707fce3,19ce60e416e5f9342e80d5ddcc814b03,delivered,Muito bom!!,4.0,119.6,11.45,131.05,moveis_escritorio
+cd864dfff08db3d739750d749ec053b3,e5b70244ffbbac9f5ebde9ecdfc049f9,delivered,"Foi entregue no prazo, adorei o produto, tá de parabéns",5.0,32.0,15.1,47.1,fashion_bolsas_e_acessorios
+31426d292a5d34315a18ac11d6eef7eb,bf4fe999a2d7bc0465cbd817fac3bbee,delivered,Produto excelente,5.0,79.0,13.57,92.57,cama_mesa_banho
+1f6405caa14a2debb88594b0471ed340,5ca6f3218e411dcbb9c27ad61bdc3d1d,delivered,"Produto bonito, no entanto de má qualidade, não correspondendo ao esperado como joia de qualidade, com algumas manchas escuras na corrente do pingente.",1.0,133.0,15.68,148.68,fashion_bolsas_e_acessorios
+2ed75ffbf396fcdc6341f17d1a16ef5d,7c5f8c2e42af586aa1b1cc8d6bc40732,delivered,Produto entregue muito rápido. Fiquei muito satisfeita!Obrigada. ,5.0,79.0,9.37,88.37,relogios_presentes
+c0e59bb74c6b71dbd39b3073120e957d,387752a856ae611e11987f531cf59966,delivered,Gostei,5.0,79.9,13.22,93.12,alimentos
+64a9f2b487f66506d463ca18152280e8,90714b0e62fe1fbd304fb45fd644ebdd,delivered,O mocho não tem nem 6 meses de uso e a parte da estrutura já está rachando! Produto de péssima qualidade!,1.0,116.99,18.53,135.52,moveis_escritorio
+e5e6a20a4c3fbe6ee280c01f8fe279cc,e1cb13d47d802da7d23d6253ed8d7959,delivered,"Produto de ótima qualidade, com cores vivas e bem recortado. Deu um pouco de trabalho pra colocar (devido à falta de experiência) mas o resultado foi surpreendente!",5.0,49.0,22.27,71.27,bebes
+7753606fb1d0067848f8a1a7ae5abefa,5c4a6f6b98ec2d780b10f1cc88ef208f,delivered,"Veio com a voltagem 220,sendo que pedi 110",4.0,59.99,8.88,137.74,beleza_saude
+7753606fb1d0067848f8a1a7ae5abefa,5c4a6f6b98ec2d780b10f1cc88ef208f,delivered,"Veio com a voltagem 220,sendo que pedi 110",4.0,59.99,8.88,137.74,beleza_saude
+87386e2485df1ab61a6d060a092e4d6f,0728f6d108255cb411a50fb646c3c7dc,delivered,Produto recebido com sucesso!,5.0,35.9,17.92,53.82,malas_acessorios
+91bcade2288597459e1dbce52d6d0ef9,449057269c318304d8a753f64c181b07,delivered,o produto não chegou,1.0,124.9,38.42,163.32,moveis_decoracao
+df8e5e994bcc820fcf403f9a875201e6,05f1c2a8e913a4084727ac728bbdbec2,delivered,entrega rapida,5.0,75.0,21.17,96.17,moveis_decoracao
 3480c6733692db0895d7f240dc18d9d6,511565b2987c19e165331306886f10f8,delivered,"Entrega feita em menos de uma semana;
 Produto ótimo ;
-Muito bom!",5.0,49.0,7.78,fashion_bolsas_e_acessorios
-7845a2492ab1b4f2cf3d56c7b8da1446,386e96046ce0e77e5c9a9a4e818da93c,delivered,chegou antesdo programado,5.0,29.99,14.1,moveis_decoracao
-7845a2492ab1b4f2cf3d56c7b8da1446,386e96046ce0e77e5c9a9a4e818da93c,delivered,chegou antes do prometido,5.0,29.99,14.1,moveis_decoracao
-d44b754260def6c94daa9e661e530044,50c065ad9fbbc477d28bbb56dcb61600,delivered,Pelo preço vale a pena ,3.0,129.99,17.65,cool_stuff
-d52140bee663636aa4f6057e50bc06a3,32fa597a3b06db1949ee96c416335b6b,delivered,Não recebi o produto e a loja nem se quer me dar uma satisfação ,1.0,119.9,27.38,beleza_saude
-bcdbb3b243d4e882503b919785e2343f,4146dd1b456444cd54142b5a7c4b9405,delivered,Bom o produto é bom mas eu comprei 5 radinho e só veio 3 ,1.0,125.0,14.23,telefonia_fixa
-bcdbb3b243d4e882503b919785e2343f,4146dd1b456444cd54142b5a7c4b9405,delivered,Bom o produto é bom mas eu comprei 5 radinho e só veio 3 ,1.0,125.0,14.23,telefonia_fixa
-bcdbb3b243d4e882503b919785e2343f,4146dd1b456444cd54142b5a7c4b9405,delivered,Bom o produto é bom mas eu comprei 5 radinho e só veio 3 ,1.0,125.0,14.23,telefonia_fixa
-bcdbb3b243d4e882503b919785e2343f,4146dd1b456444cd54142b5a7c4b9405,delivered,Bom o produto é bom mas eu comprei 5 radinho e só veio 3 ,1.0,125.0,14.23,telefonia_fixa
-bcdbb3b243d4e882503b919785e2343f,4146dd1b456444cd54142b5a7c4b9405,delivered,Bom o produto é bom mas eu comprei 5 radinho e só veio 3 ,1.0,125.0,14.23,telefonia_fixa
-4c460fdf49b517270b6258ba2d3c1ef9,ffe82abbde8061e75c4c0b72f3b2accf,delivered,"Produto de ótima qualidade, fiquei super feliz com a agilidade da entrega.",5.0,127.5,11.91,cama_mesa_banho
-118045506e1c1dda060171af43fe11b4,638c6674418fc58283a73c078bcb076f,delivered,Eu pedi 6 trios de pendentes e vcs só M entregaram 6 unidades este não foi meu pedido nem meu pagamento,1.0,45.0,27.08,moveis_decoracao
-118045506e1c1dda060171af43fe11b4,638c6674418fc58283a73c078bcb076f,delivered,Eu pedi 6 trios de pendentes e vcs só M entregaram 6 unidades este não foi meu pedido nem meu pagamento,1.0,45.0,27.08,moveis_decoracao
-118045506e1c1dda060171af43fe11b4,638c6674418fc58283a73c078bcb076f,delivered,Eu pedi 6 trios de pendentes e vcs só M entregaram 6 unidades este não foi meu pedido nem meu pagamento,1.0,45.0,27.08,moveis_decoracao
-118045506e1c1dda060171af43fe11b4,638c6674418fc58283a73c078bcb076f,delivered,Eu pedi 6 trios de pendentes e vcs só M entregaram 6 unidades este não foi meu pedido nem meu pagamento,1.0,45.0,27.08,moveis_decoracao
-118045506e1c1dda060171af43fe11b4,638c6674418fc58283a73c078bcb076f,delivered,Eu pedi 6 trios de pendentes e vcs só M entregaram 6 unidades este não foi meu pedido nem meu pagamento,1.0,45.0,27.08,moveis_decoracao
-ec07555943e04d757937a8bea3a75ed7,cf3c35f463f6a234d0dc10d33dacb41e,delivered,"O produto que veio não vale o que paguei, mau acabado e irregular.",3.0,109.8,16.53,automotivo
-825c221a4e981f278e9c5ec6ead83a3f,933bf00ad9a4f8bfd36bd85e09bd6cba,delivered,Recebi o produto dentro do prazo.tudo ok,5.0,73.9,13.54,beleza_saude
+Muito bom!",5.0,49.0,7.78,56.78,fashion_bolsas_e_acessorios
+7845a2492ab1b4f2cf3d56c7b8da1446,386e96046ce0e77e5c9a9a4e818da93c,delivered,chegou antesdo programado,5.0,29.99,14.1,44.09,moveis_decoracao
+7845a2492ab1b4f2cf3d56c7b8da1446,386e96046ce0e77e5c9a9a4e818da93c,delivered,chegou antes do prometido,5.0,29.99,14.1,44.09,moveis_decoracao
+d44b754260def6c94daa9e661e530044,50c065ad9fbbc477d28bbb56dcb61600,delivered,Pelo preço vale a pena ,3.0,129.99,17.65,147.64,cool_stuff
+d52140bee663636aa4f6057e50bc06a3,32fa597a3b06db1949ee96c416335b6b,delivered,Não recebi o produto e a loja nem se quer me dar uma satisfação ,1.0,119.9,27.38,147.28,beleza_saude
+bcdbb3b243d4e882503b919785e2343f,4146dd1b456444cd54142b5a7c4b9405,delivered,Bom o produto é bom mas eu comprei 5 radinho e só veio 3 ,1.0,125.0,14.23,696.15,telefonia_fixa
+bcdbb3b243d4e882503b919785e2343f,4146dd1b456444cd54142b5a7c4b9405,delivered,Bom o produto é bom mas eu comprei 5 radinho e só veio 3 ,1.0,125.0,14.23,696.15,telefonia_fixa
+bcdbb3b243d4e882503b919785e2343f,4146dd1b456444cd54142b5a7c4b9405,delivered,Bom o produto é bom mas eu comprei 5 radinho e só veio 3 ,1.0,125.0,14.23,696.15,telefonia_fixa
+bcdbb3b243d4e882503b919785e2343f,4146dd1b456444cd54142b5a7c4b9405,delivered,Bom o produto é bom mas eu comprei 5 radinho e só veio 3 ,1.0,125.0,14.23,696.15,telefonia_fixa
+bcdbb3b243d4e882503b919785e2343f,4146dd1b456444cd54142b5a7c4b9405,delivered,Bom o produto é bom mas eu comprei 5 radinho e só veio 3 ,1.0,125.0,14.23,696.15,telefonia_fixa
+4c460fdf49b517270b6258ba2d3c1ef9,ffe82abbde8061e75c4c0b72f3b2accf,delivered,"Produto de ótima qualidade, fiquei super feliz com a agilidade da entrega.",5.0,127.5,11.91,139.41,cama_mesa_banho
+118045506e1c1dda060171af43fe11b4,638c6674418fc58283a73c078bcb076f,delivered,Eu pedi 6 trios de pendentes e vcs só M entregaram 6 unidades este não foi meu pedido nem meu pagamento,1.0,45.0,27.08,360.4,moveis_decoracao
+118045506e1c1dda060171af43fe11b4,638c6674418fc58283a73c078bcb076f,delivered,Eu pedi 6 trios de pendentes e vcs só M entregaram 6 unidades este não foi meu pedido nem meu pagamento,1.0,45.0,27.08,360.4,moveis_decoracao
+118045506e1c1dda060171af43fe11b4,638c6674418fc58283a73c078bcb076f,delivered,Eu pedi 6 trios de pendentes e vcs só M entregaram 6 unidades este não foi meu pedido nem meu pagamento,1.0,45.0,27.08,360.4,moveis_decoracao
+118045506e1c1dda060171af43fe11b4,638c6674418fc58283a73c078bcb076f,delivered,Eu pedi 6 trios de pendentes e vcs só M entregaram 6 unidades este não foi meu pedido nem meu pagamento,1.0,45.0,27.08,360.4,moveis_decoracao
+118045506e1c1dda060171af43fe11b4,638c6674418fc58283a73c078bcb076f,delivered,Eu pedi 6 trios de pendentes e vcs só M entregaram 6 unidades este não foi meu pedido nem meu pagamento,1.0,45.0,27.08,360.4,moveis_decoracao
+ec07555943e04d757937a8bea3a75ed7,cf3c35f463f6a234d0dc10d33dacb41e,delivered,"O produto que veio não vale o que paguei, mau acabado e irregular.",3.0,109.8,16.53,126.33,automotivo
+825c221a4e981f278e9c5ec6ead83a3f,933bf00ad9a4f8bfd36bd85e09bd6cba,delivered,Recebi o produto dentro do prazo.tudo ok,5.0,73.9,13.54,87.44,beleza_saude
 371f13dd168ce30a881e0db8cf3929fb,f411a040a2fa31babc72e93f3a947e07,delivered,"eu amei meu tapete
-",5.0,599.0,66.87,casa_conforto
-9db49839ad325c2bf4303df727694be2,3be5a877ceebea2954404c6ef8e70be2,delivered,"Chegou no prazo, e de ótima qualidade, eu recomendo...",5.0,45.95,16.79,cama_mesa_banho
-d5af7f6e2db2c527fe19decfc2d37a83,bf59771b1ab3559105d03691c8c99794,delivered,Ola eu comprei 3 peças iguais de 59.90$ apenas um foi entregue os outros 2 produtos ainda nao foram entregue. Preciso de uma informaçao sobre issu urgente. Pois estou sendo cobrado pelo 3 produtos. ,3.0,59.9,13.44,ferramentas_jardim
-d5af7f6e2db2c527fe19decfc2d37a83,bf59771b1ab3559105d03691c8c99794,delivered,Ola eu comprei 3 peças iguais de 59.90$ apenas um foi entregue os outros 2 produtos ainda nao foram entregue. Preciso de uma informaçao sobre issu urgente. Pois estou sendo cobrado pelo 3 produtos. ,3.0,59.9,13.44,ferramentas_jardim
-d5af7f6e2db2c527fe19decfc2d37a83,bf59771b1ab3559105d03691c8c99794,delivered,Ola eu comprei 3 peças iguais de 59.90$ apenas um foi entregue os outros 2 produtos ainda nao foram entregue. Preciso de uma informaçao sobre issu urgente. Pois estou sendo cobrado pelo 3 produtos. ,3.0,59.9,13.44,ferramentas_jardim
-49e19ca07e42bde08630a08e50ad980e,cb67357747667b594aa6d47770e7334c,delivered,Foi muito bom fazer a compra,5.0,109.9,23.35,brinquedos
-ed3b269b4badaf0126050c9d4f7b854c,8df348aaafe2a0df5f1ad620b64095f9,delivered,muito prático e pontual.,5.0,43.0,12.96,esporte_lazer
-5e0311cb517d342851ca3b346cd4c5ab,3ac33dfea62e0b085b5cfeb64bee5f21,delivered,"Recomendo sim, chegou muito antes do prazo e ótimo produto!",5.0,54.99,15.13,brinquedos
-f4b76dbfe0f911217da5adaa458f5b5b,c2d9ace6123e42fa913bd6fad131bf09,delivered,Meu filho gostou e ficou super feliz!,5.0,149.9,15.81,brinquedos
-4d315c56f2d8d8d27bf1a1365d41c923,1a064684f3096efdbfb11a78ea4f97c9,delivered,"Comprei de presente para minha filha, ela gostou muito. É um produto muito fácil de montar. Chegou dentro do prazo..",4.0,112.94,34.87,moveis_escritorio
-4d315c56f2d8d8d27bf1a1365d41c923,1a064684f3096efdbfb11a78ea4f97c9,delivered,"Comprei de presente para minha filha, ela gostou muito. É um produto muito fácil de montar. Chegou dentro do prazo..",4.0,112.94,34.87,moveis_escritorio
-68a001baa8dbd45ba5096b470f57a498,355971cbe54e13e55beb25fab74f6988,delivered,"Amei o produto, do jeito que eu esperava e imaginava! Já usei muito ",5.0,45.0,14.1,telefonia
+",5.0,599.0,66.87,665.87,casa_conforto
+9db49839ad325c2bf4303df727694be2,3be5a877ceebea2954404c6ef8e70be2,delivered,"Chegou no prazo, e de ótima qualidade, eu recomendo...",5.0,45.95,16.79,62.74,cama_mesa_banho
+d5af7f6e2db2c527fe19decfc2d37a83,bf59771b1ab3559105d03691c8c99794,delivered,Ola eu comprei 3 peças iguais de 59.90$ apenas um foi entregue os outros 2 produtos ainda nao foram entregue. Preciso de uma informaçao sobre issu urgente. Pois estou sendo cobrado pelo 3 produtos. ,3.0,59.9,13.44,220.02,ferramentas_jardim
+d5af7f6e2db2c527fe19decfc2d37a83,bf59771b1ab3559105d03691c8c99794,delivered,Ola eu comprei 3 peças iguais de 59.90$ apenas um foi entregue os outros 2 produtos ainda nao foram entregue. Preciso de uma informaçao sobre issu urgente. Pois estou sendo cobrado pelo 3 produtos. ,3.0,59.9,13.44,220.02,ferramentas_jardim
+d5af7f6e2db2c527fe19decfc2d37a83,bf59771b1ab3559105d03691c8c99794,delivered,Ola eu comprei 3 peças iguais de 59.90$ apenas um foi entregue os outros 2 produtos ainda nao foram entregue. Preciso de uma informaçao sobre issu urgente. Pois estou sendo cobrado pelo 3 produtos. ,3.0,59.9,13.44,220.02,ferramentas_jardim
+49e19ca07e42bde08630a08e50ad980e,cb67357747667b594aa6d47770e7334c,delivered,Foi muito bom fazer a compra,5.0,109.9,23.35,133.25,brinquedos
+ed3b269b4badaf0126050c9d4f7b854c,8df348aaafe2a0df5f1ad620b64095f9,delivered,muito prático e pontual.,5.0,43.0,12.96,55.96,esporte_lazer
+5e0311cb517d342851ca3b346cd4c5ab,3ac33dfea62e0b085b5cfeb64bee5f21,delivered,"Recomendo sim, chegou muito antes do prazo e ótimo produto!",5.0,54.99,15.13,70.12,brinquedos
+f4b76dbfe0f911217da5adaa458f5b5b,c2d9ace6123e42fa913bd6fad131bf09,delivered,Meu filho gostou e ficou super feliz!,5.0,149.9,15.81,165.71,brinquedos
+4d315c56f2d8d8d27bf1a1365d41c923,1a064684f3096efdbfb11a78ea4f97c9,delivered,"Comprei de presente para minha filha, ela gostou muito. É um produto muito fácil de montar. Chegou dentro do prazo..",4.0,112.94,34.87,47.81,moveis_escritorio
+4d315c56f2d8d8d27bf1a1365d41c923,1a064684f3096efdbfb11a78ea4f97c9,delivered,"Comprei de presente para minha filha, ela gostou muito. É um produto muito fácil de montar. Chegou dentro do prazo..",4.0,112.94,34.87,100.0,moveis_escritorio
+68a001baa8dbd45ba5096b470f57a498,355971cbe54e13e55beb25fab74f6988,delivered,"Amei o produto, do jeito que eu esperava e imaginava! Já usei muito ",5.0,45.0,14.1,59.1,telefonia
 f9c8a2771f663e15460ae6ba93205354,de6878ac6d0e66c06927865e86f28f60,delivered,"Produto muito barulhento e a velocidade dele ocila muito e trava tb
-Nao recomendo ou o meu veio com defeito ",3.0,59.9,13.44,beleza_saude
+Nao recomendo ou o meu veio com defeito ",3.0,59.9,13.44,73.34,beleza_saude
 b2ce866408709e3ba155f339e97b8405,8dd1c4e88c1db62830ab1f7c56b6ee42,delivered,"Bom
-",3.0,199.9,27.48,cama_mesa_banho
-a98012aa8c697f2bcff9f8c2183e0f2b,3e337c99e0f5ff7ba9a4b98fbf7412fd,delivered,"O pedido, não chegou com a quantidade correta. Faltou o Suporte De Peito Cinta Peitoral Para Camera Gopro Go Pro, faltou um Adaptador Conector P2 Macho P10 Femea Estereo Microfone sendo 3.",1.0,8.99,23.51,informatica_acessorios
-a98012aa8c697f2bcff9f8c2183e0f2b,3e337c99e0f5ff7ba9a4b98fbf7412fd,delivered,"O pedido, não chegou com a quantidade correta. Faltou o Suporte De Peito Cinta Peitoral Para Camera Gopro Go Pro, faltou um Adaptador Conector P2 Macho P10 Femea Estereo Microfone sendo 3.",1.0,8.99,23.51,informatica_acessorios
-a98012aa8c697f2bcff9f8c2183e0f2b,3e337c99e0f5ff7ba9a4b98fbf7412fd,delivered,"O pedido, não chegou com a quantidade correta. Faltou o Suporte De Peito Cinta Peitoral Para Camera Gopro Go Pro, faltou um Adaptador Conector P2 Macho P10 Femea Estereo Microfone sendo 3.",1.0,22.9,0.78,cool_stuff
-a98012aa8c697f2bcff9f8c2183e0f2b,3e337c99e0f5ff7ba9a4b98fbf7412fd,delivered,"O pedido, não chegou com a quantidade correta. Faltou o Suporte De Peito Cinta Peitoral Para Camera Gopro Go Pro, faltou um Adaptador Conector P2 Macho P10 Femea Estereo Microfone sendo 3.",1.0,8.99,23.51,informatica_acessorios
-a98012aa8c697f2bcff9f8c2183e0f2b,3e337c99e0f5ff7ba9a4b98fbf7412fd,delivered,"O pedido, não chegou com a quantidade correta. Faltou o Suporte De Peito Cinta Peitoral Para Camera Gopro Go Pro, faltou um Adaptador Conector P2 Macho P10 Femea Estereo Microfone sendo 3.",1.0,29.95,7.84,casa_construcao
-f3d418a0887dbfd5bd41c788c87ac28b,1fabee44ed07815c74f684fe4826c686,delivered,"Chegou o produto atrasado, faltando outro. Falta chegar os demais. O cliente está zangado.",1.0,59.0,33.72,ferramentas_jardim
-f3d418a0887dbfd5bd41c788c87ac28b,1fabee44ed07815c74f684fe4826c686,delivered,"Chegou o produto atrasado, faltando outro. Falta chegar os demais. O cliente está zangado.",1.0,37.95,42.14,casa_construcao
-31b157fa9491800710e3feeb482ccee9,55490de47a9c2abff0a27a5296ae9c2c,delivered,Produto foi entregue antes do prazo. Ótima qualidade. ,5.0,109.9,12.47,esporte_lazer
-b92fa055c4f004d4ae52eccce4efbe5f,36d3a1fdfe49d86395c631a7ea4dea63,delivered,o produto é bom,3.0,29.99,12.69,cama_mesa_banho
+",3.0,199.9,27.48,227.38,cama_mesa_banho
+a98012aa8c697f2bcff9f8c2183e0f2b,3e337c99e0f5ff7ba9a4b98fbf7412fd,delivered,"O pedido, não chegou com a quantidade correta. Faltou o Suporte De Peito Cinta Peitoral Para Camera Gopro Go Pro, faltou um Adaptador Conector P2 Macho P10 Femea Estereo Microfone sendo 3.",1.0,8.99,23.51,158.97,informatica_acessorios
+a98012aa8c697f2bcff9f8c2183e0f2b,3e337c99e0f5ff7ba9a4b98fbf7412fd,delivered,"O pedido, não chegou com a quantidade correta. Faltou o Suporte De Peito Cinta Peitoral Para Camera Gopro Go Pro, faltou um Adaptador Conector P2 Macho P10 Femea Estereo Microfone sendo 3.",1.0,8.99,23.51,158.97,informatica_acessorios
+a98012aa8c697f2bcff9f8c2183e0f2b,3e337c99e0f5ff7ba9a4b98fbf7412fd,delivered,"O pedido, não chegou com a quantidade correta. Faltou o Suporte De Peito Cinta Peitoral Para Camera Gopro Go Pro, faltou um Adaptador Conector P2 Macho P10 Femea Estereo Microfone sendo 3.",1.0,22.9,0.78,158.97,cool_stuff
+a98012aa8c697f2bcff9f8c2183e0f2b,3e337c99e0f5ff7ba9a4b98fbf7412fd,delivered,"O pedido, não chegou com a quantidade correta. Faltou o Suporte De Peito Cinta Peitoral Para Camera Gopro Go Pro, faltou um Adaptador Conector P2 Macho P10 Femea Estereo Microfone sendo 3.",1.0,8.99,23.51,158.97,informatica_acessorios
+a98012aa8c697f2bcff9f8c2183e0f2b,3e337c99e0f5ff7ba9a4b98fbf7412fd,delivered,"O pedido, não chegou com a quantidade correta. Faltou o Suporte De Peito Cinta Peitoral Para Camera Gopro Go Pro, faltou um Adaptador Conector P2 Macho P10 Femea Estereo Microfone sendo 3.",1.0,29.95,7.84,158.97,casa_construcao
+f3d418a0887dbfd5bd41c788c87ac28b,1fabee44ed07815c74f684fe4826c686,delivered,"Chegou o produto atrasado, faltando outro. Falta chegar os demais. O cliente está zangado.",1.0,59.0,33.72,172.81,ferramentas_jardim
+f3d418a0887dbfd5bd41c788c87ac28b,1fabee44ed07815c74f684fe4826c686,delivered,"Chegou o produto atrasado, faltando outro. Falta chegar os demais. O cliente está zangado.",1.0,37.95,42.14,172.81,casa_construcao
+31b157fa9491800710e3feeb482ccee9,55490de47a9c2abff0a27a5296ae9c2c,delivered,Produto foi entregue antes do prazo. Ótima qualidade. ,5.0,109.9,12.47,122.37,esporte_lazer
+b92fa055c4f004d4ae52eccce4efbe5f,36d3a1fdfe49d86395c631a7ea4dea63,delivered,o produto é bom,3.0,29.99,12.69,42.68,cama_mesa_banho
 714fb133a6730ab81fa1d3c1b2007291,e3fe72696c4713d64d3c10afe71e75ed,canceled,"Olá!
-Minha queixa é a não entrega na residência. Tive que buscar no correio. Tenho um produto que foi devolvido, e ainda nem sei o que fazer. Talvez um telefonema ajudasse. ",1.0,69.9,26.11,moveis_decoracao
+Minha queixa é a não entrega na residência. Tive que buscar no correio. Tenho um produto que foi devolvido, e ainda nem sei o que fazer. Talvez um telefonema ajudasse. ",1.0,69.9,26.11,96.01,moveis_decoracao
 714fb133a6730ab81fa1d3c1b2007291,e3fe72696c4713d64d3c10afe71e75ed,canceled,"Holá!
-Não recebi o produto é nem um telefonema referente ao que comprei.",1.0,69.9,26.11,moveis_decoracao
-f3381b1e6c37c70f2b3c9d211b166412,77eca4439004e4aad223924d6f254f3f,delivered,stark e a loja que entrga mais rapido.,4.0,89.18,19.59,utilidades_domesticas
-ea12bd9ee4b9a167ce287004482769e1,787b46588e96b01ea8bb3a4bfbccd352,delivered,Produto de ótima qualidade e chegou bem antes do prazo previsto de entrega! Estou muito satisfeita!,5.0,79.0,13.57,papelaria
-4cd9478b63edacb631dcf780b036b157,f1b66f0324a631de414bc2bf62b5e915,delivered,trabalho com profissionalismo das lojas lannister. indico com certeza,4.0,14.0,12.79,telefonia
-c514dba8d0ed614c6a397d2f0f3fe202,2fdffca8dcdf01547529d45f7f4e8e8f,delivered,Ótimo fornecedor ,5.0,109.0,13.42,construcao_ferramentas_seguranca
-c3716204ec5bc2bc5593bee858279148,99ae056139c928155fbb6789440c8824,delivered,"meu produto veio com o cabo todo arranhado, produto parece usado",1.0,69.9,18.59,esporte_lazer
-26e7beff0239dc6ed3a8f2bb5972911c,6c5aeca0152670c75e44c9c67eb7c1f3,delivered,Chegou bem antes do prazo e tudo certinho,5.0,53.0,12.71,cama_mesa_banho
+Não recebi o produto é nem um telefonema referente ao que comprei.",1.0,69.9,26.11,96.01,moveis_decoracao
+f3381b1e6c37c70f2b3c9d211b166412,77eca4439004e4aad223924d6f254f3f,delivered,stark e a loja que entrga mais rapido.,4.0,89.18,19.59,108.77,utilidades_domesticas
+ea12bd9ee4b9a167ce287004482769e1,787b46588e96b01ea8bb3a4bfbccd352,delivered,Produto de ótima qualidade e chegou bem antes do prazo previsto de entrega! Estou muito satisfeita!,5.0,79.0,13.57,92.57,papelaria
+4cd9478b63edacb631dcf780b036b157,f1b66f0324a631de414bc2bf62b5e915,delivered,trabalho com profissionalismo das lojas lannister. indico com certeza,4.0,14.0,12.79,26.79,telefonia
+c514dba8d0ed614c6a397d2f0f3fe202,2fdffca8dcdf01547529d45f7f4e8e8f,delivered,Ótimo fornecedor ,5.0,109.0,13.42,122.42,construcao_ferramentas_seguranca
+c3716204ec5bc2bc5593bee858279148,99ae056139c928155fbb6789440c8824,delivered,"meu produto veio com o cabo todo arranhado, produto parece usado",1.0,69.9,18.59,88.49,esporte_lazer
+26e7beff0239dc6ed3a8f2bb5972911c,6c5aeca0152670c75e44c9c67eb7c1f3,delivered,Chegou bem antes do prazo e tudo certinho,5.0,53.0,12.71,65.71,cama_mesa_banho
 9a886ac42ca6eb5571fbdd1bdd8be02e,c7f920a7b4aed73af416b5fa6f5c5584,delivered,"Meu produto chegou muito mais rápido do quê o esperado. Uma vez que a previsão era para o dia 08/05 e chegou dia 20/04. 
-Ainda não o usei, mas em questão de entrega eu super recomendo.",5.0,26.9,10.96,beleza_saude
-f8ebe0a43498e8d689afbbfec4b3eaba,b59948a7b140d0a16d1683138820eed9,delivered,´´otima,5.0,89.9,17.88,cama_mesa_banho
-d2741de337666d1bb01913f415e6643f,cb1e2bf26acb98ef66bb11447a218cc2,delivered,PRODUTO ENTREGUE CONFORME O COMBINADO,4.0,18.99,17.78,alimentos
-d30680568af2e9f0aeba3420292df26d,8eb5e45df7b0f27cc1a3b7ba46219180,delivered,Zero não entregaram e não dão satisfação! Vou devolver,1.0,109.9,16.21,beleza_saude
-2d8f8f85abccae68275f423d878f2b7e,8ca53db6e60cffad03828535d1fcc1a2,delivered,Achei o prazo de entrega muito longo.,3.0,61.9,16.19,informatica_acessorios
-cfd355e6233b9854f7decc72472f9c3e,dfd239feb53ae84d8c50baab69d38133,delivered,"Os orifícios da capa para conexão do cabo P2 (3,5 mm) e do microfone não correspondem ao celular.",2.0,18.99,17.78,telefonia
+Ainda não o usei, mas em questão de entrega eu super recomendo.",5.0,26.9,10.96,37.86,beleza_saude
+f8ebe0a43498e8d689afbbfec4b3eaba,b59948a7b140d0a16d1683138820eed9,delivered,´´otima,5.0,89.9,17.88,107.78,cama_mesa_banho
+d2741de337666d1bb01913f415e6643f,cb1e2bf26acb98ef66bb11447a218cc2,delivered,PRODUTO ENTREGUE CONFORME O COMBINADO,4.0,18.99,17.78,36.77,alimentos
+d30680568af2e9f0aeba3420292df26d,8eb5e45df7b0f27cc1a3b7ba46219180,delivered,Zero não entregaram e não dão satisfação! Vou devolver,1.0,109.9,16.21,126.11,beleza_saude
+2d8f8f85abccae68275f423d878f2b7e,8ca53db6e60cffad03828535d1fcc1a2,delivered,Achei o prazo de entrega muito longo.,3.0,61.9,16.19,78.09,informatica_acessorios
+cfd355e6233b9854f7decc72472f9c3e,dfd239feb53ae84d8c50baab69d38133,delivered,"Os orifícios da capa para conexão do cabo P2 (3,5 mm) e do microfone não correspondem ao celular.",2.0,18.99,17.78,36.77,telefonia
 fc66798245e4d173bcc7eb36eb72a278,43831164a0be75b0bd8fd92cc8c6b232,delivered,"Excelente produto.
 
 Peruca sintetica, semelhante a cabelos, fio fino e opaco, nao possui brilho artificial
 
-",5.0,160.0,19.22,beleza_saude
-1a7ee01992a69255a005e9db8a96d898,6ba47b28c84367f0c27769d78f1c3adb,delivered,COMPREI UM PRODUTO E VEIO OUTRO.,1.0,243.0,35.06,eletronicos
-d0d828105d7a6106d4b6cfd55607c278,e7fb8d2c8a581e31b93defd84ee988fe,delivered,"Superou minhas expectativas, voltarei a fazer negócio com certeza!",5.0,72.5,9.26,esporte_lazer
-d0d828105d7a6106d4b6cfd55607c278,e7fb8d2c8a581e31b93defd84ee988fe,delivered,"Superou minhas expectativas, voltarei a fazer negócio com certeza!",5.0,72.5,9.26,esporte_lazer
-a2ea081c06c12c25c068089e4985745a,fdabedbba76cf0308dedcd99afc66626,delivered,"O produto veio correto, perfeito e dentro do prazo.",4.0,110.0,0.0,relogios_presentes
-7fd4d653725c9338a9c3eae892dbf616,7ac9814735089053e51d2756d3cdedd9,delivered,"Essa folha simplesmente e maravilhosa além de linda, enchuga super bem.recomendo sim comprem por que compensa e muito",5.0,49.9,13.47,cama_mesa_banho
-e2676f5f513bf595fcbd506999db7c26,99f297c1c95e0dda633b7e584ec2a4f3,delivered,"O produto chegou no prazo estipulado, recomendo.",4.0,329.99,13.51,beleza_saude
-a4b79dbc2ad1b141dcc00a17f2450a11,6a3dbc73fd55e0c6ecbee56656482225,delivered,compraria novamente...de qualidade,5.0,85.0,15.34,cama_mesa_banho
-376a342d70faa7a733b871acc701def8,8563b07a84656ff32968702daa37c468,delivered,Ainda nao recebi minha compra,1.0,28.0,14.1,ferramentas_jardim
-6f36c999f8ef8d1a3a999079a5b637aa,ac055528f5a69cba5e02d73ad1ee9a74,delivered,Apenas foi entregue 1 mercadoria ,1.0,153.0,18.57,cama_mesa_banho
-6f36c999f8ef8d1a3a999079a5b637aa,ac055528f5a69cba5e02d73ad1ee9a74,delivered,Apenas foi entregue 1 mercadoria ,1.0,77.0,14.29,cama_mesa_banho
-446e20f85f1b9cf552376d6f31c983b2,db6505328f042b7f4fae7d80f3b0515f,delivered,"tive que fazer uns cortes no tapete, mais encaixou..tudo bem..",4.0,59.9,29.21,automotivo
-6ccac061be472c84db514aca9acd26e0,ae2164e850f39dce431cb74974daa355,delivered,"Embora eu tenha comprado o produto errado, ele foi entregue antes do prazo e em perfeito estado",4.0,13.65,7.78,eletronicos
-4a5cc9b4e332e03d76bf553a7f2fa5d3,a4a00c41b5e3ed88bf0e0bb96576c2b2,delivered,Não gostei de pagar frete já q não entregou na minha casa e condições de parcelamento q não mostra se foi ativada.,3.0,159.9,16.88,beleza_saude
-555e4d40fb6beea866d46eb6a5a01b41,d77e4c0bfd0085b029605683a846abca,delivered,Mas o estojo do relógio está a amassado,3.0,69.99,12.62,brinquedos
-555e4d40fb6beea866d46eb6a5a01b41,d77e4c0bfd0085b029605683a846abca,delivered,Mas o estojo do relógio está a amassado,3.0,19.9,9.41,relogios_presentes
-191a0013ee3ec32e27da5f85cf028081,8fd044742f99625dc8f08f7d3e731fb5,delivered,Alguns cabides chegaram quebrados,3.0,120.0,34.38,utilidades_domesticas
-3d34d8e3ea34d73617a75deea86ced48,b89010d4a6acaa06d4ef89043869838e,delivered,Achei o.produto otimo Super recomendo,5.0,89.9,16.26,cama_mesa_banho
-ac2b7c522d811acba0aa270ed3e112e4,ef21aebbb093a6db29ccc6aa0b89c347,delivered,"Loja lixo, entregaram produto errado, mandei email pro stark reclamando, nem obtive resposta, bela consideraçao por um cliente de tantos anos, qro ver o valor na minha fatura, ja q sao diferentes!",1.0,294.9,20.34,automotivo
-1b99333d39cf95f48be3864b2e1e88b3,01b2ab1c903b4ecd0442a3ce48d89caa,delivered,"Chegou antes do prazo, bem embalado, recomendo ",5.0,39.9,9.94,
-633dfa0c56ae5c0c7f2e90620ad55b2f,22e62a7227eb91f93cb55ef14a20cbd4,delivered,A lixeira serve só pra por contonete e algodão sujo muito pequeno ,3.0,29.99,26.51,moveis_decoracao
-8a0b2bc5c7a1c524635f4de8bae9dffe,764fb80689629a0092fa11ada23a0c4e,delivered,"Pessimo atendimento, estou tentando cancelar a compra desde minutos depois de ter efetuado devido a propaganda induzir ao erro fazendo alusão a um produto original e nao estou conseguindo.",1.0,485.0,19.15,cool_stuff
-8a0b2bc5c7a1c524635f4de8bae9dffe,764fb80689629a0092fa11ada23a0c4e,delivered,"Pessimo atendimento, estou tentando cancelar a compra desde minutos depois de ter efetuado devido a propaganda induzir ao erro fazendo alusão a um produto original e nao estou conseguindo.",1.0,485.0,19.15,cool_stuff
-fa4c0ad484374bf0485f99f6a57255a5,aaafc20a8e58530ecb72c7ec1f497fd8,delivered,"NOTA MIL AMEI COMPRARA COMVOCES, VOU CONTINUAR COMPRANDO, OBRIGADA DE CORAÇÃO.",5.0,110.0,15.52,cama_mesa_banho
-54bc2449fbe0368b74470e4280fe494e,bd2215daa338b34c697773ceff4e013b,delivered,"Produto bom e de muita qualidade , chegou até antes do prazo ! ",5.0,99.9,32.5,moveis_decoracao
+",5.0,160.0,19.22,179.22,beleza_saude
+1a7ee01992a69255a005e9db8a96d898,6ba47b28c84367f0c27769d78f1c3adb,delivered,COMPREI UM PRODUTO E VEIO OUTRO.,1.0,243.0,35.06,278.06,eletronicos
+d0d828105d7a6106d4b6cfd55607c278,e7fb8d2c8a581e31b93defd84ee988fe,delivered,"Superou minhas expectativas, voltarei a fazer negócio com certeza!",5.0,72.5,9.26,163.52,esporte_lazer
+d0d828105d7a6106d4b6cfd55607c278,e7fb8d2c8a581e31b93defd84ee988fe,delivered,"Superou minhas expectativas, voltarei a fazer negócio com certeza!",5.0,72.5,9.26,163.52,esporte_lazer
+a2ea081c06c12c25c068089e4985745a,fdabedbba76cf0308dedcd99afc66626,delivered,"O produto veio correto, perfeito e dentro do prazo.",4.0,110.0,0.0,110.0,relogios_presentes
+7fd4d653725c9338a9c3eae892dbf616,7ac9814735089053e51d2756d3cdedd9,delivered,"Essa folha simplesmente e maravilhosa além de linda, enchuga super bem.recomendo sim comprem por que compensa e muito",5.0,49.9,13.47,63.37,cama_mesa_banho
+e2676f5f513bf595fcbd506999db7c26,99f297c1c95e0dda633b7e584ec2a4f3,delivered,"O produto chegou no prazo estipulado, recomendo.",4.0,329.99,13.51,343.5,beleza_saude
+a4b79dbc2ad1b141dcc00a17f2450a11,6a3dbc73fd55e0c6ecbee56656482225,delivered,compraria novamente...de qualidade,5.0,85.0,15.34,100.34,cama_mesa_banho
+376a342d70faa7a733b871acc701def8,8563b07a84656ff32968702daa37c468,delivered,Ainda nao recebi minha compra,1.0,28.0,14.1,42.1,ferramentas_jardim
+6f36c999f8ef8d1a3a999079a5b637aa,ac055528f5a69cba5e02d73ad1ee9a74,delivered,Apenas foi entregue 1 mercadoria ,1.0,153.0,18.57,262.86,cama_mesa_banho
+6f36c999f8ef8d1a3a999079a5b637aa,ac055528f5a69cba5e02d73ad1ee9a74,delivered,Apenas foi entregue 1 mercadoria ,1.0,77.0,14.29,262.86,cama_mesa_banho
+446e20f85f1b9cf552376d6f31c983b2,db6505328f042b7f4fae7d80f3b0515f,delivered,"tive que fazer uns cortes no tapete, mais encaixou..tudo bem..",4.0,59.9,29.21,89.11,automotivo
+6ccac061be472c84db514aca9acd26e0,ae2164e850f39dce431cb74974daa355,delivered,"Embora eu tenha comprado o produto errado, ele foi entregue antes do prazo e em perfeito estado",4.0,13.65,7.78,21.43,eletronicos
+4a5cc9b4e332e03d76bf553a7f2fa5d3,a4a00c41b5e3ed88bf0e0bb96576c2b2,delivered,Não gostei de pagar frete já q não entregou na minha casa e condições de parcelamento q não mostra se foi ativada.,3.0,159.9,16.88,176.78,beleza_saude
+555e4d40fb6beea866d46eb6a5a01b41,d77e4c0bfd0085b029605683a846abca,delivered,Mas o estojo do relógio está a amassado,3.0,69.99,12.62,111.92,brinquedos
+555e4d40fb6beea866d46eb6a5a01b41,d77e4c0bfd0085b029605683a846abca,delivered,Mas o estojo do relógio está a amassado,3.0,19.9,9.41,111.92,relogios_presentes
+191a0013ee3ec32e27da5f85cf028081,8fd044742f99625dc8f08f7d3e731fb5,delivered,Alguns cabides chegaram quebrados,3.0,120.0,34.38,154.38,utilidades_domesticas
+3d34d8e3ea34d73617a75deea86ced48,b89010d4a6acaa06d4ef89043869838e,delivered,Achei o.produto otimo Super recomendo,5.0,89.9,16.26,106.16,cama_mesa_banho
+ac2b7c522d811acba0aa270ed3e112e4,ef21aebbb093a6db29ccc6aa0b89c347,delivered,"Loja lixo, entregaram produto errado, mandei email pro stark reclamando, nem obtive resposta, bela consideraçao por um cliente de tantos anos, qro ver o valor na minha fatura, ja q sao diferentes!",1.0,294.9,20.34,315.24,automotivo
+1b99333d39cf95f48be3864b2e1e88b3,01b2ab1c903b4ecd0442a3ce48d89caa,delivered,"Chegou antes do prazo, bem embalado, recomendo ",5.0,39.9,9.94,49.84,
+633dfa0c56ae5c0c7f2e90620ad55b2f,22e62a7227eb91f93cb55ef14a20cbd4,delivered,A lixeira serve só pra por contonete e algodão sujo muito pequeno ,3.0,29.99,26.51,56.5,moveis_decoracao
+8a0b2bc5c7a1c524635f4de8bae9dffe,764fb80689629a0092fa11ada23a0c4e,delivered,"Pessimo atendimento, estou tentando cancelar a compra desde minutos depois de ter efetuado devido a propaganda induzir ao erro fazendo alusão a um produto original e nao estou conseguindo.",1.0,485.0,19.15,1008.3,cool_stuff
+8a0b2bc5c7a1c524635f4de8bae9dffe,764fb80689629a0092fa11ada23a0c4e,delivered,"Pessimo atendimento, estou tentando cancelar a compra desde minutos depois de ter efetuado devido a propaganda induzir ao erro fazendo alusão a um produto original e nao estou conseguindo.",1.0,485.0,19.15,1008.3,cool_stuff
+fa4c0ad484374bf0485f99f6a57255a5,aaafc20a8e58530ecb72c7ec1f497fd8,delivered,"NOTA MIL AMEI COMPRARA COMVOCES, VOU CONTINUAR COMPRANDO, OBRIGADA DE CORAÇÃO.",5.0,110.0,15.52,125.52,cama_mesa_banho
+54bc2449fbe0368b74470e4280fe494e,bd2215daa338b34c697773ceff4e013b,delivered,"Produto bom e de muita qualidade , chegou até antes do prazo ! ",5.0,99.9,32.5,132.4,moveis_decoracao
 234c056c50619f48da64f731c48242b4,44e460a655f7154ccd9faa4dbbbaf68a,delivered,"O produto está com a entrega em atraso.
-Até o momento não obtive nenhum retorno do meu chamado que está em aberto! ",1.0,59.99,15.72,market_place
-a11ebb9e9f1a018eea99fe7105f2d897,10ee14e89676c9f43e64a67cae62823b,delivered,"Amei o produto, e chegou bem antes do prazo de entrega. Eu recomendo essa loja. ",5.0,94.95,38.94,bebes
+Até o momento não obtive nenhum retorno do meu chamado que está em aberto! ",1.0,59.99,15.72,75.71,market_place
+a11ebb9e9f1a018eea99fe7105f2d897,10ee14e89676c9f43e64a67cae62823b,delivered,"Amei o produto, e chegou bem antes do prazo de entrega. Eu recomendo essa loja. ",5.0,94.95,38.94,133.89,bebes
 bb2dfe6031f35f7abc9a3c7dad5e4467,01e0d4fb731e6ee47df3f3f179cc0a0b,delivered,"Foi tudo no prazo. .
-Bem embalado e perfeito estado.",3.0,636.0,15.84,beleza_saude
-7b2f3756c235e93b2ad6330c54805401,d79764082a836f215312d98c964ce478,delivered,"pois era pra entregar previsão para dia 03/04/2018 já esta quase chegando a fatura e o produto não chegou ate hoje , nunca comprei um produto pela internet pra demorar desse tanto.",2.0,63.99,18.33,pet_shop
+Bem embalado e perfeito estado.",3.0,636.0,15.84,651.84,beleza_saude
+7b2f3756c235e93b2ad6330c54805401,d79764082a836f215312d98c964ce478,delivered,"pois era pra entregar previsão para dia 03/04/2018 já esta quase chegando a fatura e o produto não chegou ate hoje , nunca comprei um produto pela internet pra demorar desse tanto.",2.0,63.99,18.33,82.32,pet_shop
 a890088df39d4c062a07081527034784,42532fb94eca7866bb4915e5cd46300b,delivered,"Pelas imagens achei q fosse tela com moldura. Até pq na discrição está escrito q a espessura e de 2 cm. 
-Só q na verdade é um mdf de 3 mm fiquei um pouco fustratado mas tudo bem. ",2.0,110.99,14.17,artes
-48b7d84507eb52608a007fde9d641daa,cad2dc8d82cd9ccca487589a7fe62e6c,delivered,Muito boa entrega,4.0,40.8,8.29,construcao_ferramentas_seguranca
-d0e9849de800fdb4cb3b5e6d42c6b367,b634dded0d0e31b899f16cb02e0ed1d0,delivered,produto com defeito nas costuras.,1.0,56.99,28.8,cama_mesa_banho
+Só q na verdade é um mdf de 3 mm fiquei um pouco fustratado mas tudo bem. ",2.0,110.99,14.17,125.16,artes
+48b7d84507eb52608a007fde9d641daa,cad2dc8d82cd9ccca487589a7fe62e6c,delivered,Muito boa entrega,4.0,40.8,8.29,49.09,construcao_ferramentas_seguranca
+d0e9849de800fdb4cb3b5e6d42c6b367,b634dded0d0e31b899f16cb02e0ed1d0,delivered,produto com defeito nas costuras.,1.0,56.99,28.8,85.79,cama_mesa_banho
 7d1ac7d65c6b5d59a9ac241fa41da57d,dcc13a2d32ff7ec6e1920580280f704c,delivered,"Ocorreu tudo certo,tanto o produto quanto o prazo de entrega..
-",5.0,19.99,15.1,telefonia_fixa
-4dadcd5f9e682c17fdc6dded70c048e0,e40265c6ceebf38ea830b695d9340bda,delivered,Chegou certinho antes do prazo recomendo a todos ,5.0,26.33,15.1,esporte_lazer
-8ad3f1d0f96992e43566c4c82c9f6c58,948b29e24216a05fea13a18d8db45ea5,delivered,Ótimo atendimento ,5.0,67.99,25.6,automotivo
-1107e64e1795b6cf551a7044612e8bd8,698e55af1f6f37f7f304a74eb93b85b0,delivered,"Faltou o killer do combo, recebi o mr skull e a coqueteleira. Vieram bem acondicionados e no prazo informado ",3.0,143.99,17.85,esporte_lazer
-ca290a06ee0945b956f79c93b5191633,acd575d7382968889f41a5a3f37510dd,delivered,Otima qualidade,4.0,120.0,55.1,beleza_saude
-443a73a22cd4e0078a47c275b358b786,317072fd23410f845f2d3beba3747e62,delivered,O pruto deveria vim especificados a metragem correta,5.0,25.9,18.23,automotivo
-443a73a22cd4e0078a47c275b358b786,317072fd23410f845f2d3beba3747e62,delivered,O pruto deveria vim especificados a metragem correta,5.0,25.9,18.23,automotivo
-d3ca7b82c922817b06e5ca21165c5ea2,d23df2c6c3e51d875f458d123b2b3c90,delivered,Muito rápido e eficiência.....,4.0,99.0,9.51,informatica_acessorios
-962debbd5f682617761de8b0f7789bc5,5ed8d20445c356efaf39b27949caa8c3,delivered,Nota 1000...,5.0,32.64,15.1,pet_shop
-d8e2d2a26010eb732a91d8b6952e2c9e,9a516f56e5f6f198350066cc99339bb0,delivered,Boa tarde! Achei que demorou bastante a chegar em minha residência. Mas apesar da demora estou satisfeita com meu varal.,2.0,69.9,29.9,moveis_decoracao
-f6f6a68d78c7dd4b319f6df3c846094b,aa012a8928021b41ea6de61e855880bc,delivered,Não passou o prazo ainda.,1.0,69.9,19.46,brinquedos
-6a6c7d523fd59eb5bbefc007331af717,d954782ec6c0e911292c8a80757ef28d,processing,estou aguardando o produto chegar,1.0,129.0,47.61,moveis_escritorio
-6a6c7d523fd59eb5bbefc007331af717,d954782ec6c0e911292c8a80757ef28d,processing,estou aguardando o produto chegar,1.0,129.0,47.61,moveis_escritorio
-c1f0e475378c6500b5907a2134bda1da,5da0ca7784ca3dee567abe4c07800952,delivered,"Só foi entregue a boneca,faltou os panos de pratos és as saias da cama box de solteiro.",1.0,37.99,16.11,cama_mesa_banho
-80d36d94a5ac668fd0479b5e848207c9,3fb8a3a262c0e12894b068f551c9f006,delivered,"A princípio tudo certo, ainda não testei pois eh um presente para o Natal.",5.0,299.99,20.0,brinquedos
-7d219bd2feeb13ad311a00db33c06a3c,3740f4d0edef80f567eca55830ec9e8f,delivered,"produto foi entregue de acordo com a compra, antes do prazo informado, muito satisfeita.",5.0,89.99,15.38,eletrodomesticos_2
-76a1ee4ee17ea3b77f3c483c0a73e9c1,e54533a3ffc29ddafdcfa45434b9b218,delivered,recomendo,3.0,45.0,34.15,consoles_games
-3ec275bc012162de739c7ab6dcf11677,62b45594e877bd203ce2e49134b8ad03,delivered,tudo ok,4.0,75.0,13.08,automotivo
+",5.0,19.99,15.1,35.09,telefonia_fixa
+4dadcd5f9e682c17fdc6dded70c048e0,e40265c6ceebf38ea830b695d9340bda,delivered,Chegou certinho antes do prazo recomendo a todos ,5.0,26.33,15.1,41.43,esporte_lazer
+8ad3f1d0f96992e43566c4c82c9f6c58,948b29e24216a05fea13a18d8db45ea5,delivered,Ótimo atendimento ,5.0,67.99,25.6,93.59,automotivo
+1107e64e1795b6cf551a7044612e8bd8,698e55af1f6f37f7f304a74eb93b85b0,delivered,"Faltou o killer do combo, recebi o mr skull e a coqueteleira. Vieram bem acondicionados e no prazo informado ",3.0,143.99,17.85,161.84,esporte_lazer
+ca290a06ee0945b956f79c93b5191633,acd575d7382968889f41a5a3f37510dd,delivered,Otima qualidade,4.0,120.0,55.1,175.1,beleza_saude
+443a73a22cd4e0078a47c275b358b786,317072fd23410f845f2d3beba3747e62,delivered,O pruto deveria vim especificados a metragem correta,5.0,25.9,18.23,88.26,automotivo
+443a73a22cd4e0078a47c275b358b786,317072fd23410f845f2d3beba3747e62,delivered,O pruto deveria vim especificados a metragem correta,5.0,25.9,18.23,88.26,automotivo
+d3ca7b82c922817b06e5ca21165c5ea2,d23df2c6c3e51d875f458d123b2b3c90,delivered,Muito rápido e eficiência.....,4.0,99.0,9.51,108.51,informatica_acessorios
+962debbd5f682617761de8b0f7789bc5,5ed8d20445c356efaf39b27949caa8c3,delivered,Nota 1000...,5.0,32.64,15.1,47.74,pet_shop
+d8e2d2a26010eb732a91d8b6952e2c9e,9a516f56e5f6f198350066cc99339bb0,delivered,Boa tarde! Achei que demorou bastante a chegar em minha residência. Mas apesar da demora estou satisfeita com meu varal.,2.0,69.9,29.9,99.8,moveis_decoracao
+f6f6a68d78c7dd4b319f6df3c846094b,aa012a8928021b41ea6de61e855880bc,delivered,Não passou o prazo ainda.,1.0,69.9,19.46,89.36,brinquedos
+6a6c7d523fd59eb5bbefc007331af717,d954782ec6c0e911292c8a80757ef28d,processing,estou aguardando o produto chegar,1.0,129.0,47.61,40.48,moveis_escritorio
+6a6c7d523fd59eb5bbefc007331af717,d954782ec6c0e911292c8a80757ef28d,processing,estou aguardando o produto chegar,1.0,129.0,47.61,136.13,moveis_escritorio
+c1f0e475378c6500b5907a2134bda1da,5da0ca7784ca3dee567abe4c07800952,delivered,"Só foi entregue a boneca,faltou os panos de pratos és as saias da cama box de solteiro.",1.0,37.99,16.11,54.1,cama_mesa_banho
+80d36d94a5ac668fd0479b5e848207c9,3fb8a3a262c0e12894b068f551c9f006,delivered,"A princípio tudo certo, ainda não testei pois eh um presente para o Natal.",5.0,299.99,20.0,319.99,brinquedos
+7d219bd2feeb13ad311a00db33c06a3c,3740f4d0edef80f567eca55830ec9e8f,delivered,"produto foi entregue de acordo com a compra, antes do prazo informado, muito satisfeita.",5.0,89.99,15.38,105.37,eletrodomesticos_2
+76a1ee4ee17ea3b77f3c483c0a73e9c1,e54533a3ffc29ddafdcfa45434b9b218,delivered,recomendo,3.0,45.0,34.15,79.15,consoles_games
+3ec275bc012162de739c7ab6dcf11677,62b45594e877bd203ce2e49134b8ad03,delivered,tudo ok,4.0,75.0,13.08,88.08,automotivo
 e897d96adf4da16805cd6faf2913ce48,ede6d420b95b2d4145c3e0de07483597,delivered,"Parabéns pelo atendimento!!!
-Um abraço.Enedina",5.0,798.0,56.89,pet_shop
+Um abraço.Enedina",5.0,798.0,56.89,424.0,pet_shop
 e897d96adf4da16805cd6faf2913ce48,ede6d420b95b2d4145c3e0de07483597,delivered,"Parabéns pelo atendimento!!!
-Um abraço.Enedina",5.0,798.0,56.89,pet_shop
-1a4cc55b483d875e3b8bbd64a1b31bba,1a3fcb72ec1f37b5385e08237a40409e,delivered,Produto excelente fiquei muito satisfeito.,5.0,49.99,17.06,telefonia
-58b198357d2b68044f885a370a585ff3,8d7cf6fc4668c48859673a8e0fc8fa6a,delivered,"Muito demorado para enviar o produto, e que até agora não chegou.",1.0,99.99,12.09,cool_stuff
-4190ab61a7fced69f3ee84d1da1120cc,3df7ff0b86935d5249e4d6cd56b89131,delivered,"Minha compra ainda não chegou, não respeitam o prazo de entrega, não me atendem não me respondem. Total falta de respeito. ",1.0,172.5,38.76,informatica_acessorios
-27a78fdbe7b915a0596af3a5803a41cb,107d449d8a73c9dfd9673df8ea684348,delivered,Entrega antes do prazo. ,5.0,110.0,13.21,cama_mesa_banho
-27a78fdbe7b915a0596af3a5803a41cb,107d449d8a73c9dfd9673df8ea684348,delivered,Entrega antes do prazo. ,5.0,110.0,13.21,cama_mesa_banho
-d118d545516947d2d82fda28e9d631af,8918dedf08a051aff27479246e74a5bd,delivered,"Comprei um produto de 1 litro e chegou em de 300 ml. Nao veio a nota fiscal do produto, sem falar que o mesmo chegou em uma embalagem duvidosa.",1.0,99.9,12.2,beleza_saude
-0132451f29a10b66a5cf1bacc85f9afe,1c5b37d20011c637ad1a5b6d423c7483,delivered,"chegou no prazo, bem embalado e do jeito que eu esperava. recomendo!",5.0,89.9,17.88,cama_mesa_banho
-0132451f29a10b66a5cf1bacc85f9afe,1c5b37d20011c637ad1a5b6d423c7483,delivered,"chegou no prazo, bem embalado e do jeito que eu esperava. recomendo!",5.0,89.9,17.88,cama_mesa_banho
-d445a6e277eaa62900bc18d453d96d76,c2cd065252fa7ad04274d9d69dd9c09e,delivered,Entrega rápida e o produto é excelente!!,5.0,199.0,26.42,telefonia
-aa2e81559d88cca16ac122e7627078c8,0d49e6cf6c6049404ab247c5d1ea4aa3,delivered,ainda aguardando,1.0,99.0,26.43,moveis_decoracao
-c0e6116a3c6c2d732ec1b43bb7b5f307,b073fa2486ffea654bcd31968d03d8a1,delivered,produto chegou antes da data prevista.,5.0,13.99,7.78,perfumaria
-c0e6116a3c6c2d732ec1b43bb7b5f307,b073fa2486ffea654bcd31968d03d8a1,delivered,produto chegou antes da data prevista.,5.0,13.99,7.78,perfumaria
-fdbd371c335ecb94ccb8a65c37d8ebba,021ccba47cb1118dfba3213180ffb44d,delivered,demorou no correio para entregar,3.0,37.99,13.08,esporte_lazer
-c788aeedf593229d4ee84e790c2e5483,838aa327b0491d3cb3e9c1c6d9bb382c,delivered,"Muito bom, foi entregue antes do prazo e os produtos de alta qualidade.",5.0,89.9,27.1,moveis_decoracao
+Um abraço.Enedina",5.0,798.0,56.89,430.89,pet_shop
+1a4cc55b483d875e3b8bbd64a1b31bba,1a3fcb72ec1f37b5385e08237a40409e,delivered,Produto excelente fiquei muito satisfeito.,5.0,49.99,17.06,67.05,telefonia
+58b198357d2b68044f885a370a585ff3,8d7cf6fc4668c48859673a8e0fc8fa6a,delivered,"Muito demorado para enviar o produto, e que até agora não chegou.",1.0,99.99,12.09,112.08,cool_stuff
+4190ab61a7fced69f3ee84d1da1120cc,3df7ff0b86935d5249e4d6cd56b89131,delivered,"Minha compra ainda não chegou, não respeitam o prazo de entrega, não me atendem não me respondem. Total falta de respeito. ",1.0,172.5,38.76,211.26,informatica_acessorios
+27a78fdbe7b915a0596af3a5803a41cb,107d449d8a73c9dfd9673df8ea684348,delivered,Entrega antes do prazo. ,5.0,110.0,13.21,246.42,cama_mesa_banho
+27a78fdbe7b915a0596af3a5803a41cb,107d449d8a73c9dfd9673df8ea684348,delivered,Entrega antes do prazo. ,5.0,110.0,13.21,246.42,cama_mesa_banho
+d118d545516947d2d82fda28e9d631af,8918dedf08a051aff27479246e74a5bd,delivered,"Comprei um produto de 1 litro e chegou em de 300 ml. Nao veio a nota fiscal do produto, sem falar que o mesmo chegou em uma embalagem duvidosa.",1.0,99.9,12.2,112.1,beleza_saude
+0132451f29a10b66a5cf1bacc85f9afe,1c5b37d20011c637ad1a5b6d423c7483,delivered,"chegou no prazo, bem embalado e do jeito que eu esperava. recomendo!",5.0,89.9,17.88,215.56,cama_mesa_banho
+0132451f29a10b66a5cf1bacc85f9afe,1c5b37d20011c637ad1a5b6d423c7483,delivered,"chegou no prazo, bem embalado e do jeito que eu esperava. recomendo!",5.0,89.9,17.88,215.56,cama_mesa_banho
+d445a6e277eaa62900bc18d453d96d76,c2cd065252fa7ad04274d9d69dd9c09e,delivered,Entrega rápida e o produto é excelente!!,5.0,199.0,26.42,225.42,telefonia
+aa2e81559d88cca16ac122e7627078c8,0d49e6cf6c6049404ab247c5d1ea4aa3,delivered,ainda aguardando,1.0,99.0,26.43,125.43,moveis_decoracao
+c0e6116a3c6c2d732ec1b43bb7b5f307,b073fa2486ffea654bcd31968d03d8a1,delivered,produto chegou antes da data prevista.,5.0,13.99,7.78,43.54,perfumaria
+c0e6116a3c6c2d732ec1b43bb7b5f307,b073fa2486ffea654bcd31968d03d8a1,delivered,produto chegou antes da data prevista.,5.0,13.99,7.78,43.54,perfumaria
+fdbd371c335ecb94ccb8a65c37d8ebba,021ccba47cb1118dfba3213180ffb44d,delivered,demorou no correio para entregar,3.0,37.99,13.08,51.07,esporte_lazer
+c788aeedf593229d4ee84e790c2e5483,838aa327b0491d3cb3e9c1c6d9bb382c,delivered,"Muito bom, foi entregue antes do prazo e os produtos de alta qualidade.",5.0,89.9,27.1,117.0,moveis_decoracao
 dd6d0f11a9c3d2abdc91e95b9598b332,e6c386cfd321a1708aa60ff6b8f46449,delivered,"Devido a uma irresponsabilidade da empresa o produto não chegou em minha residência, estou aguardando mais informações da empresa responsável ! 
-Obs: já tem mais de um mês que fiz a compra. ",1.0,1599.0,93.05,esporte_lazer
-61e7365ad2e2ce5a3dbf650586623b7f,884e5773f9ec5902aec38d330c7daa7f,delivered,Pedido entregue antes do previsto.,5.0,81.35,16.76,perfumaria
-4ef04edb491b8cc23eabe782ced6715c,5db7793e5ba9211bf9e8176cb8bb3ecf,delivered,Bon atendimento. Bom produto,4.0,56.99,27.25,beleza_saude
-af500adf58ab55b8bdd27be8cf81aeba,6fafe51f43d9aff93174e020cd452f66,delivered,Muito bom SUPER INDICO!,5.0,79.9,15.44,informatica_acessorios
-ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,esporte_lazer
-ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,esporte_lazer
-ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,esporte_lazer
-ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,esporte_lazer
-ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,esporte_lazer
-ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,esporte_lazer
-ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,esporte_lazer
-ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,esporte_lazer
-c5d58ec8e7e7184d9a9d42b75ffa002d,18e42e6a3b2022561588b6d32c036b52,delivered,"Loja melhor só na Irineu, vc não sabe nem eu",5.0,50.0,16.05,bebes
-ee43d4bf4491386fa4837c502b9c3f4e,0324667bb97f2048e83f77d282a75fb4,delivered,"Entrega no prazo e produto muito bom. Ligaram antes pra informar que existia o produto em outra cor que poderia ser enviada antes, mas preferi esperar e ter na cor desejada. Muito pontuais.",5.0,109.99,29.7,esporte_lazer
-492bed007520827cbed51959e4ce4385,ba5166acad480f24f1633e1b8ce21741,delivered,"Recebi o produto, porém veio da cor errada.",1.0,75.9,18.41,casa_construcao
-df82ea7ca7f0f799161e0fd92c3ab96a,8f121fde1f03b4865ac871202143016b,delivered,A avaliação geral foi regular porque ainda não testei o produto. Avaliei a compra/entrega. ,3.0,119.0,58.69,informatica_acessorios
-df82ea7ca7f0f799161e0fd92c3ab96a,8f121fde1f03b4865ac871202143016b,delivered,A avaliação geral foi regular porque ainda não testei o produto. Avaliei a compra/entrega. ,3.0,119.0,58.69,informatica_acessorios
+Obs: já tem mais de um mês que fiz a compra. ",1.0,1599.0,93.05,1692.05,esporte_lazer
+61e7365ad2e2ce5a3dbf650586623b7f,884e5773f9ec5902aec38d330c7daa7f,delivered,Pedido entregue antes do previsto.,5.0,81.35,16.76,98.11,perfumaria
+4ef04edb491b8cc23eabe782ced6715c,5db7793e5ba9211bf9e8176cb8bb3ecf,delivered,Bon atendimento. Bom produto,4.0,56.99,27.25,84.24,beleza_saude
+af500adf58ab55b8bdd27be8cf81aeba,6fafe51f43d9aff93174e020cd452f66,delivered,Muito bom SUPER INDICO!,5.0,79.9,15.44,95.34,informatica_acessorios
+ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,707.68,esporte_lazer
+ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,50.0,esporte_lazer
+ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,707.68,esporte_lazer
+ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,50.0,esporte_lazer
+ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,707.68,esporte_lazer
+ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,50.0,esporte_lazer
+ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,707.68,esporte_lazer
+ca0400dec2c292340c373e63b1c2c597,2c8be64d4c648b0bbf8412c53761ae27,delivered,Das 4 und compradas só chegaram 3 e sem nota fiscal. Isso mostra a grande falta de organização ,1.0,169.99,19.43,50.0,esporte_lazer
+c5d58ec8e7e7184d9a9d42b75ffa002d,18e42e6a3b2022561588b6d32c036b52,delivered,"Loja melhor só na Irineu, vc não sabe nem eu",5.0,50.0,16.05,66.05,bebes
+ee43d4bf4491386fa4837c502b9c3f4e,0324667bb97f2048e83f77d282a75fb4,delivered,"Entrega no prazo e produto muito bom. Ligaram antes pra informar que existia o produto em outra cor que poderia ser enviada antes, mas preferi esperar e ter na cor desejada. Muito pontuais.",5.0,109.99,29.7,139.69,esporte_lazer
+492bed007520827cbed51959e4ce4385,ba5166acad480f24f1633e1b8ce21741,delivered,"Recebi o produto, porém veio da cor errada.",1.0,75.9,18.41,94.31,casa_construcao
+df82ea7ca7f0f799161e0fd92c3ab96a,8f121fde1f03b4865ac871202143016b,delivered,A avaliação geral foi regular porque ainda não testei o produto. Avaliei a compra/entrega. ,3.0,119.0,58.69,355.38,informatica_acessorios
+df82ea7ca7f0f799161e0fd92c3ab96a,8f121fde1f03b4865ac871202143016b,delivered,A avaliação geral foi regular porque ainda não testei o produto. Avaliei a compra/entrega. ,3.0,119.0,58.69,355.38,informatica_acessorios
 b23b43e19386862a7c0aaa27c80e782f,86de6692e6fdfad3c3221414dc73d4a9,delivered,"Excelente empresa. 
-Entregou antes do prazo. ",5.0,44.9,11.86,ferramentas_jardim
-d965c84427fa1d6daad237adfbf75554,f481cadc657dd238cf73200b92292644,delivered,Entrega efetuado bem antes da data programada,5.0,388.0,25.59,bebes
-7d7b903bbd7d3b762ad60115c30185f2,bf5f428a6f809242d47242a4159db97d,delivered,"Produto bom, embora o sabor, nao tive como esvolher , nao gosto de chocolate. Entrega rapida",4.0,107.0,16.38,esporte_lazer
-6be749c0e984143242faa174d084889f,6c347ef65dd574fb9c2d654c3650fc43,delivered,o tablet veio com defeito o que devo faze ????,5.0,199.0,24.54,telefonia
+Entregou antes do prazo. ",5.0,44.9,11.86,56.76,ferramentas_jardim
+d965c84427fa1d6daad237adfbf75554,f481cadc657dd238cf73200b92292644,delivered,Entrega efetuado bem antes da data programada,5.0,388.0,25.59,413.59,bebes
+7d7b903bbd7d3b762ad60115c30185f2,bf5f428a6f809242d47242a4159db97d,delivered,"Produto bom, embora o sabor, nao tive como esvolher , nao gosto de chocolate. Entrega rapida",4.0,107.0,16.38,123.38,esporte_lazer
+6be749c0e984143242faa174d084889f,6c347ef65dd574fb9c2d654c3650fc43,delivered,o tablet veio com defeito o que devo faze ????,5.0,199.0,24.54,223.54,telefonia
 90855e99e15fa22aff68cdb4323b27c9,b8f2034a26d0832f43daa3a588a9131e,delivered,"Recebi, mas porém, não é original.
-Deveriam ser mais transparente, pq no site está constando que é uma peça original. ",1.0,99.99,15.8,informatica_acessorios
+Deveriam ser mais transparente, pq no site está constando que é uma peça original. ",1.0,99.99,15.8,115.79,informatica_acessorios
 c761a8b74f1e876bc5efc4186f720e27,a8ed087e25b26fb64cbb99033eb243a7,delivered,"Realizei a compra de 2 colchas de solteiro e só recebi 1 produto.
-E até agora não recebi a outra colcha.",1.0,34.9,16.05,cama_mesa_banho
+E até agora não recebi a outra colcha.",1.0,34.9,16.05,101.9,cama_mesa_banho
 c761a8b74f1e876bc5efc4186f720e27,a8ed087e25b26fb64cbb99033eb243a7,delivered,"Realizei a compra de 2 colchas de solteiro e só recebi 1 produto.
-E até agora não recebi a outra colcha.",1.0,34.9,16.05,cama_mesa_banho
-6d60cc495dfb5a5851f56f188c4e4059,2f49811c845d9978f54ea3f61741516d,delivered,Recebi no prazo e o produto é de boa qualidade ,5.0,24.9,10.96,fashion_roupa_masculina
-6051e6d3da9a50b7325cbe9c81025062,c25122206bfcb3ffa950706e1cb10f2b,delivered,"Produto chegou rapidamente. Blend é um pouco caro mas realmente funciona, to no segundo frasco e percebo bons resultados. Minha barba nunca foi falha, mas agora cresce mais rapidamente e grossamente.",5.0,249.49,9.01,perfumaria
-f9ca536e1ef897f153c183d72ba141bb,a9f353609242c268174ec433f45f8440,delivered,"Referente ao pedido que comprei, duas carenagem uma do lado esquerdo e uma do lado direito, so chego a do lado esquerdo, esta faltando a do mado direito, queria saber quando vai chegar ; ",1.0,104.71,18.61,automotivo
-f9ca536e1ef897f153c183d72ba141bb,a9f353609242c268174ec433f45f8440,delivered,"Referente ao pedido que comprei, duas carenagem uma do lado esquerdo e uma do lado direito, so chego a do lado esquerdo, esta faltando a do mado direito, queria saber quando vai chegar ; ",1.0,104.71,18.61,automotivo
-03f83b59e7c7355647462745b18119f1,c1865c11ead00a1bcd19971382032e8a,delivered,"O produto em si é bom, mas a entrega deixou muito a desejar.. Entregaram em sim a do prazo",3.0,12.5,15.1,telefonia
-88c588c116fd06fb8e48dd83af88ec4a,8787c72a20002592238d7b80721ab729,delivered,Ainda não recebi o pedido e ti enviando enail e ninguém me responde ,2.0,14.39,15.1,ferramentas_jardim
-88c588c116fd06fb8e48dd83af88ec4a,8787c72a20002592238d7b80721ab729,delivered,Ainda não recebi o pedido e ti enviando enail e ninguém me responde ,2.0,14.39,15.1,ferramentas_jardim
-4f38a875c972c4803a792f62b999b4cd,00f73459a4d3be97ff307dc869da0aa9,delivered,Gostei muito do produto,5.0,228.0,19.68,cama_mesa_banho
-8e96f3e6633f7601ec50f3a904c3a3a2,c5827b73d67d474d76a268f0dda54396,delivered,muito bom,5.0,44.99,9.34,esporte_lazer
-d8917c684fbf577ca5d76423b29f29da,24e773830688359e8fbf7f89b2a303da,delivered,Não recebi o produto ainda ,3.0,109.9,13.43,automotivo
-f312113915f8f85b447cbbb41a3bda73,228fa0775b9f2dd5df796a94425f18d2,delivered,Ótimo produto/lindo!!! Recomendo.,5.0,46.99,12.69,moveis_decoracao
-93483f560d46ab6fb3fbf571c59d78dd,6ce9b26c054b6e299e017f732a862b87,delivered,Poderia especificar o tamanho do produto ,4.0,129.0,20.14,papelaria
-6c12feac9a308e1382d9b19cca7f20b2,5371894984937a27cf40c7d20699a786,delivered,muito bom o produto super recomendo o vendedor,4.0,208.9,12.07,beleza_saude
+E até agora não recebi a outra colcha.",1.0,34.9,16.05,101.9,cama_mesa_banho
+6d60cc495dfb5a5851f56f188c4e4059,2f49811c845d9978f54ea3f61741516d,delivered,Recebi no prazo e o produto é de boa qualidade ,5.0,24.9,10.96,35.86,fashion_roupa_masculina
+6051e6d3da9a50b7325cbe9c81025062,c25122206bfcb3ffa950706e1cb10f2b,delivered,"Produto chegou rapidamente. Blend é um pouco caro mas realmente funciona, to no segundo frasco e percebo bons resultados. Minha barba nunca foi falha, mas agora cresce mais rapidamente e grossamente.",5.0,249.49,9.01,258.5,perfumaria
+f9ca536e1ef897f153c183d72ba141bb,a9f353609242c268174ec433f45f8440,delivered,"Referente ao pedido que comprei, duas carenagem uma do lado esquerdo e uma do lado direito, so chego a do lado esquerdo, esta faltando a do mado direito, queria saber quando vai chegar ; ",1.0,104.71,18.61,246.64,automotivo
+f9ca536e1ef897f153c183d72ba141bb,a9f353609242c268174ec433f45f8440,delivered,"Referente ao pedido que comprei, duas carenagem uma do lado esquerdo e uma do lado direito, so chego a do lado esquerdo, esta faltando a do mado direito, queria saber quando vai chegar ; ",1.0,104.71,18.61,246.64,automotivo
+03f83b59e7c7355647462745b18119f1,c1865c11ead00a1bcd19971382032e8a,delivered,"O produto em si é bom, mas a entrega deixou muito a desejar.. Entregaram em sim a do prazo",3.0,12.5,15.1,27.6,telefonia
+88c588c116fd06fb8e48dd83af88ec4a,8787c72a20002592238d7b80721ab729,delivered,Ainda não recebi o pedido e ti enviando enail e ninguém me responde ,2.0,14.39,15.1,27.75,ferramentas_jardim
+88c588c116fd06fb8e48dd83af88ec4a,8787c72a20002592238d7b80721ab729,delivered,Ainda não recebi o pedido e ti enviando enail e ninguém me responde ,2.0,14.39,15.1,1.74,ferramentas_jardim
+4f38a875c972c4803a792f62b999b4cd,00f73459a4d3be97ff307dc869da0aa9,delivered,Gostei muito do produto,5.0,228.0,19.68,247.68,cama_mesa_banho
+8e96f3e6633f7601ec50f3a904c3a3a2,c5827b73d67d474d76a268f0dda54396,delivered,muito bom,5.0,44.99,9.34,54.33,esporte_lazer
+d8917c684fbf577ca5d76423b29f29da,24e773830688359e8fbf7f89b2a303da,delivered,Não recebi o produto ainda ,3.0,109.9,13.43,123.33,automotivo
+f312113915f8f85b447cbbb41a3bda73,228fa0775b9f2dd5df796a94425f18d2,delivered,Ótimo produto/lindo!!! Recomendo.,5.0,46.99,12.69,59.68,moveis_decoracao
+93483f560d46ab6fb3fbf571c59d78dd,6ce9b26c054b6e299e017f732a862b87,delivered,Poderia especificar o tamanho do produto ,4.0,129.0,20.14,149.14,papelaria
+6c12feac9a308e1382d9b19cca7f20b2,5371894984937a27cf40c7d20699a786,delivered,muito bom o produto super recomendo o vendedor,4.0,208.9,12.07,220.97,beleza_saude
 9a40a61b2f04271f655c7423a3fb82a7,9a28e3a685c60162824386a74a34771f,delivered,"excelente mamadeira! 
-entrega super rápida! !",4.0,115.0,15.69,bebes
-a027919471097ed720c04340e1495e1c,6df6c2eeaad604627aa688ae063741b2,delivered,Tudo super certo.,5.0,299.0,16.84,informatica_acessorios
-a678d97aa95d0393384c211a82455e50,cc64309188751727fe403d8570630495,delivered,Perfeito em todos os quesitos,5.0,16.5,7.78,telefonia
-7297f6bfea2a33ef176cff30f467aa41,b19a370495e4d833f7351b777ef67b4b,delivered,Produto de qualidade. Somente a entrega efetuada através dos Correios demorou mais de 30 dias.,5.0,19.9,18.23,eletronicos
-95bf775f5db872acb7ac9cf5cdbbc292,ffc25a124da207c0b90a002ebfaa7184,delivered,"Ótimo produto, parece ser resistente pelo material fabricado... recomendo a todos",5.0,36.0,12.91,ferramentas_jardim
-563404de47cdc6763e7eced487016b66,41a0f53af758a122ca3c491b62ee4949,delivered,"Adorei, entregue rápido. Mara Maravilha",5.0,12.5,11.85,esporte_lazer
-563404de47cdc6763e7eced487016b66,41a0f53af758a122ca3c491b62ee4949,delivered,"Adorei, entregue rápido. Mara Maravilha",5.0,12.5,11.85,esporte_lazer
-b2908d9328eb32bdb9b7ac1e197c05fe,65c295c5ac6110fc4214f32ab7df512e,delivered,Tudo certo,4.0,45.95,15.1,cama_mesa_banho
-a69bb719ee2c8b4a25bf1a1a5f3ae686,561812638ef3a092f78f0c4a5f0c58c8,delivered,Recebi o produto antes do preso .,5.0,99.9,9.45,ferramentas_jardim
-bb2e64c3040ceb9b7ca2bfc602adca08,753bd08248a5fa2c21da47c01cfd83a3,delivered,Qualidade intermediária,5.0,62.0,2.34,cama_mesa_banho
-bb2e64c3040ceb9b7ca2bfc602adca08,753bd08248a5fa2c21da47c01cfd83a3,delivered,Qualidade intermediária,5.0,62.0,2.34,cama_mesa_banho
-bb2e64c3040ceb9b7ca2bfc602adca08,753bd08248a5fa2c21da47c01cfd83a3,delivered,Qualidade intermediária,5.0,62.0,2.34,cama_mesa_banho
-bb2e64c3040ceb9b7ca2bfc602adca08,753bd08248a5fa2c21da47c01cfd83a3,delivered,Qualidade intermediária,5.0,62.0,2.34,cama_mesa_banho
-895e066de0072faddf0044db8e490353,82e5f3c993ab34fe01c61b83e0bd7efc,delivered,"Ótimo produto, original e com muita qualidade, recomendo a todos a loja parceira da lannister !!!",5.0,359.0,17.39,relogios_presentes
-eba18dfa91e31cf748f9f52b779f9ae8,7ffae0a2b02796d8e66fdbf0fa6e08b5,delivered,Produto enviado rapidamente. Chegou direitinho. Recomendo!,5.0,23.99,7.78,beleza_saude
-5f071a8534fb6805fa6ec902f04219e4,a13d2d3b615e7782205484d9c603cbe7,delivered,"Comprei o relógio todo preto, com fecho preto, porém veio com fecho prata, e comprei com nome MVTM escrito dentro do relógio, veio sem o nome, na foto fecho preto, e com nome MVTM, não veio assim",2.0,77.0,15.64,relogios_presentes
-d0a72f8bcc1f2045167eaa548647e77c,4f444b3b5cd86e70e2c49210020c5ba9,delivered,o produto e bom de mais!!!!,5.0,159.0,63.13,automotivo
-675bc8cd15e6b9225582b9161288670f,8a2d6290feaba2aea18c2b8a5a60cc32,delivered,"Produto de baixa qualidade, na foto engana bem, bota esquerdo não tem função, o digital somente funciona se vc aperta um dos dois botões da direita e logo apaga, instrução em inglês e chinês. ",1.0,249.0,9.9,relogios_presentes
-61898b3ad4d51459e014bc6d4c2e7166,a9b67ff10261665661f54c364e82d9b2,delivered,"Produto entregue antes do prazo, recomendadíssimo!",5.0,110.0,18.85,beleza_saude
-f76b895a9902ad634abed7eec3211a10,7ea778a6a19290dee846148b45c64f6b,delivered,"Fiquei satisfeito com o produto,a loja entregou todo certinho..indico a todos.",5.0,649.51,56.68,relogios_presentes
-b9f23a5c0cbae81d8a326804b0c7513d,02a7a75320e787aa980907d0f647e508,delivered,Muito ágil na entrega. ,5.0,50.0,15.1,automotivo
-6f209510f34ce1a8c89d11273039981d,3523a3beae4b3f9d398b0cf0b2bcb630,delivered,"recomendo, produto entregue no prazo, de boa qualidade, sem avarias",4.0,40.0,11.42,moveis_decoracao
-80b0f4fc350532f6e0ce9aa81ccde91c,d06f910929d7ece5e8090c5b4ef80b08,delivered,"realizei a compra, e não entregara!!! estou cancelando e espero ser reembolsada.",1.0,204.0,14.45,relogios_presentes
-3bb580c88504df63102b61f70164fb75,636f42c08bfabc00ce49edb5af4d4423,delivered,"O produto foi apenas testado e está funcionando. Espero que com o uso contínuo,no alto verão, ele corresponda as minhas expectativas.",5.0,249.9,69.21,cool_stuff
-714e2644ab665027234ed7a6b3e82274,a2ae1a05b2058776ab0138c75da742f8,delivered,produtos de qualidade,5.0,49.95,16.79,cama_mesa_banho
-c7172e1a6b8de65fbc6e9e77afda672d,b1aa70fb1fe24bb15603aba207510343,delivered,"Produto de boa qualidade, recebi no prazo estipulado.",5.0,65.0,15.2,market_place
-90e4c72e836cb3e0bea6a31fd981a346,3ce8f9a70471f7eb4e9f4de10402dbec,delivered,"Muito bonita a cortina, só deveria ser um pouco melhor o material desfia muito fácil ,mais pelo tá ótimo!!!",2.0,89.9,12.13,cama_mesa_banho
+entrega super rápida! !",4.0,115.0,15.69,130.69,bebes
+a027919471097ed720c04340e1495e1c,6df6c2eeaad604627aa688ae063741b2,delivered,Tudo super certo.,5.0,299.0,16.84,315.84,informatica_acessorios
+a678d97aa95d0393384c211a82455e50,cc64309188751727fe403d8570630495,delivered,Perfeito em todos os quesitos,5.0,16.5,7.78,24.28,telefonia
+7297f6bfea2a33ef176cff30f467aa41,b19a370495e4d833f7351b777ef67b4b,delivered,Produto de qualidade. Somente a entrega efetuada através dos Correios demorou mais de 30 dias.,5.0,19.9,18.23,38.13,eletronicos
+95bf775f5db872acb7ac9cf5cdbbc292,ffc25a124da207c0b90a002ebfaa7184,delivered,"Ótimo produto, parece ser resistente pelo material fabricado... recomendo a todos",5.0,36.0,12.91,48.91,ferramentas_jardim
+563404de47cdc6763e7eced487016b66,41a0f53af758a122ca3c491b62ee4949,delivered,"Adorei, entregue rápido. Mara Maravilha",5.0,12.5,11.85,4.35,esporte_lazer
+563404de47cdc6763e7eced487016b66,41a0f53af758a122ca3c491b62ee4949,delivered,"Adorei, entregue rápido. Mara Maravilha",5.0,12.5,11.85,20.0,esporte_lazer
+b2908d9328eb32bdb9b7ac1e197c05fe,65c295c5ac6110fc4214f32ab7df512e,delivered,Tudo certo,4.0,45.95,15.1,61.05,cama_mesa_banho
+a69bb719ee2c8b4a25bf1a1a5f3ae686,561812638ef3a092f78f0c4a5f0c58c8,delivered,Recebi o produto antes do preso .,5.0,99.9,9.45,109.35,ferramentas_jardim
+bb2e64c3040ceb9b7ca2bfc602adca08,753bd08248a5fa2c21da47c01cfd83a3,delivered,Qualidade intermediária,5.0,62.0,2.34,257.34,cama_mesa_banho
+bb2e64c3040ceb9b7ca2bfc602adca08,753bd08248a5fa2c21da47c01cfd83a3,delivered,Qualidade intermediária,5.0,62.0,2.34,257.34,cama_mesa_banho
+bb2e64c3040ceb9b7ca2bfc602adca08,753bd08248a5fa2c21da47c01cfd83a3,delivered,Qualidade intermediária,5.0,62.0,2.34,257.34,cama_mesa_banho
+bb2e64c3040ceb9b7ca2bfc602adca08,753bd08248a5fa2c21da47c01cfd83a3,delivered,Qualidade intermediária,5.0,62.0,2.34,257.34,cama_mesa_banho
+895e066de0072faddf0044db8e490353,82e5f3c993ab34fe01c61b83e0bd7efc,delivered,"Ótimo produto, original e com muita qualidade, recomendo a todos a loja parceira da lannister !!!",5.0,359.0,17.39,376.39,relogios_presentes
+eba18dfa91e31cf748f9f52b779f9ae8,7ffae0a2b02796d8e66fdbf0fa6e08b5,delivered,Produto enviado rapidamente. Chegou direitinho. Recomendo!,5.0,23.99,7.78,31.77,beleza_saude
+5f071a8534fb6805fa6ec902f04219e4,a13d2d3b615e7782205484d9c603cbe7,delivered,"Comprei o relógio todo preto, com fecho preto, porém veio com fecho prata, e comprei com nome MVTM escrito dentro do relógio, veio sem o nome, na foto fecho preto, e com nome MVTM, não veio assim",2.0,77.0,15.64,92.64,relogios_presentes
+d0a72f8bcc1f2045167eaa548647e77c,4f444b3b5cd86e70e2c49210020c5ba9,delivered,o produto e bom de mais!!!!,5.0,159.0,63.13,222.13,automotivo
+675bc8cd15e6b9225582b9161288670f,8a2d6290feaba2aea18c2b8a5a60cc32,delivered,"Produto de baixa qualidade, na foto engana bem, bota esquerdo não tem função, o digital somente funciona se vc aperta um dos dois botões da direita e logo apaga, instrução em inglês e chinês. ",1.0,249.0,9.9,258.9,relogios_presentes
+61898b3ad4d51459e014bc6d4c2e7166,a9b67ff10261665661f54c364e82d9b2,delivered,"Produto entregue antes do prazo, recomendadíssimo!",5.0,110.0,18.85,128.85,beleza_saude
+f76b895a9902ad634abed7eec3211a10,7ea778a6a19290dee846148b45c64f6b,delivered,"Fiquei satisfeito com o produto,a loja entregou todo certinho..indico a todos.",5.0,649.51,56.68,706.19,relogios_presentes
+b9f23a5c0cbae81d8a326804b0c7513d,02a7a75320e787aa980907d0f647e508,delivered,Muito ágil na entrega. ,5.0,50.0,15.1,65.1,automotivo
+6f209510f34ce1a8c89d11273039981d,3523a3beae4b3f9d398b0cf0b2bcb630,delivered,"recomendo, produto entregue no prazo, de boa qualidade, sem avarias",4.0,40.0,11.42,51.42,moveis_decoracao
+80b0f4fc350532f6e0ce9aa81ccde91c,d06f910929d7ece5e8090c5b4ef80b08,delivered,"realizei a compra, e não entregara!!! estou cancelando e espero ser reembolsada.",1.0,204.0,14.45,218.45,relogios_presentes
+3bb580c88504df63102b61f70164fb75,636f42c08bfabc00ce49edb5af4d4423,delivered,"O produto foi apenas testado e está funcionando. Espero que com o uso contínuo,no alto verão, ele corresponda as minhas expectativas.",5.0,249.9,69.21,319.11,cool_stuff
+714e2644ab665027234ed7a6b3e82274,a2ae1a05b2058776ab0138c75da742f8,delivered,produtos de qualidade,5.0,49.95,16.79,66.74,cama_mesa_banho
+c7172e1a6b8de65fbc6e9e77afda672d,b1aa70fb1fe24bb15603aba207510343,delivered,"Produto de boa qualidade, recebi no prazo estipulado.",5.0,65.0,15.2,80.2,market_place
+90e4c72e836cb3e0bea6a31fd981a346,3ce8f9a70471f7eb4e9f4de10402dbec,delivered,"Muito bonita a cortina, só deveria ser um pouco melhor o material desfia muito fácil ,mais pelo tá ótimo!!!",2.0,89.9,12.13,102.03,cama_mesa_banho
 8dbdb81783a3c754dc9441826510a36a,2d0c34b4b379c290f079d39df12304e2,delivered,"Faltou a nota fiscal que não chegou com o produto ,e nao esta no email, que informa 
- que já foi emitida ,e não recebi de maneira nem uma , fico no aguardo ...",4.0,102.9,14.3,portateis_cozinha_e_preparadores_de_alimentos
-5a88502f6bbc1f8c972aa98c64830616,2fdfe901849d16dcfd92d3d8f4c5def3,delivered,Recomendaria pois é super bom e os produtos chega antes da data prevista ja fiz várias compras e todas deu tudo certo,5.0,86.9,16.24,cama_mesa_banho
+ que já foi emitida ,e não recebi de maneira nem uma , fico no aguardo ...",4.0,102.9,14.3,117.2,portateis_cozinha_e_preparadores_de_alimentos
+5a88502f6bbc1f8c972aa98c64830616,2fdfe901849d16dcfd92d3d8f4c5def3,delivered,Recomendaria pois é super bom e os produtos chega antes da data prevista ja fiz várias compras e todas deu tudo certo,5.0,86.9,16.24,103.14,cama_mesa_banho
 efe9bd98be3cb5cb5c87e7ca27abe613,37751e1671512ad89943d1615b563b1d,delivered,"O prazo de entrega era até o dia 16/02.
-Até agora não recebi.",1.0,45.0,16.11,esporte_lazer
-cd81fccdeffb11e33de701e2c53c85c6,e07792fb0958a7d0faff87fb1aa58f8e,delivered,"Eu amei o produto, ele veio exatamente como na descrição, ou melhor 👏👏 prazo de entrega correntinho, antes até da data! Ameiii, super recomendo ",5.0,53.9,29.71,ferramentas_jardim
-1133f2dfc033ba92bf6c470b20f6f332,e583c743a5c26e0870b08e4e6efeac7f,delivered,Muito bacana essa atenção com o cliente. Parabéns!,5.0,34.99,18.23,fashion_bolsas_e_acessorios
-f5218a2401f92542f87b1de5bc3f92ff,997070d4812561b1a8ededcbb6c2429e,delivered,só acho que eles deveriam usar a msm postagem para entregas de produtos iguais... liberam 2 etiquetas para cobrar 2x o frete ai recebi 1 produto em 1d e o outro 7 dias depois,3.0,19.49,8.27,esporte_lazer
-f5218a2401f92542f87b1de5bc3f92ff,997070d4812561b1a8ededcbb6c2429e,delivered,só acho que eles deveriam usar a msm postagem para entregas de produtos iguais... liberam 2 etiquetas para cobrar 2x o frete ai recebi 1 produto em 1d e o outro 7 dias depois,3.0,19.49,8.27,esporte_lazer
-747996a66f5aa711deb8ae58f5ae46a0,ed1793d2d1e4175d5846ce7ebb4a01f5,delivered,Recebi bem antes do prazo informado e o produto é de qualidade. Veio devidamente embalado e com nota fiscal.,5.0,9.9,8.72,pet_shop
-08763574782690116475ea62ffdecadb,a2f475be29f915fa902863f62308df8f,delivered,Só realizei a compra pq chegava antes do Natal e até agora nada de chegar. ,5.0,69.99,15.25,brinquedos
-2d816b6a11ddd3843f307d1333321091,95303e4c9c23d67877e4b20afb04bfa8,delivered,"Recomendo a todos,produto perfeito,só encaixei no usb do pc e já conectou,com velocidade ótima,entrega foi super rápida,chegou antes do prazo.Estou super satisfeito.",5.0,18.9,7.78,informatica_acessorios
-0f02ea56e4c9e7d30adb19a0c3e07b02,010099752e4ca60e61c8a4a669ea9fe5,delivered,Produto conforme anunciado e entregue dentro do prazo.,4.0,69.9,16.12,esporte_lazer
-bceafe41324f7de517b199a7b4e2a074,86f9e3637836ff95e8e339223d2a136b,delivered,nota 1000,5.0,18.99,16.79,beleza_saude
-86e6162676905a8c6ad0bcbd7df8debe,9846fec8bc074e976b741b9d766afded,delivered,Site confiável e chegou antes do prazo,5.0,25.5,15.1,cama_mesa_banho
-91d7491c6b0eada151a7e307697841bc,baa9fd7c59cbbfb067439f4ecd72e848,delivered,"marcadores maravilhosos, produto entregue antes do prazo.",5.0,66.0,7.72,papelaria
-dd480c63548e3c0b7219520e3784ebd2,a83a89abd16a03e6376fb659ca7b6612,delivered,Câmera com defeito estou tentando entrar em contato para troca ou devolução não consigo .,1.0,186.0,15.47,ferramentas_jardim
-a2fc0d6559cd85b95e1a02c8d97d55ec,2bdb2502a9b89d8f94ccf1ef7a9f0292,delivered,Comprei em um dia e recebi no outro!,5.0,19.99,7.39,informatica_acessorios
-760312f5735ee281f01e56d5ddee05e3,4b003ee1eabaffe8ff8e6d75394a9b42,delivered,"Comprei duas manta so foi entregue uma,e na nota fiscal veio emitida as 2 manta king",2.0,74.99,25.58,cama_mesa_banho
-760312f5735ee281f01e56d5ddee05e3,4b003ee1eabaffe8ff8e6d75394a9b42,delivered,"Comprei duas manta so foi entregue uma,e na nota fiscal veio emitida as 2 manta king",2.0,74.99,25.58,cama_mesa_banho
+Até agora não recebi.",1.0,45.0,16.11,61.11,esporte_lazer
+cd81fccdeffb11e33de701e2c53c85c6,e07792fb0958a7d0faff87fb1aa58f8e,delivered,"Eu amei o produto, ele veio exatamente como na descrição, ou melhor 👏👏 prazo de entrega correntinho, antes até da data! Ameiii, super recomendo ",5.0,53.9,29.71,83.61,ferramentas_jardim
+1133f2dfc033ba92bf6c470b20f6f332,e583c743a5c26e0870b08e4e6efeac7f,delivered,Muito bacana essa atenção com o cliente. Parabéns!,5.0,34.99,18.23,53.22,fashion_bolsas_e_acessorios
+f5218a2401f92542f87b1de5bc3f92ff,997070d4812561b1a8ededcbb6c2429e,delivered,só acho que eles deveriam usar a msm postagem para entregas de produtos iguais... liberam 2 etiquetas para cobrar 2x o frete ai recebi 1 produto em 1d e o outro 7 dias depois,3.0,19.49,8.27,55.52,esporte_lazer
+f5218a2401f92542f87b1de5bc3f92ff,997070d4812561b1a8ededcbb6c2429e,delivered,só acho que eles deveriam usar a msm postagem para entregas de produtos iguais... liberam 2 etiquetas para cobrar 2x o frete ai recebi 1 produto em 1d e o outro 7 dias depois,3.0,19.49,8.27,55.52,esporte_lazer
+747996a66f5aa711deb8ae58f5ae46a0,ed1793d2d1e4175d5846ce7ebb4a01f5,delivered,Recebi bem antes do prazo informado e o produto é de qualidade. Veio devidamente embalado e com nota fiscal.,5.0,9.9,8.72,18.62,pet_shop
+08763574782690116475ea62ffdecadb,a2f475be29f915fa902863f62308df8f,delivered,Só realizei a compra pq chegava antes do Natal e até agora nada de chegar. ,5.0,69.99,15.25,85.24,brinquedos
+2d816b6a11ddd3843f307d1333321091,95303e4c9c23d67877e4b20afb04bfa8,delivered,"Recomendo a todos,produto perfeito,só encaixei no usb do pc e já conectou,com velocidade ótima,entrega foi super rápida,chegou antes do prazo.Estou super satisfeito.",5.0,18.9,7.78,26.68,informatica_acessorios
+0f02ea56e4c9e7d30adb19a0c3e07b02,010099752e4ca60e61c8a4a669ea9fe5,delivered,Produto conforme anunciado e entregue dentro do prazo.,4.0,69.9,16.12,86.02,esporte_lazer
+bceafe41324f7de517b199a7b4e2a074,86f9e3637836ff95e8e339223d2a136b,delivered,nota 1000,5.0,18.99,16.79,35.78,beleza_saude
+86e6162676905a8c6ad0bcbd7df8debe,9846fec8bc074e976b741b9d766afded,delivered,Site confiável e chegou antes do prazo,5.0,25.5,15.1,40.6,cama_mesa_banho
+91d7491c6b0eada151a7e307697841bc,baa9fd7c59cbbfb067439f4ecd72e848,delivered,"marcadores maravilhosos, produto entregue antes do prazo.",5.0,66.0,7.72,73.72,papelaria
+dd480c63548e3c0b7219520e3784ebd2,a83a89abd16a03e6376fb659ca7b6612,delivered,Câmera com defeito estou tentando entrar em contato para troca ou devolução não consigo .,1.0,186.0,15.47,201.47,ferramentas_jardim
+a2fc0d6559cd85b95e1a02c8d97d55ec,2bdb2502a9b89d8f94ccf1ef7a9f0292,delivered,Comprei em um dia e recebi no outro!,5.0,19.99,7.39,27.38,informatica_acessorios
+760312f5735ee281f01e56d5ddee05e3,4b003ee1eabaffe8ff8e6d75394a9b42,delivered,"Comprei duas manta so foi entregue uma,e na nota fiscal veio emitida as 2 manta king",2.0,74.99,25.58,201.14,cama_mesa_banho
+760312f5735ee281f01e56d5ddee05e3,4b003ee1eabaffe8ff8e6d75394a9b42,delivered,"Comprei duas manta so foi entregue uma,e na nota fiscal veio emitida as 2 manta king",2.0,74.99,25.58,201.14,cama_mesa_banho
 eb7aac057d7c17adb860b770451ae250,74df30b888082a6cfaeb6bbee623e6a2,delivered,"Efetuei a compra de suas estantes, no entanto, apesar da rapidez na entrega, somente recebi uma delas. 
-Requeiro pelo presente a entrega do segundo produto. ",2.0,103.99,60.42,moveis_sala
+Requeiro pelo presente a entrega do segundo produto. ",2.0,103.99,60.42,328.82,moveis_sala
 eb7aac057d7c17adb860b770451ae250,74df30b888082a6cfaeb6bbee623e6a2,delivered,"Efetuei a compra de suas estantes, no entanto, apesar da rapidez na entrega, somente recebi uma delas. 
-Requeiro pelo presente a entrega do segundo produto. ",2.0,103.99,60.42,moveis_sala
-92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,cool_stuff
-92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,cool_stuff
-92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,cool_stuff
-92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,cool_stuff
-92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,cool_stuff
-92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,cool_stuff
-92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,cool_stuff
-92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,cool_stuff
-92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,cool_stuff
-92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,cool_stuff
-92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,cool_stuff
-92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,cool_stuff
-939e85580cc5404abd2ba9df25330fb8,df059d8e5672ffde042a480870e4fbea,delivered,Tudo perfeito como pedi.,5.0,39.6,17.6,utilidades_domesticas
-d8a7be3bdd16ebaf4601bc8252f54a08,0308cb020fb67d56a42bf1296f77dfce,delivered,"Chegou antes do prazo, porém percebi q o zíper da parte menor na primeira vez ele nao abriu o feixe, mas da segunda em diante abriu, caso o feixe abra novamente entro em contato com a loja.",5.0,119.99,8.1,automotivo
-a062c240bb299fa3f0ce55cf05ec8390,c305a666dd035c61be69f500d3a2ea36,delivered,Bons produtos até hoje todos os meus pedidos recebi dentro do prazo e atenderam as expectativas ,3.0,59.0,18.51,automotivo
+Requeiro pelo presente a entrega do segundo produto. ",2.0,103.99,60.42,328.82,moveis_sala
+92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,7.64,cool_stuff
+92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,25.0,cool_stuff
+92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,0.14,cool_stuff
+92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,25.0,cool_stuff
+92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,7.64,cool_stuff
+92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,25.0,cool_stuff
+92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,0.14,cool_stuff
+92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,25.0,cool_stuff
+92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,7.64,cool_stuff
+92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,25.0,cool_stuff
+92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,0.14,cool_stuff
+92a9ef7f0a0d392c9ad0d5f44e86b4ba,4d8c75952e09254a602a3a059d0ac367,delivered,"Os fones vieram jogados e as caixinhas em cada embalagem individual, nao gostei do produto ,achei de baixa qualidade.",3.0,11.87,7.39,25.0,cool_stuff
+939e85580cc5404abd2ba9df25330fb8,df059d8e5672ffde042a480870e4fbea,delivered,Tudo perfeito como pedi.,5.0,39.6,17.6,57.2,utilidades_domesticas
+d8a7be3bdd16ebaf4601bc8252f54a08,0308cb020fb67d56a42bf1296f77dfce,delivered,"Chegou antes do prazo, porém percebi q o zíper da parte menor na primeira vez ele nao abriu o feixe, mas da segunda em diante abriu, caso o feixe abra novamente entro em contato com a loja.",5.0,119.99,8.1,128.09,automotivo
+a062c240bb299fa3f0ce55cf05ec8390,c305a666dd035c61be69f500d3a2ea36,delivered,Bons produtos até hoje todos os meus pedidos recebi dentro do prazo e atenderam as expectativas ,3.0,59.0,18.51,77.51,automotivo
 af42887f85d980291a066176c4d13709,8f0b436a1be5cd29776f9ddb3bef133a,delivered,"Produto foi entregue com muita demora
-",2.0,35.9,14.1,bebes
+",2.0,35.9,14.1,100.0,bebes
 af42887f85d980291a066176c4d13709,8f0b436a1be5cd29776f9ddb3bef133a,delivered,"Produto foi entregue com muita demora
-",2.0,35.9,14.1,fashion_calcados
-1f3fcd02b6ab99b6b499dcd412076175,4f0986f70a792beba9dcbf15c32ecd87,delivered,Os detalhes do produto e o acompanhamento da entrega deixam a desejar !,3.0,145.0,9.76,informatica_acessorios
-1cbcc355e275e5143ab1dbf260ca14f1,1110eb4465d18a9b7c632cfc80fb53ab,delivered,Recebi corretamente o produto,3.0,6.0,8.72,utilidades_domesticas
-5711d8a02451fd508dc8911ee1fb4ac9,1181d20ba074543832905275fd087e73,delivered,"Tudo certo, só derramou um pouquinho do produto na embalagem. Ou estava um pouco suja a caixa. Não sei ao certo",5.0,199.0,18.1,beleza_saude
-9b2fa9acfe395734a133a58bcbfb9776,aeb0c5aea1d62b3e494a86bad308f85e,delivered,Chegou bem antes do proposto,5.0,185.0,19.76,
-9b2fa9acfe395734a133a58bcbfb9776,aeb0c5aea1d62b3e494a86bad308f85e,delivered,Chegou bem antes do proposto,5.0,89.9,23.71,esporte_lazer
-4f32c93f66aadbd682294f5cedde7c18,3ca18278aa462567e7bb52302cff31c4,delivered,Entregou no prazo! ,5.0,199.0,38.08,cool_stuff
-8736140c61ea584cb4250074756d8f3b,ab8844663ae049fda8baf15fc928f47f,delivered,"custo beneficio, simples de usar e rápido",5.0,75.9,7.79,bebes
-39ca4fbb87367cf7440fc32125b86202,d43f72374abc7601531c7c806e7af444,delivered,"Entregou antes do prazo, bem embalado e ainda com embalagem reciclada, mostrando preocupação com meio ambiente.",5.0,28.0,10.96,esporte_lazer
-e5e7f892785fbe21a339bcd77efdae86,eb14560bdf0397941f4146f43f653496,delivered,Ótimo produto é boa qualidade.... indico para todos comprar hein,5.0,74.9,8.72,moveis_decoracao
+",2.0,35.9,14.1,100.0,fashion_calcados
+1f3fcd02b6ab99b6b499dcd412076175,4f0986f70a792beba9dcbf15c32ecd87,delivered,Os detalhes do produto e o acompanhamento da entrega deixam a desejar !,3.0,145.0,9.76,154.76,informatica_acessorios
+1cbcc355e275e5143ab1dbf260ca14f1,1110eb4465d18a9b7c632cfc80fb53ab,delivered,Recebi corretamente o produto,3.0,6.0,8.72,14.72,utilidades_domesticas
+5711d8a02451fd508dc8911ee1fb4ac9,1181d20ba074543832905275fd087e73,delivered,"Tudo certo, só derramou um pouquinho do produto na embalagem. Ou estava um pouco suja a caixa. Não sei ao certo",5.0,199.0,18.1,217.1,beleza_saude
+9b2fa9acfe395734a133a58bcbfb9776,aeb0c5aea1d62b3e494a86bad308f85e,delivered,Chegou bem antes do proposto,5.0,185.0,19.76,318.37,
+9b2fa9acfe395734a133a58bcbfb9776,aeb0c5aea1d62b3e494a86bad308f85e,delivered,Chegou bem antes do proposto,5.0,89.9,23.71,318.37,esporte_lazer
+4f32c93f66aadbd682294f5cedde7c18,3ca18278aa462567e7bb52302cff31c4,delivered,Entregou no prazo! ,5.0,199.0,38.08,237.08,cool_stuff
+8736140c61ea584cb4250074756d8f3b,ab8844663ae049fda8baf15fc928f47f,delivered,"custo beneficio, simples de usar e rápido",5.0,75.9,7.79,83.69,bebes
+39ca4fbb87367cf7440fc32125b86202,d43f72374abc7601531c7c806e7af444,delivered,"Entregou antes do prazo, bem embalado e ainda com embalagem reciclada, mostrando preocupação com meio ambiente.",5.0,28.0,10.96,38.96,esporte_lazer
+e5e7f892785fbe21a339bcd77efdae86,eb14560bdf0397941f4146f43f653496,delivered,Ótimo produto é boa qualidade.... indico para todos comprar hein,5.0,74.9,8.72,83.62,moveis_decoracao

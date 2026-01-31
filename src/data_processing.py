@@ -28,6 +28,7 @@ def load_and_merge_data(path='data/'):
         'review_score',            # Target (Label)
         'price',                   # Tabular Input
         'freight_value',           # Tabular Input
+        'payment_value',
         'product_category_name'    # Categorical Input
     ]]
 
